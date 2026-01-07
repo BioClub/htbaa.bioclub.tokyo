@@ -12,6 +12,10 @@ github = 'https://github.com/owner/repo'
 [security]
   enableInlineShortcodes = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
 [build]
   [build.buildStats]
     enable = true
@@ -21,6 +25,7 @@ github = 'https://github.com/owner/repo'
   [[build.cachebusters]]
     source = '(postcss|tailwind)\.config\.js'
     target = 'css'
+    
 [module]
   [[module.mounts]]
     source = 'assets'
