@@ -18,8 +18,8 @@ Content lives in the `content` directory
 
 `brew upgrade hugo`
 
-#### Tailwind CLI
+#### ~~Tailwind CLI~~
 
-- Install [Tailwind CLI](https://gohugo.io/functions/css/tailwindcss/)
-- Use `npm` 20+ or latest LTS release
-- Switch Node environments with `nvm use --lts`
+- ~~Install [Tailwind CLI](https://gohugo.io/functions/css/tailwindcss/)~~
+- ~~Use `npm` 20+ or latest LTS release~~
+- ~~Switch Node environments with `nvm use --lts`~~
