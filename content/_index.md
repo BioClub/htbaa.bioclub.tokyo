@@ -3,45 +3,94 @@ title = 'Index'
 draft = false
 +++
 
-### Class & Homework Reviews for students in the Asia/Oceania Timezones. *Everyone is welcome!*
+Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one of the Global Nodes of the growing HTGAA Network. Lectures and Recitations are shared globally from the MIT Course 'How to Grow Almost Anything', each node will organize additional Class & Homework Reviews sessions, as well as hands-on experiments in the lab of the local node.
 
-{{< callout caution "Reminder">}}
-*All information* about classes, recitations, homework, etc is on the HTGAA 2025 Global site: [https://2025.htgaa.org](https://2025.htgaa.org).
+# Application Form for HTGAA 2026
+
+David Kong shared the [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8) for the *How to Grow (Almost) Anything 2026* Course on his [Instagram](https://www.instagram.com/p/DTIx5mvgBgr/), [X](https://x.com/davidsunkong/status/2008282342087934353) and [LinkedIn](https://www.linkedin.com/posts/davidsunkong_syntheticbiology-htgaa-synbio-activity-7414010660658946049-xWM9/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAADTOVcBe1e_ZpiJ2AotNm5FnUIlRuXWV44) accounts.
+
+
+{{< callout caution "Application Form">}}
+[Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8), Deadline: January 16th 2026, 23:59 ET
 {{< /callout >}}
 
-### Schedule
+Please take your time and think carefully about your **Statement of Interest** in the Application Form. We want to know:
+
+ - *Why do you want to be a part of this course?*
+ - *What do you hope to get out of it?* 
+ 
+ Please make use of the 2000 characters and please don't write short or AI-generated responses. These *Statements* **will** be read by the Global TAs and Course Organizers, if we feel - based on the **Statement of Interest** - that the applicant is not a good fit for the course, we will not accept them.
+
+## Application Timeline
+
+1. *Submit Application Form in-time*
+2. *Participate Bio Bootcamp*
+3. *Go to Class & Recitation, Week 1*
+4. *Do Homework → Committed Listener → Change to earn a Certificate*
+5. *No Homework → Global Listener*
+
+Attendance will be taken at Classes, Recitations and Reviews. 
+
+# Global Bio Bootcamp
+
+Prior to the start of the HTGAA we will organise a Bio Bootcamp, to get everyone oriented and up to speed. It is recommened for everyone.
+
+|   Bio Bootcamp  |  Date   |
+| :-- | --- |
+| **Bio Bootcamp, Day 1**    | Monday, January 19th, 9am-12p ET |
+| **Bio Bootcamp, Day 2**    | Wednesday, January 21st, 9am-12p ET |
+| **Bio Bootcamp, Day 3**    | Friday, January 23th, 9am-12p ET |
+
+More about [HTGAA 2026 BioBootCamp](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6). Includes links to Slides, Recordings and Resources.
+
+In addition to the Bootcamp Lectures, we will also offer *BootCamp Office Hours*, where you can get in touch with Global TAs and ask general and specific questions.
+
+|   Bio Bootcamp Office Hours  |  Date   |
+| :-- | --- |
+| **Bio Bootcamp Office Hours, Day 1**    | Tuesday January 20th, 6AM - 8AM & 3PM - 5PM ET |
+| **Bio Bootcamp Office Hours, Day 2**    | Thursday, January 22nd, 6AM - 8AM & 3PM - 5PM ET |
+| **Bio Bootcamp Office Hours, Day 3**    | Monday, January 26th, 6AM - 8AM & 3PM - 5PM ET |
+
+Please indicate in the Application Form, which *Office Hours* you want to join!
+
+It is not necessary to come to *all* the Office Hours. If you are interested in a more information about HTGAA@BioClub, please join our [BioClub Discord Server](https://discord.bioclub.tokyo), and there the `#htgaa` channel.
+
+# Global Schedule
+
 - **Class:** Tuesdays 14:00-17:00 ET at MIT Zoom
 - **Recitation:** Wednesdays 17:00-18:00 ET at MIT Zoom
+
+# BioClub Schedule
+
 - **BioClub Tokyo Class Reviews:** Thursdays 21:00-22:00 JST at BioClub Zoom
 - **BioClub Tokyo Homework Reviews:** Mondays 21:00-22:00 JST at BioClub Zoom
 
-### Up Next
-
-
-
-{{< callout info "HTGAA 2025 Recitation #2.5">}}
-February 19th, 5-6pm ET (= February 20th, 07:00 - 08:00 JST) @MIT Zoom Link
+{{< callout caution "Info">}}
+*Committed Listeners* are expected to watch and particate in all Weekly Classes, Recitations and Reviews.
 {{< /callout >}}
 
-{{< callout info "BioClub HTGAA Class Review #2.5">}}
-February 20th (月) , 21:00 - 22:00 JST @BioClub Zoom Link
-Everyone is welcome! 😀 *Be prepared to share & present your homework within 5 min!*
-{{< /callout >}}
+# _Committed Listener vs Global Listener?_
 
-{{< callout info "BioClub HTGAA Homework Review #2.5">}}
-February 24th (月), 21:00 - 22:00 JST @BioClub Zoom Link
-Everyone is welcome! 😀 *Be prepared to share & present your homework within 5 min!*
-{{< /callout >}}
+A **Committed Listener** is a Listener that commits to the course. CLs are expected to:
 
-{{< callout info "HTGAA 2025 Class #3">}}
-February 25th, 2-5pm ET (= February 26th, 04:00 - 07:00 JST) @MIT Zoom Link
-{{< /callout >}}
+- **Watch every Class & Recitation**
+- **Submit the Weekly Homework in time**
+- **Participate actively in the Node Review Sessions**
+- **Do and present a _Final Project_**
+
+CLs will get access to the Global TAs, to the git-based Documentation Server, and to the HTGAA-internal Sommunication Servers. If a CLs completes all the homework, has recorded sufficient attendance and presented a Final Project, they are elegible for a *Certificate of Completion*.
+
+The time budget needed for a CL is about 15-20 hours / week.
+
+**Global Listeners** are welcome to watch the Lectures and Recitations and they are welcome to make the Homework on the own time. They can not get *Certificate of Completion*. 
+We understand, that the content is dense and complex, and doing the homework takes time and energy.Many HTGAA participants take more than one cycle to complete the course.
+
 
 # About HTGAA 2025 @BioClub Tokyo
 
 Welcome to How To Grow (Almost) Anything 2025 at BioClub Tokyo!
 
-This page is for students who are interested in participating in online review sessions and/or in-person experiments for [HTGAA 2025](https://2025.htgaa.org) at BioClub Tokyo in Japan.
+This page is for students who are interested in participating in online review sessions and/or in-person experiments for HTGAA 2026 at BioClub Tokyo in Japan.
 
 We also aim to perform the same hands-on laboratory work as the students at MIT & Harvard!
 
@@ -51,7 +100,7 @@ HTGAA nodes are offering additional review and study meetings to offset the time
 
 Online support will also be given through the **BioClub Tokyo Class Reviews** every Thursday at 21:00 JST and the **BioClub Tokyo Homework Reviews** every Monday at 21:00.
 
-{{< callout time "The review sessions are open to any and all participants of HTGAA.">}}
+{{< callout time "The review sessions are also open to Committed Listerners and Global TAs of HTGAA.">}}
 {{< /callout >}}
 
 
@@ -60,6 +109,7 @@ Online support will also be given through the **BioClub Tokyo Class Reviews** ev
 | **Class Review**    | Every Thursday at 21:00 JST |
 | **Homework Review** | Every Monday at 21:00 JST |
 
+<!--
 # Recordings
 
 This is an overview of the classes, recitations and BioClub review recordings. For more detailed info about homework and reading lists, please visit the [2025 HTGAA Main Site](https://2025.htgaa.org/).
@@ -76,6 +126,8 @@ This is an overview of the classes, recitations and BioClub review recordings. F
 *⁴ Preparing…*  </small>
 
 [Chat Notes](notes) from the Review Sessions.
+
+
 
 # BioClub Tokyo *Global TAs*
 
@@ -95,6 +147,7 @@ This is an overview of the classes, recitations and BioClub review recordings. F
   *Anyone else?*  
   {{< /div >}}
 {{< /grid >}}
+
 
 
 # BioClub Tokyo *Committed Listeners*
@@ -160,51 +213,46 @@ This is an overview of the classes, recitations and BioClub review recordings. F
 If you name is not on this list, it means you either have not joined a BioClub Session or you did not make a Slack Account. Please ping me at **#2025-nodes-bioclub** once you have your Slack Account. We will then add you to the list.
 {{< /callout >}}
 
+
 # BioClub Tokyo Node Info
 
 [BioClub Node Info](info)
 
+-->
 # BioClub Tokyo *In-Person Study Meetings*
 
-In-person meetings & workshops at BioClub in Tokyo to be determined. Please check the [BioClub Discord](https://discord.bioclub.tokyo) `#htgaa` channel for details.
+In-person meetings & workshops at BioClub in Tokyo are to be determined. Please check the [BioClub Discord](https://discord.bioclub.tokyo) `#htgaa` channel for details.
 
 # Laboratory Exercises
 
-*Updates for 2025 forthcoming.*
+*Updates for 2026 forthcoming.*
 
 We aim to conduct the same experiments at the main HTGAA course at MIT/Harvard. Stay tuned for ways to participated.
 
-### 2024 Labs
-
-- [🎨 Lab 2: Gel Art - Restriction Digests and Gel Electrophoresis](2024/labs/02)
 
 # Lab & Material Fees at BioClub Tokyo
 
 Participation in the Global HTGAA online course is free of charge. If you want to conduct hands-on experiments at BioClub Tokyo we will ask you to financially contribute to the reagents and materials.
 
-For the 2025 course we will split the hands-on experiment into separate workshops. The participation fee for each workshop depends on the reagents and materials needed to run the workshops.
+For the 2026 course we will split the hands-on experiment into separate workshops. The participation fee for each workshop depends on the reagents and materials needed to run the workshops.
 
 Workshop times can be adjusted to the availability of Committed Listeners at BioClub Tokyo.
-
-# Bootcamp
-
-[HTGAA 2025 BioBootCamp](https://docs.google.com/document/d/1YhwSAjz6cwbYmRG7y1h-YYZSjI_454Sk-KV6XmEUrdk/edit?tab=t.0#heading=h.n8qkvrhzqg0m). Includes links to Slides, Recordings and Resources.
 
 
 # Questions & Answers
 
-**日本語で参加できますか？**  
+- **日本語で参加できますか？**  
 講義と宿題は英語で書く必要がある。日本語での会話は可能ですが、主なコミュニケーション言語は英語になります。
 
-**Can I join the HTGAA experiments for free?**  
+- **Can I join the HTGAA experiments for free?**  
 You can join the Global HTGAA for free, but for the experiments at BioClub you need to contribute financially so we can cover the materials, reagents and instructor time.
 
-**Do I need to be a Committed Listener to participate in the experiments?**
+- **Do I need to be a Committed Listener to participate in the experiments?**
 You don’t need to be a Committed Listener, but it is highly recommended. The learning curve is quite steep, if you don’t have an bio background expect to study for about 20-30 hours/week.
 
-**How is HTGAA related to HTMAA & FabAcademy?**
-HTGAA shares its ideas and goal with HTMAA and the FabAcademy. HTGAA uses a different structure, participation in the global course is free - where participation in the FabAcademy costs $5,000. (~¥740,000 in 2025/1).
+- **How is HTGAA related to HTMAA & FabAcademy?**
+HTGAA shares its ideas and goal with HTMAA and the FabAcademy. HTGAA uses a different structure, participation in the global course is free - where participation in the FabAcademy costs $5,000. (~¥780,000 in 2026/1).
 
-**Why no HTGAA Asia & Oceania in 2025?**
-The HTGAA Asia & Oceania Review sessions in 2024 were a self-organised response to the difficult lecture times of the main HTGAA lectures and recitation, organised by Georg (BioClub Tokyo), Austin & Elaine.
-For 2025 the concept of Global HTGAA nodes was introduced, BioClub Tokyo is one of these nodes. We will continue organising Class & Homework reviews, only for 2025 they are called BioClub Tokyo Class & Homework Reviews, instead of HTGAA Asia Class & Homework Reviews.
+- **Why is there no HTGAA Asia & Oceania in 2026?**
+The HTGAA Asia & Oceania Review sessions in 2024 were a self-organised response to the chanllenging lecture times of the main HTGAA lectures and recitation, organised by Georg (BioClub Tokyo), Austin & Elaine.
+For 2025 the concept of Global HTGAA nodes was introduced, BioClub Tokyo is one of these nodes. We will continue organising Class & Homework reviews, only for 2026 they are called BioClub Tokyo Class & Homework Reviews, instead of HTGAA Asia Class & Homework Reviews.
