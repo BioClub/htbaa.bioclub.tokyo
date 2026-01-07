@@ -1,9 +1,4 @@
 
-/* Tailwind */
-@import "tailwindcss";
-@source "hugo_stats.json";
-
-
 /* Begin Typography & Colors */
 body {
   font-size: 62.5%; /* Resets 1em to 10px */

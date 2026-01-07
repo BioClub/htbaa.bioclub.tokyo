@@ -4,13 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-<!--
 {{ with resources.Get "/css/main.css" }}<link rel="stylesheet" href="{{ .RelPermalink }}">{{ end }}
 {{ with resources.Get "/css/default.css" }}<link rel="stylesheet" href="{{ .RelPermalink }}">{{ end }}
--->
-{{ with (templates.Defer (dict "key" "global")) }}
-  {{ partial "css.html" . }}
-{{ end }}
 </head>
 <body>
 
