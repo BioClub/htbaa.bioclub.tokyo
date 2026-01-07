@@ -1,0 +1,4 @@
+<div class="grid grid{{ if .Get "columns" }}{{ .Get "columns" }}{{ end }}
+">
+{{ .Inner | markdownify}}
+</div>

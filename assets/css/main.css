@@ -1,0 +1,471 @@
+
+/* Tailwind */
+@import "tailwindcss";
+@source "hugo_stats.json";
+
+
+/* Begin Typography & Colors */
+body {
+  font-size: 62.5%; /* Resets 1em to 10px */
+  /* font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif; */
+  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 400;
+  font-style: normal;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+#headerimage {
+  width: 100%;
+}
+#page {
+  text-align: left;
+  margin: 0em auto;
+  padding: 0.5em;
+  max-width: 960px;
+  font-size: 1.75em; /* general fontsize multiplicator */
+}
+
+#header {
+  padding-bottom: 2em;
+  text-align: left;
+}
+
+#content {
+}
+
+#content p {
+  margin-block-start: 0.75em;
+  margin-block-end: 0.75em;
+}
+
+#page table th, #page table td {
+  padding: 0.4em;
+  border: 1px solid #ddd;
+}
+#page table {
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+#footer {
+  border: none;
+}
+
+.admonition {
+  padding: 0.75em 1em;
+  border-radius: 0.5em;
+  line-height: 1.5em;
+  margin: 1.5em 0;
+  border: 1px solid #ccc;
+}
+.admonition .title {
+  font-weight: 600;
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
+.admonition.tips { background-color: #FFc; color: #000; }
+.admonition.tips .title::before { content: '💡 '; }
+
+.admonition.caution {
+  background-color: #FFA;
+  border: 1px solid #dd9;
+  color: #000;
+}
+.admonition.caution .title::before { content: '⚠️ '; }
+
+.admonition.info { border: 1px solid #ccc;}
+.admonition.info .title::before { content: 'ℹ︎ '; }
+
+.admonition.time {
+  background-color: #FCF;
+  border: 1px solid #F7F;
+}
+.admonition.time .title::before { content: '⏰ '; }
+
+#page table {
+  width: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.grid, .grid2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.25em;
+}
+.grid3 { grid-template-columns: repeat(3, 1fr); }
+.grid4 { grid-template-columns: repeat(4, 1fr); }
+.grid5 { grid-template-columns: repeat(5, 1fr); }
+
+
+small {
+  font-size: 0.75em;
+  line-height: 1.5em;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  color: #333;
+}
+
+h1 {
+  font-size: 2.0em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.35em;
+}
+
+#header {
+  font-weight: 700;
+}
+#header #description {
+  font-size: 1.5em;
+}
+#header #title {
+  font-size: 3em;
+}
+
+
+
+
+/* Links */
+
+a, a:visited {
+  color: #40f;
+  background: none;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  background: #40f;
+  text-decoration: none;
+}
+a:active {
+  color: #40f;
+  background: #40f;
+}
+
+/* End Links */
+
+ul li {
+  line-height: 1.5em;
+}
+
+
+small, #sidebar ul ul li, #sidebar ul ol li, .nocomments, .postmetadata, blockquote, strike {
+  color: #777;
+}
+
+code {
+  font: 0.9em 'Menlo', 'Courier New', Courier, Fixed;
+  background: #f2efec;
+}
+
+acronym, abbr, span.caps {
+  font-size: 0.9em;
+  letter-spacing: .07em;
+}
+
+
+
+
+/* Begin Structure */
+
+
+
+
+.post {
+  margin: 0 0 40px;
+}
+
+.post hr {
+  display: block;
+}
+
+.post .id {
+  width: 85px;
+  margin-left: -90px;
+  margin-right: 5px;
+  text-align: right;
+  float: left;
+}
+
+.narrowcolumn .postmetadata {
+  padding-top: 5px;
+}
+
+.postmetadata {
+  clear: both;
+}
+
+.clear {
+  clear: both;
+}
+
+#footer {
+  margin-top: 10em;
+  color: #ccc;
+  text-align: center;
+}
+
+/* End Structure */
+
+
+
+
+
+/* Begin Lists
+
+  Special stylized non-IE bullets
+  Do not work in Internet Explorer, which merely default to normal bullets. */
+
+html>body .entry ul {
+  margin-left: 0px;
+  padding: 0 0 0 30px;
+  list-style: none;
+  padding-left: 10px;
+  text-indent: -10px;
+}
+
+html>body .entry li {
+  margin: 7px 0 8px 10px;
+}
+
+
+
+.entry ol {
+  padding: 0 0 0 35px;
+  margin: 0;
+}
+
+.entry ol li {
+  margin: 0;
+  padding: 0;
+}
+
+.postmetadata ul, .postmetadata li {
+  display: inline;
+  list-style-type: none;
+  list-style-image: none;
+}
+
+#sidebar ul, #sidebar ul ol {
+  margin: 0;
+  padding: 0;
+}
+
+#sidebar ul li {
+  font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+  list-style-type: none;
+  list-style-image: none;
+  margin-bottom: 15px;
+}
+
+#sidebar ul p, #sidebar ul select {
+  margin: 5px 0 8px;
+}
+
+#sidebar ul ul, #sidebar ul ol {
+  margin: 5px 0 0 0px;
+}
+
+#sidebar ul ul ul, #sidebar ul ol {
+  margin: 0 0 0 0px;
+}
+
+ol li, #sidebar ul ol li {
+  list-style: decimal outside;
+}
+
+#sidebar ul ul li, #sidebar ul ol li {
+  margin: 3px 0 0;
+  padding: 0;
+}
+/* End Entry Lists */
+
+
+
+
+
+/* Begin Sidebar */
+#sidebar {
+  padding: 23px 0 10px 0;
+  margin-left: 675px;
+  width: 190px;
+}
+
+#sidebar .id {
+  width: 47px;
+  margin-left: -50px;
+  margin-right: 3px;
+  text-align: right;
+  float: left;
+}
+
+/* End Sidebar */
+
+
+
+
+
+
+
+
+hr {
+  display: none;
+}
+
+a img {
+  border: none;
+}
+
+
+/* Related Posts */
+
+.related {
+  font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+  padding-top:10px;
+}
+.related a, .related a:visited  {
+  color: #f00;
+}
+
+.related a:hover {
+  color: #fff;
+  background: #f00
+}
+
+.related a:active {
+  color: #f00;
+  background: #f00
+}
+
+
+.tags {
+  font-family: "Menlo", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.7em;
+  line-height: 2em;
+}
+.narrowcolumn .tags {
+  padding-bottom: 5em;
+}
+.tags a, .tags a:visited {
+  color: #09f;
+  background: #fff;
+  padding: 2px 8px 2px 4px;
+  border: #09f 1px solid;
+  border-radius: 3px 15px 15px 3px;
+}
+.tags a:hover {
+  color: #fff;
+  background: #f0f;
+}
+.tags a:active {
+  color: #fff;
+  background: #07c;
+}
+
+#sidebar .tags {
+  padding-top: 2px;
+}
+.menlo {
+  font-family: "Menlo", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.navigation {
+  font-size: 2em;
+}
+
+/* End Various Tags & Classes*/
+
+
+
+
+
+.bold {
+  font-weight: bold;
+}
+
+.wrap {
+  text-wrap: wrap;
+}
+/* colors */
+
+.gray   { color: #ccc; }
+.red   { color: #f00; }
+.brown   { color: #963; }
+.blue   { color: #00f; }
+.green   { color: #0f0; }
+.magenta   { color: #f0f; }
+
+
+.edit a, .edit a:visited  {
+  color: #fff;
+}
+
+.edit a:hover {
+  color: #fff;
+  background: #f00;
+}
+.edit a:active {
+  color: #f00;
+  background: #0f0;
+}
+
+
+.helvetica {
+  font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+}
+
+
+/* highlight.js */
+code .class,
+code .literal,
+code .titlename {
+  color: #3465a4;
+}
+code .comment {
+  color: #4e9a06;
+}
+code .keyword {
+  color: #204187;
+  font-weight: bold;
+}
+code .escape,
+code .symbol,
+code .escape,
+code .tag {
+  color: #a40000;
+}
+code .value,
+code .preprocessor,
+code .method,
+code .javascript {
+  color: #2e3436;
+}
+code .string,
+code .regexp {
+  color: #8f5902;
+}
+code .params,
+code .attribute,
+code .number {
+  color: #5c3566;
+}
+
+
+.update {
+  font-style: italic;
+  font-size: 0.8em;
+}

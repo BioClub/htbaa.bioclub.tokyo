@@ -1,0 +1,31 @@
+baseURL = 'https://htgaa.bioclub.tokyo/'
+languageCode = 'en-us'
+title = 'HTGAA @BioClub Tokyo'
+github = 'https://github.com/owner/repo'
+
+# https://gohugo.io/getting-started/configuration-markup/
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+[markup.goldmark.renderer]
+  unsafe = true
+
+[security]
+  enableInlineShortcodes = true
+
+[build]
+  [build.buildStats]
+    enable = true
+  [[build.cachebusters]]
+    source = 'assets/notwatching/hugo_stats\.json'
+    target = 'css'
+  [[build.cachebusters]]
+    source = '(postcss|tailwind)\.config\.js'
+    target = 'css'
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    disableWatch = true
+    source = 'hugo_stats.json'
+    target = 'assets/notwatching/hugo_stats.json'

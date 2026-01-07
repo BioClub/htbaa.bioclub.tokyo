@@ -1,0 +1,23 @@
+<!-- display 7 random posts -->
+
+<div id="sidebar">
+  <ul>
+    {{- range first 5 (site.RegularPages | shuffle ) }}
+      {{- $nr := .File.BaseFileName -}}
+      {{- if eq .File.BaseFileName "index" -}}
+        {{- $nr = path.Base .File.Dir -}}
+      {{- end }}
+    <li class="random">
+      <strong>
+        <span class="id gray">{{ $nr }}</span>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
+      </strong>
+      <div class="tags">
+        {{- range (.GetTerms "tags") }}
+        <a href="{{ .RelPermalink }}">{{ .Data.Term }}</a>
+        {{- end }}
+      </div>
+    </li>
+    {{- end }}
+  </ul>
+</div>

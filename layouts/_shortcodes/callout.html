@@ -1,0 +1,4 @@
+<div class="admonition {{ index .Params 0 }}">
+<div class="title">{{- index .Params 1 }}</div>
+{{ .Inner | markdownify }}
+</div>
