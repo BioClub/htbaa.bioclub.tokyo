@@ -12,6 +12,7 @@ David Kong shared the [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8) fo
 
 {{< callout caution "Application Form">}}
 [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8), Deadline: January 16th 2026, 23:59 ET
+Course Start: February 3rd 2026, 2pm ET
 {{< /callout >}}
 
 Please take your time and think carefully about your **Statement of Interest** in the Application Form. We want to know:
@@ -56,6 +57,8 @@ Please indicate in the Application Form, which *Office Hours* you want to join!
 It is not necessary to come to *all* the Office Hours. If you are interested in a more information about HTGAA@BioClub, please join our [BioClub Discord Server](https://discord.bioclub.tokyo), and there the `#htgaa` channel.
 
 # Global Schedule
+
+The course starts with the first class on February 3rd 2026, 2pm ET. Make sure to submit the Application Form before the deadline, if you want to get the invitation to join the class. 
 
 - **Class:** Tuesdays 14:00-17:00 ET at MIT Zoom
 - **Recitation:** Wednesdays 17:00-18:00 ET at MIT Zoom
