@@ -34,7 +34,7 @@ Attendance will be taken at Classes, Recitations and Reviews.
 
 ## Applicant & Node Map
 
-<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 
 # Global Bio Bootcamp
