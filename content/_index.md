@@ -110,8 +110,8 @@ Online support will also be given through the **BioClub Tokyo Class Reviews** ev
 
 |   Review Type  |  Day   |
 | :-- | --- |
-| **Class Review**    | Every Thursday at 21:00 JST |
-| **Homework Review** | Every Monday at 21:00 JST |
+| **Class Review**    | Every Thursday at 21:00 - 22:00 JST |
+| **Homework Review** | Every Monday at 21:00 - 22:00 JST |
 
 <!--
 # Recordings
