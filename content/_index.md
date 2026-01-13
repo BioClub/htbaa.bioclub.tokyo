@@ -20,7 +20,7 @@ Please take your time and think carefully about your **Statement of Interest** i
  - *Why do you want to be a part of this course?*
  - *What do you hope to get out of it?* 
  
- Please make use of the 2000 characters and please don't write short or AI-generated responses. These *Statements* **will** be read by the Global TAs and Course Organizers, if we feel - based on the **Statement of Interest** - that the applicant is not a good fit for the course, we will not accept them.
+Please make use of the 2000 characters and please don't write short or AI-generated responses. These *Statements* **will** be read by the Global TAs and Course Organizers, if we feel - based on the **Statement of Interest** - that the applicant is not a good fit for the course, we will not accept them.
 
 ## Application Timeline
 
@@ -31,6 +31,11 @@ Please take your time and think carefully about your **Statement of Interest** i
 5. *No Homework → Global Listener*
 
 Attendance will be taken at Classes, Recitations and Reviews. 
+
+## Applicant & Node Map
+
+<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 # Global Bio Bootcamp
 
