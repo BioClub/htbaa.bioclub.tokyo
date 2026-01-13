@@ -51,9 +51,10 @@ In addition to the Bootcamp Lectures, we will also offer *BootCamp Office Hours*
 | **Bio Bootcamp Office Hours, Day 1**    | Tuesday January 20th, 6AM - 8AM & 3PM - 5PM ET |
 | **Bio Bootcamp Office Hours, Day 2**    | Monday, January 26th, 6AM - 8AM & 3PM - 5PM ET |
 
-{{< callout info "HTGAA 2026 Google Calender">}}
+{{< callout time "HTGAA 2026 Google Calender<a href="dfs">test</a>" >}}
 [HTGAA 2026 Google Calender](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 {{< /callout >}}
+
 
 It is not necessary to come to *all* the Office Hours. If you are interested in a more information about HTGAA@BioClub, please join our [BioClub Discord Server](https://discord.bioclub.tokyo), and there the `#htgaa` channel.
 
