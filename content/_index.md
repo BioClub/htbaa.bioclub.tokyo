@@ -11,7 +11,7 @@ David Kong shared the [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8) fo
 
 
 {{< callout caution "Application Form">}}
-[Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8), Deadline: January 16th 2026, 23:59 ET
+[Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8), Deadline: January ~~16th~~ 23rd 2026, 23:59 ET
 Course Start: February 3rd 2026, 2pm ET
 {{< /callout >}}
 
