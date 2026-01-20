@@ -49,7 +49,7 @@ Prior to the start of the HTGAA we will organise a Bio Bootcamp, to get everyone
 
 More about [HTGAA 2026 BioBootCamp](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6). Includes links to [Slides, Recordings and Resources](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6).
 
-In addition to the Bootcamp Lectures, we will also offer *BootCamp Office Hours*, where you can get in touch with Global TAs and ask general and specific questions.
+In addition to the Bootcamp Lectures, we will also offer *Bootcamp Office Hours*, where you can get in touch with Global TAs and ask general questions about the course and specific ones about the content of the Bootcamp.
 
 |   Bio Bootcamp Office Hours  |  Date   |
 | :-- | --- |
