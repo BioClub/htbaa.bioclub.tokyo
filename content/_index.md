@@ -32,11 +32,6 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 
 Attendance will be taken at Classes, Recitations and Reviews. 
 
-## Applicant & Node Map
-
-<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en" width="800" height="600"></iframe>
-
-
 # Global Bio Bootcamp
 
 Prior to the start of the HTGAA we will organise a Bio Bootcamp, to get everyone oriented and up to speed. It is recommened for everyone.
@@ -69,6 +64,12 @@ The course starts with the first class on February 3rd 2026, 2pm ET. Make sure t
 
 - **Class:** Tuesdays 14:00-17:00 ET at MIT Zoom
 - **Recitation:** Wednesdays 17:00-18:00 ET at MIT Zoom
+
+# Applicant & Node Map
+
+A [Google Map](https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en) showing the locations of Applicants & Nodes.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en" width="800" height="600"></iframe>
 
 # BioClub Schedule
 
