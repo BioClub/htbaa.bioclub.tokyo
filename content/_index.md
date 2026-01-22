@@ -38,8 +38,8 @@ Prior to the start of the HTGAA we will organise a Bio Bootcamp, to get everyone
 
 |   Bio Bootcamp  |  Date   |
 | :-- | --- |
-| *Bio Bootcamp, Day 1* [Recording 📼](https://mit.zoom.us/rec/share/pOkPb_X5Cc4sZ7gi9TNFw7_ZHqZSPAuuDi_TqB66FG0GAFyNJmYV7g_Vl68p9wLV.O0iKUm4yyebvLgw1)   | Monday, January 19th, 9am-12p ET | 
-| *Bio Bootcamp, Day 2* [Recording 📼](https://mit.zoom.us/rec/share/Rbr6EigMDQTC8nQP_HGktuwIpsQh8ToPrkpKwul0uZIRfU8dRNkccpGftBh3hBo5.5vzKWbA2suHfYXvU)   | Wednesday, January 21st, 9am-12p ET |
+| *Bio Bootcamp, Day 1*, [Recording 📼](https://mit.zoom.us/rec/share/pOkPb_X5Cc4sZ7gi9TNFw7_ZHqZSPAuuDi_TqB66FG0GAFyNJmYV7g_Vl68p9wLV.O0iKUm4yyebvLgw1)   | Monday, January 19th, 9am-12p ET | 
+| *Bio Bootcamp, Day 2*, [Recording 📼](https://mit.zoom.us/rec/share/Rbr6EigMDQTC8nQP_HGktuwIpsQh8ToPrkpKwul0uZIRfU8dRNkccpGftBh3hBo5.5vzKWbA2suHfYXvU)   | Wednesday, January 21st, 9am-12p ET |
 | *Bio Bootcamp, Day 3*    | Friday, January 23th, 9am-12p ET |
 
 More about [HTGAA 2026 BioBootCamp](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6). Includes links to [Slides, Recordings and Resources](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6).
