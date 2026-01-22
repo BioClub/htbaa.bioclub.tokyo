@@ -43,8 +43,8 @@ Prior to the start of the HTGAA we will organise a Bio Bootcamp, to get everyone
 
 |   Bio Bootcamp  |  Date   |
 | :-- | --- |
-| *Bio Bootcamp, Day 1* [Recording 📼](https://mit.zoom.us/rec/play/zR_oFs8K5vgPssByW-mG4LSK8CwfKEVQgydOq95nlyFMAApFvChBoa4_WFNaGpeoPLDPIPHZoct7p80v.6VGPzBlsC-ZBoJPv?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FI6-Qb6PY6xeNuEZW5rJZ7NXwh1ZCqRaCy-Ds2Mx0UYBNbly1oxDqX08VYT4lHEKd.iFNFWACSBJERTokG)   | Monday, January 19th, 9am-12p ET | 
-| *Bio Bootcamp, Day 2*    | Wednesday, January 21st, 9am-12p ET |
+| *Bio Bootcamp, Day 1* [Recording 📼](https://mit.zoom.us/rec/share/pOkPb_X5Cc4sZ7gi9TNFw7_ZHqZSPAuuDi_TqB66FG0GAFyNJmYV7g_Vl68p9wLV.O0iKUm4yyebvLgw1)   | Monday, January 19th, 9am-12p ET | 
+| *Bio Bootcamp, Day 2* [Recording 📼](https://mit.zoom.us/rec/share/Rbr6EigMDQTC8nQP_HGktuwIpsQh8ToPrkpKwul0uZIRfU8dRNkccpGftBh3hBo5.5vzKWbA2suHfYXvU)   | Wednesday, January 21st, 9am-12p ET |
 | *Bio Bootcamp, Day 3*    | Friday, January 23th, 9am-12p ET |
 
 More about [HTGAA 2026 BioBootCamp](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6). Includes links to [Slides, Recordings and Resources](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6).
@@ -53,9 +53,9 @@ In addition to the Bootcamp Lectures, we will also offer *Bootcamp Office Hours*
 
 |   Bio Bootcamp Office Hours  |  Date   |
 | :-- | --- |
-| *Bio Bootcamp Office Hours 1*    | Tuesday January 20th, 6AM - 8AM EST (20:00-22:00 JST) |
-| *Bio Bootcamp Office Hours 2*    | Monday, January 26th, 6AM - 8AM EST (20:00-22:00 JST) |
-| *Bio Bootcamp Office Hours 3*    | Monday, January 26th, 3PM - 5PM EST (5:00-7:00 JST)|
+| *Bio Bootcamp Office Hours 1* | Tuesday January 20th, 6AM - 8AM EST (20:00-22:00 JST) |
+| *Bio Bootcamp Office Hours 2* | Monday, January 26th, 6AM - 8AM EST (20:00-22:00 JST) |
+| *Bio Bootcamp Office Hours 3* | Monday, January 26th, 3PM - 5PM EST (5:00-7:00 JST)|
 
 {{< callout time "HTGAA 2026 Google Calender" >}}
 [HTGAA 2026 Google Calender](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the Bootcamp, Office Hours, Classes and Node Meeting Times.
