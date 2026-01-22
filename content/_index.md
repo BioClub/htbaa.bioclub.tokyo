@@ -25,9 +25,9 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 ## Application Timeline
 
 1. *Submit Application Form in-time*
-2. *Participate Bio Bootcamp*
-3. *Go to Class & Recitation, Week 1*
-4. *Do Homework → Committed Listener → Change to earn a Certificate*
+2. *Participate Bio Bootcamp (optional)*
+3. *Go to Class #1 & Recitation #1 (mandatory)*
+4. *Do Homework until Class #2 → if (ok) => Committed Listener
 5. *No Homework → Global Listener*
 
 Attendance will be taken at Classes, Recitations and Reviews. 
