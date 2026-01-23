@@ -38,11 +38,11 @@ Prior to the start of the HTGAA we will organise a Bio Bootcamp, to get everyone
 
 |   Bio Bootcamp  |  Date   |
 | :-- | --- |
-| *Bio Bootcamp, Day 1*, [Recording 📼](https://mit.zoom.us/rec/share/pOkPb_X5Cc4sZ7gi9TNFw7_ZHqZSPAuuDi_TqB66FG0GAFyNJmYV7g_Vl68p9wLV.O0iKUm4yyebvLgw1)   | Monday, January 19th, 9am-12p ET | 
-| *Bio Bootcamp, Day 2*, [Recording 📼](https://mit.zoom.us/rec/share/Rbr6EigMDQTC8nQP_HGktuwIpsQh8ToPrkpKwul0uZIRfU8dRNkccpGftBh3hBo5.5vzKWbA2suHfYXvU)   | Wednesday, January 21st, 9am-12p ET |
-| *Bio Bootcamp, Day 3*    | Friday, January 23th, 9am-12p ET |
+| *Bio Bootcamp, Day 1*, [Recording 📼](https://mit.zoom.us/rec/share/pOkPb_X5Cc4sZ7gi9TNFw7_ZHqZSPAuuDi_TqB66FG0GAFyNJmYV7g_Vl68p9wLV.O0iKUm4yyebvLgw1), [Handout](https://docs.google.com/document/d/12xUWdo-LnoptUIUKfWrrG2An_VTGhPpKFPE-JZj_yZM/edit?tab=t.0#heading=h.mgh5jldl1gn2)   | Monday, January 19th, 9am-12p ET | 
+| *Bio Bootcamp, Day 2*, [Recording 📼](https://mit.zoom.us/rec/share/Rbr6EigMDQTC8nQP_HGktuwIpsQh8ToPrkpKwul0uZIRfU8dRNkccpGftBh3hBo5.5vzKWbA2suHfYXvU), [Handout](https://docs.google.com/document/d/15TE8_vij54_BHZYIkTUYSr5vhPQ03anL6CwNyz6WK0c/edit?tab=t.0#heading=h.2qg1f8pr3yv1)   | Wednesday, January 21st, 9am-12p ET |
+| *Bio Bootcamp, Day 3*, [Handout](https://docs.google.com/document/d/1wlsMzdo8Lao76nYZjoZoTr_xxLYWBy_Lmj56JKrhVTc/edit?tab=t.0#heading=h.ufoyrne0dmq8)   | Friday, January 23th, 9am-12p ET |
 
-More about [HTGAA 2026 BioBootCamp](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6). Includes links to [Slides, Recordings and Resources](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6).
+More detailes [HTGAA 2026 BioBootCamp Overview](https://docs.google.com/document/d/1NPrqwybqZjJBP3MooBmOH034xZ-uGDYiBwN-Yfum0wU/edit?tab=t.0#heading=h.srjv4cih1as6).
 
 In addition to the Bootcamp Lectures, we will also offer *Bootcamp Office Hours*, where you can get in touch with Global TAs and ask general questions about the course and specific ones about the content of the Bootcamp.
 
