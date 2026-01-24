@@ -26,11 +26,24 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 
 1. *Submit Application Form in-time*
 2. *Participate Bio Bootcamp (optional)*
-3. *Go to Class #1 & Recitation #1 (mandatory)*
+3. *Go to Class #1 on February 3rd, 2-5PM EST (mandatory)*
 4. *Do Homework until Class #2 → if (ok) => Committed Listener
 5. *No Homework → Global Listener*
 
 Attendance will be taken at Classes, Recitations and Reviews. 
+
+# Upcoming 
+
+|   Type  |  Date   |
+| *Bio Bootcamp Office Hours 2*[^1] | Monday, January 26th, 6-8AM EST |
+| *Bio Bootcamp Office Hours 3*[^1] | Monday, January 26th, 3-5PM EST |
+| *Class #1*[^1] | Tuesday, February 3rd, 2-5PM EST |
+| *Recitation #1*[^1] | Wednesday, February 4rd, 5-6PM EST |
+| *BioClub Class #1 Review*[^2] | Thursday, February 5th, 21:00 - 22:00 JST |
+| *BioClub Homework #1 Review*[^2] | Monday, February 9th, 21:00 - 22:00 JST |
+
+[^1]: HTGAA 2026 Zoom
+[^2]: BioClub Tokyo Zoom
 
 # Global Bio Bootcamp
 
