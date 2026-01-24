@@ -34,7 +34,8 @@ Attendance will be taken at Classes, Recitations and Reviews.
 
 # Upcoming 
 
-|   Type  |  Date   |
+| Type | Date |
+| :--- | :--- |
 | *Bio Bootcamp Office Hours 2*[^1] | Monday, January 26th, 6-8AM EST |
 | *Bio Bootcamp Office Hours 3*[^1] | Monday, January 26th, 3-5PM EST |
 | *Class #1*[^1] | Tuesday, February 3rd, 2-5PM EST |
