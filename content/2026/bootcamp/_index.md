@@ -1,6 +1,7 @@
 +++
-title = 'Global Bio-Bootcamp 2026'
-draft = false
+title     = 'Global Bio-Bootcamp 2026'
+linkTitle = 'Bootcamp'
+draft     = false
 +++
 
 

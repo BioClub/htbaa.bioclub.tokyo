@@ -1,5 +1,12 @@
 {{ define "main" }}
-_default/list.html
+
+  <div class="">
+    {{- range .Ancestors.Reverse }}
+    <a href="{{ .RelPermalink }}">{{ if .IsHome }}{{ "HTGAA@BioClub Tokyo" }}{{ else }}{{ .LinkTitle }}{{ end }}</a> →
+    {{- end }}
+    <a class="current" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  </div>
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}

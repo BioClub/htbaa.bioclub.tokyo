@@ -27,10 +27,10 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 1. *Submit Application Form in-time*
 2. *Participate Bio Bootcamp (optional)*
 3. *Go to Class #1 on February 3rd, 2-5PM EST (mandatory)*
-4. *Do Homework until Class #2 → if (ok) => Committed Listener
+4. *Do Homework until Class #2 → if (OK) => Committed Listener
 5. *No Homework → Global Listener*
 
-Attendance will be taken at Classes, Recitations and Reviews. 
+Attendance will be taken at Classes, Recitations and Node Reviews. 
 
 # Upcoming 
 

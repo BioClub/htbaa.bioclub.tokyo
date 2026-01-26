@@ -1,6 +1,7 @@
 +++
-title = 'Global Bio-Bootcamp 2026 Slides - Day 2'
-draft = false
+title     = 'Global Bio-Bootcamp 2026 Slides - Day 2'
+linkTitle = 'Day 2 - Slides'
+draft     = false
 +++
 
 - [2026 HTGAA BioBootcamp Literature Research.pdf](<2026 HTGAA BioBootcamp Literature Research.pdf>)
