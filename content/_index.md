@@ -64,7 +64,7 @@ In addition to the Bootcamp Lectures, we will also offer *Bootcamp Office Hours*
 | :-- | --- |
 | *Bio Bootcamp Office Hours 1* | Tuesday January 20th, 6AM - 8AM EST (20:00-22:00 JST) |
 | *Bio Bootcamp Office Hours 2* | Monday, January 26th, 6AM - 8AM EST (20:00-22:00 JST) |
-| *Bio Bootcamp Office Hours 3* | Monday, January 26th, 3PM - 5PM EST (5:00-7:00 JST)|
+| *Bio Bootcamp Office Hours 3* | Monday, January 26th, 3PM - 5PM EST (29:00-31:00 JST)|
 
 {{< callout time "HTGAA 2026 Google Calender" >}}
 [HTGAA 2026 Google Calender](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the Bootcamp, Office Hours, Classes and Node Meeting Times.
