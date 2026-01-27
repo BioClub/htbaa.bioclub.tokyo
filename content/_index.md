@@ -24,7 +24,7 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 
 ## Application Timeline
 
-1. Submit Application Form in-time
+1. Submit Application Form in time!
 2. ~~Participate~~ Watch [Bio Bootcamp](2026/bootcamp) Recordings (optional)
 3. Come to Class #1 on **February 3rd, 2-5PM EST** (mandatory)
 4. Do Homework until Class #2 → if (submitted on time && OK) → ***Committed Listener***
@@ -55,20 +55,16 @@ Prior to the start of the HTGAA we will organise a [Bio Bootcamp](2026/bootcamp)
 
 It is not necessary to come to *all* the Office Hours. If you are interested in a more information about HTGAA@BioClub, please join our [BioClub Discord Server](https://discord.bioclub.tokyo), and there the `#htgaa` channel.
 
-# Global Schedule
+# Meeting Times
+
+### Global Schedule
 
 The course starts with the first class on February 3rd 2026, 2pm ET. Make sure to submit the Application Form before the deadline, if you want to get the invitation to join the class. 
 
 - **Class:** Tuesdays 14:00-17:00 ET at MIT Zoom
 - **Recitation:** Wednesdays 17:00-18:00 ET at MIT Zoom
 
-# Applicant & Node Map
-
-A [Google Map](https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en) showing the locations of Applicants & Nodes.
-
-<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en" width="800" height="600"></iframe>
-
-# BioClub Schedule
+###  BioClub Schedule
 
 - **BioClub Tokyo Class Reviews:** Thursdays 21:00-22:00 JST at BioClub Zoom
 - **BioClub Tokyo Homework Reviews:** Mondays 21:00-22:00 JST at BioClub Zoom
@@ -76,6 +72,12 @@ A [Google Map](https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa
 {{< callout caution "Info">}}
 *Committed Listeners* are expected to watch and particate in all Weekly Classes, Recitations and Reviews.
 {{< /callout >}}
+
+# Applicant & Node Map
+
+A [Google Map](https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en) showing the locations of Applicants & Nodes.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en" width="800" height="600"></iframe>
 
 # BioClub Global TAs
 
