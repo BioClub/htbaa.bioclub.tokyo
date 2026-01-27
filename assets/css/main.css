@@ -44,6 +44,11 @@ body {
   font-size: 0.9em;
 }
 
+/* hide empty table header */
+#page table tr th:empty {
+  display: none;
+}
+
 #footer {
   border: none;
 }
