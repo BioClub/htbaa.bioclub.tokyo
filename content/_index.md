@@ -104,9 +104,9 @@ The time budget needed for a CL is about 15-20 hours / week.
 We understand, that the content is dense and complex, and doing the homework takes time and energy.Many HTGAA participants take more than one cycle to complete the course.
 
 
-# About HTGAA 2025 @BioClub Tokyo
+# About HTGAA 2026 @BioClub Tokyo
 
-Welcome to How To Grow (Almost) Anything 2025 at BioClub Tokyo!
+Welcome to How To Grow (Almost) Anything 2026 at BioClub Tokyo!
 
 This page is for students who are interested in participating in online review sessions and/or in-person experiments for HTGAA 2026 at BioClub Tokyo in Japan.
 
@@ -273,4 +273,4 @@ HTGAA shares its ideas and goal with HTMAA and the FabAcademy. HTGAA uses a diff
 
 - **Why is there no HTGAA Asia & Oceania in 2026?**
 The HTGAA Asia & Oceania Review sessions in 2024 were a self-organised response to the chanllenging lecture times of the main HTGAA lectures and recitation, organised by Georg (BioClub Tokyo), Austin & Elaine.
-For 2025 the concept of Global HTGAA nodes was introduced, BioClub Tokyo is one of these nodes. We will continue organising Class & Homework reviews, only for 2026 they are called BioClub Tokyo Class & Homework Reviews, instead of HTGAA Asia Class & Homework Reviews.
+For 2026 the concept of Global HTGAA nodes was introduced, BioClub Tokyo is one of these nodes. We will continue organising Class & Homework reviews, only for 2026 they are called BioClub Tokyo Class & Homework Reviews, instead of HTGAA Asia Class & Homework Reviews.
