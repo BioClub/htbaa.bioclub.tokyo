@@ -5,9 +5,9 @@ draft = false
 
 Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one of the Global Nodes of the growing HTGAA Network. Lectures and Recitations are shared globally from the MIT Course 'How to Grow Almost Anything', each node will organize additional Class & Homework Reviews sessions, as well as hands-on experiments in the lab of the local node.
 
-# Application Form for HTGAA 2026
+# Application Form for [HTGAA 2026](https://2026a.htgaa.org/ )
 
-David Kong shared the [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8) for the *How to Grow (Almost) Anything 2026* Course on his [Instagram](https://www.instagram.com/p/DTIx5mvgBgr/), [X](https://x.com/davidsunkong/status/2008282342087934353) and [LinkedIn](https://www.linkedin.com/posts/davidsunkong_syntheticbiology-htgaa-synbio-activity-7414010660658946049-xWM9/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAADTOVcBe1e_ZpiJ2AotNm5FnUIlRuXWV44) accounts.
+David Kong shared the [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8) for the [*How to Grow (Almost) Anything 2026*](https://2026a.htgaa.org/) Course on his [Instagram](https://www.instagram.com/p/DTIx5mvgBgr/), [X](https://x.com/davidsunkong/status/2008282342087934353) and [LinkedIn](https://www.linkedin.com/posts/davidsunkong_syntheticbiology-htgaa-synbio-activity-7414010660658946049-xWM9/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAADTOVcBe1e_ZpiJ2AotNm5FnUIlRuXWV44) accounts.
 
 
 {{< callout caution "Application Form">}}
@@ -36,7 +36,7 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 
 |      |      |
 | :--- | :--- |
-| **Class #1** | Tuesday, February 3rd, 2-5PM EST |
+| ~~ **Class #1** | Tuesday, February 3rd, 2-5PM EST ~~ |
 | **Recitation #1** | Wednesday, February 4rd, 5-6PM EST |
 | **BioClub Class #1 Review** | Thursday, February 5th, 21:00 - 22:00 JST |
 | **BioClub Homework #1 Review** | Monday, February 9th, 21:00 - 22:00 JST |
@@ -127,14 +127,25 @@ Online support will also be given through the **BioClub Tokyo Class Reviews** ev
 | **Class Review**    | Every Thursday at 21:00 - 22:00 JST |
 | **Homework Review** | Every Monday at 21:00 - 22:00 JST |
 
+
+# Homework, Recordings & Slides
+
+|    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
+| :--------- | :------ | :---------- | :------------ | :--------------- |
+| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) |      |        [📰](https://docs.google.com/presentation/d/1MUg_W8Ca8WCzFYg2Q9k0bhM08auzZSLLE3RNpHjKPKo/edit?slide=id.g392f1bd0e2d_0_58#slide=id.g392f1bd0e2d_0_58) |               |                  | 
+
+<small>*¹ Global HTGAA Course*  
+*² BioClub Tokyo-organised Class & Homework recordings will not be shared publicly, please join a session in-person to get access.*  
+*³ No Class this week*  
+*⁴ In Pr…*  
+</small>
 <!--
-# Recordings
 
 This is an overview of the classes, recitations and BioClub review recordings. For more detailed info about homework and reading lists, please visit the [2025 HTGAA Main Site](https://2025.htgaa.org/).
 
 |            |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| Class 1    | [🟢](https://mit.zoom.us/rec/play/Xm_LMBekTFFjCIcgnFbCAfli-EM3nSC_MZEY_JcaowB-TrtmAZwXZnoeOH8ZWL48gisiF7YJ7OxL0awA.hJLtkswqI8CjZuVy) | [🟢](https://mit.zoom.us/rec/play/-2ZdE0XqOFBX1SPmTzWj2MRdN5XyHZuQgMzR7-hTTcs8kr3j2WuZoE6Y-_oTqBFelUqtyPvlzGT2n7yd.5f88HBwfElZIbLXu) | [🔐](https://vimeo.com/1054354645) | [🔐](https://vimeo.com/1054354645) |
+|     | [🟢](https://mit.zoom.us/rec/play/Xm_LMBekTFFjCIcgnFbCAfli-EM3nSC_MZEY_JcaowB-TrtmAZwXZnoeOH8ZWL48gisiF7YJ7OxL0awA.hJLtkswqI8CjZuVy) | [🟢](https://mit.zoom.us/rec/play/-2ZdE0XqOFBX1SPmTzWj2MRdN5XyHZuQgMzR7-hTTcs8kr3j2WuZoE6Y-_oTqBFelUqtyPvlzGT2n7yd.5f88HBwfElZIbLXu) | [🔐](https://vimeo.com/1054354645) | [🔐](https://vimeo.com/1054354645) |
 | Class 2    | [🟢](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [🟢](https://mit.zoom.us/rec/play/8G5JKxUGQhk0-TQm68vuJMAZsDbM7gxnBnVhfa1EkqYJvZiye0rwC2u_ykyyF-Ua1DN8JhdyJHOi6e-C.mBawL7GQ5rZ89jLu) | [🔐](https://vimeo.com/1056622082?share=copy) | [🔐](https://vimeo.com/1057505242) |
 | Class 2.5  | ❌ ³ |             |               |                  |
 
