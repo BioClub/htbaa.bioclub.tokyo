@@ -39,7 +39,7 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 | **Recitation #1** | Wednesday, February 4rd, 5-6PM EST |
 | **BioClub Class #1 Review** | Thursday, February 5th, 21:00 - 22:00 JST |
 | **BioClub Homework #1 Review** | Monday, February 9th, 21:00 - 22:00 JST |
-| **Class #2** | ~~Tuesday, February 10th, 2-5PM EST |
+| **Class #2** | Tuesday, February 10th, 2-5PM EST |
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_
 
