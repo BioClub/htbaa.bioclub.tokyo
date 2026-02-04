@@ -39,6 +39,7 @@ Please make use of the 2000 characters and please don't write short or AI-genera
 | **Recitation #1** | Wednesday, February 4rd, 5-6PM EST |
 | **BioClub Class #1 Review** | Thursday, February 5th, 21:00 - 22:00 JST |
 | **BioClub Homework #1 Review** | Monday, February 9th, 21:00 - 22:00 JST |
+| **Class #2** | ~~Tuesday, February 10th, 2-5PM EST |
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_
 
@@ -71,6 +72,18 @@ The course starts with the first class on February 3rd 2026, 2pm ET. Make sure t
 {{< callout caution "Info">}}
 *Committed Listeners* are expected to watch and particate in all Weekly Classes, Recitations and Reviews.
 {{< /callout >}}
+
+# Homework, Recordings & Slides
+
+|    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
+| :--------- | :------ | :---------- | :------------ | :--------------- |
+| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼 Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ)     |        [📰 Slides](https://docs.google.com/presentation/d/1MUg_W8Ca8WCzFYg2Q9k0bhM08auzZSLLE3RNpHjKPKo/edit?slide=id.g392f1bd0e2d_0_58#slide=id.g392f1bd0e2d_0_58) |               |                  | 
+
+<small>*¹ Global HTGAA Course*  
+*² BioClub Tokyo-organised Class & Homework recordings will not be shared publicly, please join a session in-person to get access.*  
+*³ No Class this week*  
+*⁴ In Progress…*  
+</small>
 
 # Applicant & Node Map
 
@@ -127,17 +140,7 @@ Online support will also be given through the **BioClub Tokyo Class Reviews** ev
 | **Homework Review** | Every Monday at 21:00 - 22:00 JST |
 
 
-# Homework, Recordings & Slides
 
-|    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
-| :--------- | :------ | :---------- | :------------ | :--------------- |
-| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) |      |        [📰](https://docs.google.com/presentation/d/1MUg_W8Ca8WCzFYg2Q9k0bhM08auzZSLLE3RNpHjKPKo/edit?slide=id.g392f1bd0e2d_0_58#slide=id.g392f1bd0e2d_0_58) |               |                  | 
-
-<small>*¹ Global HTGAA Course*  
-*² BioClub Tokyo-organised Class & Homework recordings will not be shared publicly, please join a session in-person to get access.*  
-*³ No Class this week*  
-*⁴ In Pr…*  
-</small>
 <!--
 
 This is an overview of the classes, recitations and BioClub review recordings. For more detailed info about homework and reading lists, please visit the [2025 HTGAA Main Site](https://2025.htgaa.org/).
