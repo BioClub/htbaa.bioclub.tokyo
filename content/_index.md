@@ -5,47 +5,20 @@ draft = false
 
 Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one of the Global Nodes of the growing HTGAA Network. Lectures and Recitations are shared globally from the MIT Course 'How to Grow Almost Anything', each node will organize additional Class & Homework Reviews sessions, as well as hands-on experiments in the lab of the local node.
 
-# Application Form for [HTGAA 2026](https://2026a.htgaa.org/ )
-
-David Kong shared the [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8) for the [*How to Grow (Almost) Anything 2026*](https://2026a.htgaa.org/) Course on his [Instagram](https://www.instagram.com/p/DTIx5mvgBgr/), [X](https://x.com/davidsunkong/status/2008282342087934353) and [LinkedIn](https://www.linkedin.com/posts/davidsunkong_syntheticbiology-htgaa-synbio-activity-7414010660658946049-xWM9/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAADTOVcBe1e_ZpiJ2AotNm5FnUIlRuXWV44) accounts.
-
-
-{{< callout caution "Application Form">}}
-[Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8), Deadline: January ~~16th~~ ~~23rd~~ 31st  2026, 23:59 ET
-Course Start: February 3rd 2026, 2pm ET
-{{< /callout >}}
-
-Please take your time and think carefully about your **Statement of Interest** in the Application Form. We want to know:
-
- - *Why do you want to be a part of this course?*
- - *What do you hope to get out of it?* 
- 
-Please make use of the 2000 characters and please don't write short or AI-generated responses. These *Statements* **will** be read by the Global TAs and Course Organizers, if we feel - based on the **Statement of Interest** - that the applicant is not a good fit for the course, we will not accept them.
-
-## Application Timeline
-
-1. Submit Application Form in time!
-2. ~~Participate~~ Watch [Bio Bootcamp](2026/bootcamp) Recordings (optional)
-3. Come to Class #1 on **February 3rd, 2-5PM EST** (mandatory)
-4. Do Homework until Class #2 → if (submitted on time && OK) → ***Committed Listener***
-5. No Homework → ***Global Listener***
-
-*Attendance will be taken at Classes, Recitations and Node Reviews.*
-
 # Upcoming 
 
 |      |      |
 | :--- | :--- |
-| **Recitation #1** | Wednesday, February 4rd, 5-6PM EST |
 | **BioClub Class #1 Review** | Thursday, February 5th, 21:00 - 22:00 JST |
 | **BioClub Homework #1 Review** | Monday, February 9th, 21:00 - 22:00 JST |
 | **Class #2** | Tuesday, February 10th, 2-5PM EST |
+| **Recitation #2** | Wednesday, February 11th, 5-7PM EST |
 
-_Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_
+{{< callout caution "First Node Meeting!" >}}
+The BioClub Class #1 Review meetings will be the first node meeting, as students are not assigned a node yet, everyone is welcome! Please come prepared and watch the class & recitaton.
+{{< /callout >}}
 
-# Global Bio Bootcamp
-
-Prior to the start of the HTGAA we will organise a [Bio Bootcamp](2026/bootcamp), to get everyone oriented and up to speed. It is recommened for everyone. [Watch the recording and catch up with the slides](2026/bootcamp).
+_Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 
 # HTGAA 2026 Google Calender
 
@@ -58,8 +31,6 @@ It is not necessary to come to *all* the Office Hours. If you are interested in 
 # Meeting Times
 
 ### Global Schedule
-
-The course starts with the first class on February 3rd 2026, 2pm ET. Make sure to submit the Application Form before the deadline, if you want to get the invitation to join the class. 
 
 - **Class:** Tuesdays 14:00-17:00 ET at MIT Zoom
 - **Recitation:** Wednesdays 17:00-18:00 ET at MIT Zoom
@@ -75,9 +46,11 @@ The course starts with the first class on February 3rd 2026, 2pm ET. Make sure t
 
 # Homework, Recordings & Slides
 
+All the information, including homework assignments, recordsings, and slides will be shared on the [HTGAA 2025 Website](https://2026a.htgaa.org). The table below also includes recordings of the BioClub Node Reviews.
+
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼 Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ)     |        [📰 Slides](https://docs.google.com/presentation/d/1MUg_W8Ca8WCzFYg2Q9k0bhM08auzZSLLE3RNpHjKPKo/edit?slide=id.g392f1bd0e2d_0_58#slide=id.g392f1bd0e2d_0_58) |               |                  | 
+| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼 Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ)     |        [📼 Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000), [📰 Slides](https://docs.google.com/presentation/d/1MUg_W8Ca8WCzFYg2Q9k0bhM08auzZSLLE3RNpHjKPKo/edit?slide=id.g392f1bd0e2d_0_58#slide=id.g392f1bd0e2d_0_58) |               |                  | 
 
 <small>*¹ Global HTGAA Course*  
 *² BioClub Tokyo-organised Class & Homework recordings will not be shared publicly, please join a session in-person to get access.*  
@@ -85,11 +58,15 @@ The course starts with the first class on February 3rd 2026, 2pm ET. Make sure t
 *⁴ In Progress…*  
 </small>
 
+# Global Bio Bootcamp
+
+Prior to the start of the HTGAA we will organise a [Bio Bootcamp](2026/bootcamp), to get everyone oriented and up to speed. It is recommened for everyone. [Watch the recording and catch up with the slides](2026/bootcamp).
+
 # Applicant & Node Map
 
-A [Google Map](https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en) showing the locations of Applicants & Nodes.
+A [Map](2026/map) showing the locations of Applicants & Nodes.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=10xcRJ8xu_zSXbYflzfvc4foa5FqTtmA&ehbc=2E312F&noprof=1&language=en" width="800" height="600"></iframe>
+[![2026 Applicant Map](2026/map/map.jpg)](2026/map)
 
 # BioClub Global TAs
 
@@ -123,21 +100,6 @@ Welcome to How To Grow (Almost) Anything 2026 at BioClub Tokyo!
 This page is for students who are interested in participating in online review sessions and/or in-person experiments for HTGAA 2026 at BioClub Tokyo in Japan.
 
 We also aim to perform the same hands-on laboratory work as the students at MIT & Harvard!
-
-# BioClub Tokyo *Online* Review Meetings
-
-HTGAA nodes are offering additional review and study meetings to offset the time differences to Boston (ET).
-
-Online support will also be given through the **BioClub Tokyo Class Reviews** every Thursday at 21:00 JST and the **BioClub Tokyo Homework Reviews** every Monday at 21:00.
-
-{{< callout time "The review sessions are also open to Committed Listerners and Global TAs of HTGAA.">}}
-{{< /callout >}}
-
-
-|   Review Type  |  Day   |
-| :-- | --- |
-| **Class Review**    | Every Thursday at 21:00 - 22:00 JST |
-| **Homework Review** | Every Monday at 21:00 - 22:00 JST |
 
 
 
@@ -287,3 +249,37 @@ HTGAA shares its ideas and goal with HTMAA and the FabAcademy. HTGAA uses a diff
 - **Why is there no HTGAA Asia & Oceania in 2026?**
 The HTGAA Asia & Oceania Review sessions in 2024 were a self-organised response to the chanllenging lecture times of the main HTGAA lectures and recitation, organised by Georg (BioClub Tokyo), Austin & Elaine.
 For 2026 the concept of Global HTGAA nodes was introduced, BioClub Tokyo is one of these nodes. We will continue organising Class & Homework reviews, only for 2026 they are called BioClub Tokyo Class & Homework Reviews, instead of HTGAA Asia Class & Homework Reviews.
+
+
+
+
+<!--
+
+# Application Form for [HTGAA 2026](https://2026a.htgaa.org/ )
+
+David Kong shared the [Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8) for the [*How to Grow (Almost) Anything 2026*](https://2026a.htgaa.org/) Course on his [Instagram](https://www.instagram.com/p/DTIx5mvgBgr/), [X](https://x.com/davidsunkong/status/2008282342087934353) and [LinkedIn](https://www.linkedin.com/posts/davidsunkong_syntheticbiology-htgaa-synbio-activity-7414010660658946049-xWM9/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAADTOVcBe1e_ZpiJ2AotNm5FnUIlRuXWV44) accounts.
+
+
+{{< callout caution "Application Form">}}
+[Application Form](https://forms.gle/CHt6Vd3FPgRU9zXp8), Deadline: January ~~16th~~ ~~23rd~~ 31st  2026, 23:59 ET
+Course Start: February 3rd 2026, 2pm ET
+{{< /callout >}}
+
+Please take your time and think carefully about your **Statement of Interest** in the Application Form. We want to know:
+
+ - *Why do you want to be a part of this course?*
+ - *What do you hope to get out of it?* 
+ 
+Please make use of the 2000 characters and please don't write short or AI-generated responses. These *Statements* **will** be read by the Global TAs and Course Organizers, if we feel - based on the **Statement of Interest** - that the applicant is not a good fit for the course, we will not accept them.
+
+## Application Timeline
+
+1. Submit Application Form in time!
+2. ~~Participate~~ Watch [Bio Bootcamp](2026/bootcamp) Recordings (optional)
+3. Come to Class #1 on **February 3rd, 2-5PM EST** (mandatory)
+4. Do Homework until Class #2 → if (submitted on time && OK) → ***Committed Listener***
+5. No Homework → ***Global Listener***
+
+*Attendance will be taken at Classes, Recitations and Node Reviews.*
+
+-->
