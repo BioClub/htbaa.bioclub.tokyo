@@ -9,10 +9,11 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Class #1 Review** | Thursday, February 5th, 21:00 - 22:00 JST |
 | **BioClub Homework #1 Review** | Monday, February 9th, 21:00 - 22:00 JST |
-| **Class #2** | Tuesday, February 10th, 2-5PM EST |
-| **Recitation #2** | Wednesday, February 11th, 5-7PM EST |
+| **Global Class #2** | Tuesday, February 10th, 2-5PM EST |
+| **Global Recitation #2** | Wednesday, February 11th, 5-7PM EST |
+| **BioClub Class #2 Review** | Thursday, February 12th, 21:00 - 22:00 JST |
+
 
 {{< callout caution "First Node Meeting!" >}}
 The BioClub Class #1 Review meetings will be the first node meeting, as students are not assigned a node yet, everyone is welcome! Please come prepared and watch the class & recitaton.
@@ -37,8 +38,8 @@ It is not necessary to come to *all* the Office Hours. If you are interested in 
 
 ###  BioClub Schedule
 
-- **BioClub Tokyo Class Reviews:** Thursdays 21:00-22:00 JST at BioClub Zoom
-- **BioClub Tokyo Homework Reviews:** Mondays 21:00-22:00 JST at BioClub Zoom
+- **BioClub Tokyo Class Reviews:** Thursdays 21:00-22:00 JST at [BioClub Zoom](https://zoom.bioclub.tokyo)
+- **BioClub Tokyo Homework Reviews:** Mondays 21:00-22:00 JST at [BioClub Zoom](https://zoom.bioclub.tokyo)
 
 {{< callout caution "Info">}}
 *Committed Listeners* are expected to watch and particate in all Weekly Classes, Recitations and Reviews.
@@ -50,12 +51,15 @@ All the information, including homework assignments, recordsings, and slides wil
 
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼 Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ)     |        [📼 Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000), [📰 Slides](https://docs.google.com/presentation/d/1MUg_W8Ca8WCzFYg2Q9k0bhM08auzZSLLE3RNpHjKPKo/edit?slide=id.g392f1bd0e2d_0_58#slide=id.g392f1bd0e2d_0_58) |               |                  | 
+| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019?share=copy&fl=sv&fe=ci) |                  | 
 
-<small>*¹ Global HTGAA Course*  
-*² BioClub Tokyo-organised Class & Homework recordings will not be shared publicly, please join a session in-person to get access.*  
+<small>
+*¹ Global HTGAA Course*  
+*² BioClub Tokyo-organised Reviews*  
 *³ No Class this week*  
 *⁴ In Progress…*  
+
+All recordings are Password-protected. Check your email or the [HTGAA Forum](htgaa://forum.htgaa.org) for access.
 </small>
 
 # Global Bio Bootcamp
