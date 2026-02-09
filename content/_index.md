@@ -21,10 +21,10 @@ The BioClub Class #1 Review meetings will be the first node meeting, as students
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 
-# HTGAA 2026 Google Calender
+# HTGAA 2026 Google Calendar
 
-{{< callout time "HTGAA 2026 Google Calender" >}}
-[HTGAA 2026 Google Calender](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the Bootcamp, Office Hours, Classes and Node Meeting Times.
+{{< callout time "HTGAA 2026 Google Calendar" >}}
+[HTGAA 2026 Google Calendar](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the Bootcamp, Office Hours, Classes and Node Meeting Times.
 {{< /callout >}}
 
 It is not necessary to come to *all* the Office Hours. If you are interested in a more information about HTGAA@BioClub, please join our [BioClub Discord Server](https://discord.bioclub.tokyo), and there the `#htgaa` channel.
