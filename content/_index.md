@@ -9,10 +9,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Homework #1 Review** | Monday, February 9th, 21:00 - 22:00 JST |
 | **Global Class #2** | Tuesday, February 10th, 2-5PM EST |
 | **Global Recitation #2** | Wednesday, February 11th, 5-7PM EST |
 | **BioClub Class #2 Review** | Thursday, February 12th, 21:00 - 22:00 JST |
+| **BioClub Homework #2 Review** | Monday, February 16th, 21:00 - 22:00 JST |
 
 
 {{< callout caution "First Node Meeting!" >}}
@@ -51,7 +51,8 @@ All the information, including homework assignments, recordsings, and slides wil
 
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019?share=copy&fl=sv&fe=ci) |                  | 
+| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019?share=copy&fl=sv&fe=ci) | [📼Recording](https://vimeo.com/1163253601?share=copy&fl=sv&fe=ci) |
+|            |        |        |        |        |
 
 <small>
 *¹ Global HTGAA Course*  
