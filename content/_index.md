@@ -58,7 +58,7 @@ All the information, including homework assignments, recordsings, and slides wil
 *² BioClub Tokyo-organised Reviews*  
 *³ No Class this week*  
 *⁴ In Progress…*  
-*⁵ Recording from 2025  
+*⁵ Recording from 2025*  
 
 All recordings are Password-protected. Check your email or the [HTGAA Forum](htgaa://forum.htgaa.org) for access.
 </small>
