@@ -44,7 +44,7 @@ It is not necessary to come to *all* the Office Hours. If you are interested in 
 *Committed Listeners* are expected to watch and particate in all Weekly Classes, Recitations and Reviews.
 {{< /callout >}}
 
-# Homework, Recordings & Slides
+# Recordings
 
 All the information, including homework assignments, recordsings, and slides will be shared on the [HTGAA 2025 Website](https://2026a.htgaa.org). The table below also includes recordings of the BioClub Node Reviews.
 
