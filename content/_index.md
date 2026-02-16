@@ -9,10 +9,11 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Class #2 Review** | Thursday, February 12th, 21:00 - 22:00 JST |
 | **BioClub Homework #2 Review** | Monday, February 16th, 21:00 - 22:00 JST |
-| **NO Class this week**| Tuesday, February 17th, 2-5PM EST |
+| **NO Class this week**| ~~Tuesday, February 17th, 2-5PM EST~~ |
 | **Global Recitation #3** | Wednesday, February 18th, 5-7PM EST |
+| **BioClub Recitation #3 Review** | Thursday, February 19th, 21:00 - 22:00 JST |
+
 
 {{< callout caution "First Node Meeting!" >}}
 The BioClub Class #1 Review meetings will be the first node meeting, as students are not assigned a node yet, everyone is welcome! Please come prepared and watch the class & recitaton.
