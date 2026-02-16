@@ -91,7 +91,7 @@ Will be published after Class #2 (soon).
 | [Ashly Gutierrez Urquidi](https://pages.htgaa.org/2026a-ashly-juana-gutierrez-urquidi) | [Marisa Satsia](https://pages.htgaa.org/2026a-marisa-satsia)                           | [Shishir Nair](https://pages.htgaa.org/2026a-shishir-nair)                     |
 | [Bihar Hikam Ahmadi](https://pages.htgaa.org/2026a-bihar-hikam-ahmadi)                 | [Maryam Farhan](https://pages.htgaa.org/2026a-maryam-farhan)                           | [Shruti Pawar](https://pages.htgaa.org/2026a-shruti-pawar)                     |
 | [Callum Siegmund](https://pages.htgaa.org/2026a-callum-siegmund)                       | [Md. Ashraful Islam](https://pages.htgaa.org/2026a-md-ashraful-islam)                  | [Silfani Febriernita](https://pages.htgaa.org/2026a-silfani-febriernita)       |
-| [ceren ozgen](https://pages.htgaa.org/2026a-ceren-ozgen)                               | [Muhammad Ilham](https://pages.htgaa.org/2026a-muhammad-ilham)                         | [Sophia Irina Harcău](https://pages.htgaa.org/2026a-sophia-irina-harcau)       |
+| [Ceren Ozgen](https://pages.htgaa.org/2026a-ceren-ozgen)                               | [Muhammad Ilham](https://pages.htgaa.org/2026a-muhammad-ilham)                         | [Sophia Irina Harcău](https://pages.htgaa.org/2026a-sophia-irina-harcau)       |
 | [Charley Naney](https://pages.htgaa.org/2026a-charles-naney)                           | [Muhammad Shaiq Paracha](https://pages.htgaa.org/2026a-muhammad-shaiq-paracha)         | [Sude Tanım](https://pages.htgaa.org/2026a-sude-tanim)                         |
 | [Christine Zhou](https://pages.htgaa.org/2026a-christine-zhou)                         | [Muzzammil Mulla](https://pages.htgaa.org/2026a-muzzzammil-mulla)                      | [Sujoy Mahmud](https://pages.htgaa.org/2026a-sujoy-mahmud)                     |
 | [Deep Dalvi](https://pages.htgaa.org/2026a-deep-dalvi)                                 | [Nanditha Nair](https://pages.htgaa.org/2026a-nanditha-nair)                           | [Supanat Deawrattanakun](https://pages.htgaa.org/2026a-supanat-deawrattanakun) |
@@ -101,6 +101,11 @@ Will be published after Class #2 (soon).
 | [Fabrizio Flores Huamán](https://pages.htgaa.org/2026a-fabrizio-flores-huaman)         | [Om Wakade](https://pages.htgaa.org/2026a-om-wakade)                                   | [Yuxin Wang](https://pages.htgaa.org/2026a-yuxin-wang)                         |
 | [Flo Razoux](https://pages.htgaa.org/2026a-flo-razoux)                                 | [Omama Syed](https://pages.htgaa.org/2026a-omama-syed)                                 |                                                                                |
 | [Ganapathi Naayagam](https://pages.htgaa.org/2026a-ganapathi-naayagam)                 | [Pooja Logasundaram](https://pages.htgaa.org/2026a-pooja-logasundaram)                 |                                                                                |
+
+# Communications
+
+Committed Listeners and TAs should use the [BioClub Category](https://forum.htgaa.org/c/bioclub/19) and the [BioClub Chat](https://forum.htgaa.org/chat/c/bioclub/16) on the new HTGAA Forum.
+
 
 # _Committed Listener vs Global Listener?_
 
