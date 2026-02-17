@@ -469,3 +469,22 @@ code .number {
   font-style: italic;
   font-size: 0.8em;
 }
+
+/* participation */
+
+.participation .green {
+  background-color: #0f0;
+  color: #000;
+  border-bottom: 3px solid red;
+}
+
+.participation .yellow {
+  background-color: #ff0;
+  color: #000;
+
+}
+
+.participation .light-yellow {
+  background-color: #ffc;
+  color: #000;
+}

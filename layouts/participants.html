@@ -3,24 +3,28 @@
   <h1>{{ .Title }}</h1>
   
   {{- /* .Content */ -}}
+  <!--
+    Participating Data at BioClub Meeting for Committed Listeners and TAs
+
+    - Download raw Meeting Data from Zoom
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vTfC-5vBbQbiR78fUnoFATntSqItswdPuyYK42JrJN5K3m03lWx34Ctd4Z_L_raGqXT_wMeUcJJ1uQ-/pub?gid=91631279&single=true&output=csv
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vTfC-5vBbQbiR78fUnoFATntSqItswdPuyYK42JrJN5K3m03lWx34Ctd4Z_L_raGqXT_wMeUcJJ1uQ-/pub?gid=0&single=true&output=csv
+    - Check participants name 
+    - Add to table
+    - Mark Homework Presentation
+  -->
   
   {{- /* Getting Data from Google Sheet */ -}}
   
   {{- $taData := slice -}}
-  {{- $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vTfC-5vBbQbiR78fUnoFATntSqItswdPuyYK42JrJN5K3m03lWx34Ctd4Z_L_raGqXT_wMeUcJJ1uQ-/pub?gid=91631279&single=true&output=csv" -}}
-  {{- with try (resources.GetRemote $url) -}}
-    {{- with .Err -}}
-      {{- errorf "%s" . -}}
-    {{- else with .Value -}}
-      {{- $opts := dict "targetType" "slice" -}}
-      {{- $taData = transform.Unmarshal $opts . -}}      
-    {{- else -}}
-      {{- errorf "Unable to get remote resource %q" $url -}}
-    {{- end -}}
+  {{- $file := "HTGAA 2026 BioClub Participation - TAs.csv" -}}
+  {{- with (.Resources.Get $file) -}}
+    {{- $opts := dict "targetType" "slice" -}}
+    {{- $taData = transform.Unmarshal $opts . -}}
   {{- end -}}
   <h3>TAs</h1>
   {{- with $taData -}}
-    <table>
+    <table class="participation">
       <thead>
         <tr>
         {{- range index . 0 -}}<!-- first line -->
@@ -49,20 +53,14 @@
   
   
   {{- $studentData := slice -}}
-  {{- $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vTfC-5vBbQbiR78fUnoFATntSqItswdPuyYK42JrJN5K3m03lWx34Ctd4Z_L_raGqXT_wMeUcJJ1uQ-/pub?gid=0&single=true&output=csv" -}}
-  {{- with try (resources.GetRemote $url) -}}
-    {{- with .Err -}}
-      {{- errorf "%s" . -}}
-    {{- else with .Value -}}
-      {{- $opts := dict "targetType" "slice" -}}
-      {{- $studentData = transform.Unmarshal $opts . -}}      
-    {{- else -}}
-      {{- errorf "Unable to get remote resource %q" $url -}}
-    {{- end -}}
+  {{- $file := "HTGAA 2026 BioClub Participation - Committed Listeners.csv" -}}
+  {{- with (.Resources.Get $file) -}}
+    {{- $opts := dict "targetType" "slice" -}}
+    {{- $studentData = transform.Unmarshal $opts . -}}
   {{- end -}}
   <h3>Committed Listeners</h1>
   {{- with $studentData -}}
-    <table>
+    <table class="participation">
       <thead>
         <tr>
         {{- range index . 0 -}}<!-- first line -->
@@ -79,7 +77,18 @@
             <a href="{{ index . 1 }}">{{ index . 0 }}</a>
           </td>
           {{- range . | after 2 }}
-          <td>{{ . }}</td>
+          
+            {{- $highlight := "" -}}
+            {{- if ge . 45 -}}
+              {{- $highlight = "green" -}}
+            {{- else if ge . 30 -}}
+              {{- $highlight = "yellow" -}}
+            {{- else if ge . 20 -}}
+              {{- $highlight = "light-yellow" -}}
+            {{- end -}}
+          <td class="{{- $highlight -}}">
+            {{ . }}
+          </td>
           {{- end }}
         </tr>
         {{- end -}}
