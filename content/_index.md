@@ -9,10 +9,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Homework #2 Review** | Monday, February 16th, 21:00 - 22:00 JST |
 | **NO Class this week**| ~~Tuesday, February 17th, 2-5PM EST~~ |
 | **Global Recitation #3** | Wednesday, February 18th, 5-7PM EST |
 | **BioClub Recitation #3 Review** | Thursday, February 19th, 21:00 - 22:00 JST |
+| **BioClub Homework #3 Review** | Monday, February 23rd, 21:00 - 22:00 JST |
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 
@@ -47,7 +47,7 @@ All the information, including homework assignments, recordsings, and slides wil
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
 | [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019) | [📼Recording](https://vimeo.com/1163253601) |
-| [Week 2](https://2026a.htgaa.org/2026a/course-pages/weeks/week-02/) | [📼Recording⁴](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [📼Recording](https://mit.zoom.us/rec/play/M68Rn1U_zUmBAFHjCY4earkmXaP1TSKRWxg3b4ALSKnGlJMSKSow2FMWF8deT7PvLY01L_Csm5W6bx7I.vbVNRfogAy-PQ6IX) | [📼Recording](https://vimeo.com/1164347975) |        |
+| [Week 2](https://2026a.htgaa.org/2026a/course-pages/weeks/week-02/) | [📼Recording⁴](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [📼Recording](https://mit.zoom.us/rec/play/M68Rn1U_zUmBAFHjCY4earkmXaP1TSKRWxg3b4ALSKnGlJMSKSow2FMWF8deT7PvLY01L_Csm5W6bx7I.vbVNRfogAy-PQ6IX) | [📼Recording](https://vimeo.com/1164347975) | [📼Recording](https://vimeo.com/1165354751) |
 
 <small>
 ¹ Global HTGAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…, ⁴ Recording from 2025.  
@@ -72,12 +72,12 @@ Will be published after Class #2 (soon).
 
 |                   |               |                |
 | :---------------- | :------------ | :------------- |
-| [Abrar Hasan](https://pages.htgaa.org/2026a-abrar-hasan)                               | [Gargi Deshmukh ](https://pages.htgaa.org/2026a-gargi-deshmukh)                        | [Radi Khodr](https://pages.htgaa.org/2026a-radi-khodr)                         |
-| [Achraf Chaddad](https://pages.htgaa.org/2026a-achraf-chaddad)                         | [Hotaku Komatsu](https://pages.htgaa.org/2026a-hotaku-komatsu)                         | [Rafi Ramadhan Anwar](https://pages.htgaa.org/2026a-rafi-ramadhan-anwar)       |
+| [Abrar Hasan](https://pages.htgaa.org/2026a-abrar-hasan)                               | [Gargi Deshmukh ](https://pages.htgaa.org/2026a-gargi-deshmukh)                        | [Rafi Ramadhan Anwar](https://pages.htgaa.org/2026a-rafi-ramadhan-anwar)       |
+| [Achraf Chaddad](https://pages.htgaa.org/2026a-achraf-chaddad)                         | [Hotaku Komatsu](https://pages.htgaa.org/2026a-hotaku-komatsu)                         | [Ritika Saha](https://pages.htgaa.org/2026a-ritika-saha)                       |
 | [Adriana Cabrera](https://pages.htgaa.org/2026a-adriana-cabrera)                       | [Jamie Huang](https://pages.htgaa.org/2026a-jamie-huang)                               | [Ritika Saha](https://pages.htgaa.org/2026a-ritika-saha)                       |
-| [Afifah Nurul Ilmi](https://pages.htgaa.org/2026a-afifah-nurul-ilmi)                   | [João Neves](https://pages.htgaa.org/2026a-joao-neves)                                 | [Ritika Saha](https://pages.htgaa.org/2026a-ritika-saha)                       |
-| [Felipe Alan Salazar Bravo](https://pages.htgaa.org/2026a-alan-bravo)                  | [Jobins John Cheria](https://pages.htgaa.org/2026a-jobins-john-cheria)                 | [Riu Yanagida](https://pages.htgaa.org/2026a-riu-yanagida)                     |
-| [Alejandro Ortiz](https://pages.htgaa.org/2026a-alejandro-ortiz)                       | [Jorge Vilchez](https://pages.htgaa.org/2026a-jorge-vilchez)                           | [Ryan Zukhri](https://pages.htgaa.org/2026a-ryan-zukhri)                       |
+| [Afifah Nurul Ilmi](https://pages.htgaa.org/2026a-afifah-nurul-ilmi)                   | [João Neves](https://pages.htgaa.org/2026a-joao-neves)                                 | [Riu Yanagida](https://pages.htgaa.org/2026a-riu-yanagida)                     |
+| [Felipe Alan Salazar Bravo](https://pages.htgaa.org/2026a-alan-bravo)                  | [Jobins John Cheria](https://pages.htgaa.org/2026a-jobins-john-cheria)                 | [Ryan Zukhri](https://pages.htgaa.org/2026a-ryan-zukhri)                       |
+| [Alejandro Ortiz](https://pages.htgaa.org/2026a-alejandro-ortiz)                       | [Jorge Vilchez](https://pages.htgaa.org/2026a-jorge-vilchez)                           | [Saba Saeed](https://pages.htgaa.org/2026a-saba-saeed)                         |
 | [Andrei Vasilan](https://pages.htgaa.org/2026a-andrei-vasilan)                         | [Katharine Kolin](https://pages.htgaa.org/2026a-katharine-kolin)                       | [Sami Ur Rehman](https://pages.htgaa.org/2026a-sami-ur-rehman)                 |
 | [Angela Sunaryo](https://pages.htgaa.org/2026a-angela-sunaryo)                         | [Liam Edwards-Playne](https://pages.htgaa.org/2026a-liam-edwards-playne)               | [Samriddh Sadhukhan](https://pages.htgaa.org/2026a-samriddh-sadhukhan)         |
 | [Anushka Shinde](https://pages.htgaa.org/2026a-anushka-shinde)                         | [Lit Liao](https://pages.htgaa.org/2026a-lit-liao)                                     | [Samudera Mukhalid](https://pages.htgaa.org/2026a-samudera-mukhalid)           |
@@ -87,16 +87,17 @@ Will be published after Class #2 (soon).
 | [Ashly Gutierrez Urquidi](https://pages.htgaa.org/2026a-ashly-juana-gutierrez-urquidi) | [Marisa Satsia](https://pages.htgaa.org/2026a-marisa-satsia)                           | [Shishir Nair](https://pages.htgaa.org/2026a-shishir-nair)                     |
 | [Bihar Hikam Ahmadi](https://pages.htgaa.org/2026a-bihar-hikam-ahmadi)                 | [Maryam Farhan](https://pages.htgaa.org/2026a-maryam-farhan)                           | [Shruti Pawar](https://pages.htgaa.org/2026a-shruti-pawar)                     |
 | [Callum Siegmund](https://pages.htgaa.org/2026a-callum-siegmund)                       | [Md. Ashraful Islam](https://pages.htgaa.org/2026a-md-ashraful-islam)                  | [Silfani Febriernita](https://pages.htgaa.org/2026a-silfani-febriernita)       |
-| [Ceren Ozgen](https://pages.htgaa.org/2026a-ceren-ozgen)                               | [Muhammad Ilham](https://pages.htgaa.org/2026a-muhammad-ilham)                         | [Sophia Irina Harcău](https://pages.htgaa.org/2026a-sophia-irina-harcau)       |
-| [Charley Naney](https://pages.htgaa.org/2026a-charles-naney)                           | [Muhammad Shaiq Paracha](https://pages.htgaa.org/2026a-muhammad-shaiq-paracha)         | [Sude Tanım](https://pages.htgaa.org/2026a-sude-tanim)                         |
-| [Christine Zhou](https://pages.htgaa.org/2026a-christine-zhou)                         | [Muzzammil Mulla](https://pages.htgaa.org/2026a-muzzzammil-mulla)                      | [Sujoy Mahmud](https://pages.htgaa.org/2026a-sujoy-mahmud)                     |
-| [Deep Dalvi](https://pages.htgaa.org/2026a-deep-dalvi)                                 | [Nanditha Nair](https://pages.htgaa.org/2026a-nanditha-nair)                           | [Supanat Deawrattanakun](https://pages.htgaa.org/2026a-supanat-deawrattanakun) |
-| [Devayan Das](https://pages.htgaa.org/2026a-devayan-das)                               | [Nathaniel Nainggolan ](https://pages.htgaa.org/2026a-nathaniel-nainggolan)            | [Taliana Vyaltseva](https://pages.htgaa.org/2026a-taliana-vyaltseva)           |
-| [Diogo Custódio](https://pages.htgaa.org/2026a-diogo-custodio)                         | [Nipada Srisereenuwat](https://pages.htgaa.org/2026a-nipada-srisereenuwat)             | [Tomoki Oshita](https://pages.htgaa.org/2026a-tomoki-oshita)                   |
-| [Ednah Wanjiru](https://pages.htgaa.org/2026a-ednah-wanjiru)                           | [Nourelden Rihan](https://pages.htgaa.org/2026a-nourelden-rihan)                       | [Vova Manannikov](https://pages.htgaa.org/2026a-vova-manannikov)               |
-| [Fabrizio Flores Huamán](https://pages.htgaa.org/2026a-fabrizio-flores-huaman)         | [Om Wakade](https://pages.htgaa.org/2026a-om-wakade)                                   | [Yuxin Wang](https://pages.htgaa.org/2026a-yuxin-wang)                         |
-| [Flo Razoux](https://pages.htgaa.org/2026a-flo-razoux)                                 | [Omama Syed](https://pages.htgaa.org/2026a-omama-syed)                                 |                                                                                |
-| [Ganapathi Naayagam](https://pages.htgaa.org/2026a-ganapathi-naayagam)                 | [Pooja Logasundaram](https://pages.htgaa.org/2026a-pooja-logasundaram)                 |                                                                                |
+| [Casian Veselin](https://pages.htgaa.org/2026a/casian-veselin)                         | [Muhammad Ilham](https://pages.htgaa.org/2026a-muhammad-ilham)                         | [Sophia Irina Harcău](https://pages.htgaa.org/2026a-sophia-irina-harcau)       |
+| [Ceren Ozgen](https://pages.htgaa.org/2026a-ceren-ozgen)                               | [Muhammad Shaiq Paracha](https://pages.htgaa.org/2026a-muhammad-shaiq-paracha)         | [Sude Tanım](https://pages.htgaa.org/2026a-sude-tanim)                         |
+| [Charley Naney](https://pages.htgaa.org/2026a-charles-naney)                           | [Muzzammil Mulla](https://pages.htgaa.org/2026a-muzzzammil-mulla)                      | [Sujoy Mahmud](https://pages.htgaa.org/2026a-sujoy-mahmud)                     |
+| [Christine Zhou](https://pages.htgaa.org/2026a-christine-zhou)                         | [Nanditha Nair](https://pages.htgaa.org/2026a-nanditha-nair)                           | [Supanat Deawrattanakun](https://pages.htgaa.org/2026a-supanat-deawrattanakun) |
+| [Deep Dalvi](https://pages.htgaa.org/2026a-deep-dalvi)                                 | [Nathaniel Nainggolan ](https://pages.htgaa.org/2026a-nathaniel-nainggolan)            | [Taliana Vyaltseva](https://pages.htgaa.org/2026a-taliana-vyaltseva)           |
+| [Devayan Das](https://pages.htgaa.org/2026a-devayan-das)                               | [Nipada Srisereenuwat](https://pages.htgaa.org/2026a-nipada-srisereenuwat)             | [Tomoki Oshita](https://pages.htgaa.org/2026a-tomoki-oshita)                   |
+| [Diogo Custódio](https://pages.htgaa.org/2026a-diogo-custodio)                         | [Nourelden Rihan](https://pages.htgaa.org/2026a-nourelden-rihan)                       | [Vova Manannikov](https://pages.htgaa.org/2026a-vova-manannikov)               |
+| [Ednah Wanjiru](https://pages.htgaa.org/2026a-ednah-wanjiru)                           | [Om Wakade](https://pages.htgaa.org/2026a-om-wakade)                                   | [Yuxin Wang](https://pages.htgaa.org/2026a-yuxin-wang)                         |
+| [Fabrizio Flores Huamán](https://pages.htgaa.org/2026a-fabrizio-flores-huaman)         | [Omama Syed](https://pages.htgaa.org/2026a-omama-syed)                                 |                                                                                |
+| [Flo Razoux](https://pages.htgaa.org/2026a-flo-razoux)                                 | [Pooja Logasundaram](https://pages.htgaa.org/2026a-pooja-logasundaram)                 |                                                                                |
+| [Ganapathi Naayagam](https://pages.htgaa.org/2026a-ganapathi-naayagam)                 | [Radi Khodr](https://pages.htgaa.org/2026a-radi-khodr)                                 |                                                                                |
 
 # Communications
 
