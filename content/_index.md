@@ -5,6 +5,11 @@ draft = false
 
 Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one of the Global Nodes of the growing HTGAA Network. Lectures and Recitations are shared globally from the MIT Course 'How to Grow Almost Anything', each node will organize additional Class & Homework Reviews sessions, as well as hands-on experiments in the lab of the local node.
 
+{{< callout caution "Info">}}
+*Committed Listeners* are expected to watch and particate in all Weekly Classes, Recitations and Reviews.  
+CLs are also required to atttend ***at least 33%*** of all BioClub Node Meetings.
+{{< /callout >}}
+
 # Upcoming 
 
 |      |      |
@@ -15,14 +20,6 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 | **BioClub Homework #3 Review** | Monday, February 23rd, 21:00 - 22:00 JST |
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
-
-# HTGAA 2026 Google Calendar
-
-{{< callout time "HTGAA 2026 Google Calendar" >}}
-[HTGAA 2026 Google Calendar](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the Bootcamp, Office Hours, Classes and Node Meeting Times.
-{{< /callout >}}
-
-It is not necessary to come to *all* the Office Hours. If you are interested in a more information about HTGAA@BioClub, please join our [BioClub Discord Server](https://discord.bioclub.tokyo), and there the `#htgaa` channel.
 
 # Meeting Times
 
@@ -36,9 +33,7 @@ It is not necessary to come to *all* the Office Hours. If you are interested in 
 - **BioClub Tokyo Class Reviews:** Thursdays 21:00-22:00 JST at [BioClub Zoom](https://zoom.bioclub.tokyo)
 - **BioClub Tokyo Homework Reviews:** Mondays 21:00-22:00 JST at [BioClub Zoom](https://zoom.bioclub.tokyo)
 
-{{< callout caution "Info">}}
-*Committed Listeners* are expected to watch and particate in all Weekly Classes, Recitations and Reviews.
-{{< /callout >}}
+[HTGAA 2026 Google Calendar](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the Bootcamp, Office Hours, Classes and Node Meeting Times.
 
 # Recordings
 
@@ -46,11 +41,25 @@ All the information, including homework assignments, recordsings, and slides wil
 
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/) | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019) | [📼Recording](https://vimeo.com/1163253601) |
-| [Week 2](https://2026a.htgaa.org/2026a/course-pages/weeks/week-02/) | [📼Recording⁴](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [📼Recording](https://mit.zoom.us/rec/play/M68Rn1U_zUmBAFHjCY4earkmXaP1TSKRWxg3b4ALSKnGlJMSKSow2FMWF8deT7PvLY01L_Csm5W6bx7I.vbVNRfogAy-PQ6IX) | [📼Recording](https://vimeo.com/1164347975) | [📼Recording](https://vimeo.com/1165354751) |
+| [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/)  | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019) | [📼Recording](https://vimeo.com/1163253601) |
+| [Week 2](https://2026a.htgaa.org/2026a/course-pages/weeks/week-02/)  | [📼Recording⁴](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [📼Recording](https://mit.zoom.us/rec/play/M68Rn1U_zUmBAFHjCY4earkmXaP1TSKRWxg3b4ALSKnGlJMSKSow2FMWF8deT7PvLY01L_Csm5W6bx7I.vbVNRfogAy-PQ6IX) | [📼Recording](https://vimeo.com/1164347975) | [📼Recording](https://vimeo.com/1165354751) |
+| [Week 3](https://2026a.htgaa.org/2026a/course-pages/weeks/week-03/)  | *No Class* |           |           |           |
+| [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  |           |           |           |           |
+| [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  |           |           |           |           |
+| [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  |           |           |           |           |
+| [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  |           |           |           |           |
+| Week 8 | *No Class* | *No Recitation* |           |           |
+| [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) |           |           |           |           |
+| [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) |           |           |           |           |
+| [Week 11](https://2026a.htgaa.org/2026a/course-pages/weeks/week-11/) |           |           |           |           |
+| [Week 12](https://2026a.htgaa.org/2026a/course-pages/weeks/week-12/) |           |           |           |           |
+| [Week 13](https://2026a.htgaa.org/2026a/course-pages/weeks/week-13/) |           |           |           |           |
+| [Week 14](https://2026a.htgaa.org/2026a/course-pages/weeks/week-14/) |           |           |           |           |
+
+
 
 <small>
-¹ Global HTGAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…, ⁴ Recording from 2025.  
+¹ Global HTGAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…, ⁴ Recording from 2025<br />
 All recordings are Password-protected. Check your email or the <a href="https://forum.htgaa.org">HTGAA Forum</a> for access.
 </small>
 
@@ -98,6 +107,8 @@ Will be published after Class #2 (soon).
 | [Fabrizio Flores Huamán](https://pages.htgaa.org/2026a-fabrizio-flores-huaman)         | [Omama Syed](https://pages.htgaa.org/2026a-omama-syed)                                 |                                                                                |
 | [Flo Razoux](https://pages.htgaa.org/2026a-flo-razoux)                                 | [Pooja Logasundaram](https://pages.htgaa.org/2026a-pooja-logasundaram)                 |                                                                                |
 | [Ganapathi Naayagam](https://pages.htgaa.org/2026a-ganapathi-naayagam)                 | [Radi Khodr](https://pages.htgaa.org/2026a-radi-khodr)                                 |                                                                                |
+
+<!-- Participations [Statistics](2026/participation) -->
 
 # Communications
 

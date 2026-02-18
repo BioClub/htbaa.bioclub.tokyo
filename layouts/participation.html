@@ -16,67 +16,31 @@
   
   {{- /* Getting Data from Google Sheet */ -}}
   
-  {{- $taData := slice -}}
-  {{- $file := "HTGAA 2026 BioClub Participation - TAs.csv" -}}
-  {{- with (.Resources.Get $file) -}}
-    {{- $opts := dict "targetType" "slice" -}}
-    {{- $taData = transform.Unmarshal $opts . -}}
-  {{- end -}}
-  <h3>TAs</h1>
-  {{- with $taData -}}
-    <table class="participation">
-      <thead>
-        <tr>
-        {{- range index . 0 -}}<!-- first line -->
-          {{- if ne . "Link" -}}<!-- no equal to "Link " -->
-          <th>{{ . }}</th>
-          {{- end -}}
-        {{- end }}
-        </tr>
-      </thead>
-      <tbody>
-        {{- range . | after 2 -}}<!-- after line 2 -->
-        <tr>
-          <td>
-            <a href="{{ index . 1 }}">{{ index . 0 }}</a>
-          </td>
-          {{- range . | after 2 }}
-          <td>{{ . }}</td>
-          {{- end }}
-        </tr>
-        {{- end -}}
-      </tbody>
-    </table>
-  {{- end -}}
-  
-  
-  
-  
   {{- $studentData := slice -}}
   {{- $file := "HTGAA 2026 BioClub Participation - Committed Listeners.csv" -}}
   {{- with (.Resources.Get $file) -}}
     {{- $opts := dict "targetType" "slice" -}}
     {{- $studentData = transform.Unmarshal $opts . -}}
   {{- end -}}
-  <h3>Committed Listeners</h1>
   {{- with $studentData -}}
     <table class="participation">
       <thead>
         <tr>
         {{- range index . 0 -}}<!-- first line -->
-          {{- if ne . "Link" -}}<!-- no equal to "Link " -->
+          {{- if ne . "Link" "Activity" "Total" -}}
           <th>{{ . }}</th>
           {{- end -}}
         {{- end }}
         </tr>
       </thead>
       <tbody>
-        {{- range . | after 2 -}}<!-- after line 2 -->
+        {{- range . | after 2 -}}<!-- after row 2 -->
         <tr>
           <td>
             <a href="{{ index . 1 }}">{{ index . 0 }}</a>
+            <a href="{{ index . 2 }}">⤴︎</a>
           </td>
-          {{- range . | after 2 }}
+          {{- range . | after 4 }}<!-- after column 4 -->
           
             {{- $highlight := "" -}}
             {{- if ge . 45 -}}

@@ -1,7 +1,6 @@
 +++
-layout = 'participants'
-title = 'Participation HTGAA 2026'
+layout = 'participation'
+title = 'Committed Listener Participations'
 draft = false
 +++
 
-# Participation Data

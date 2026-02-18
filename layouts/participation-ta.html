@@ -1,0 +1,51 @@
+{{ define "main" }}
+  <a href="/" class="bold">&nbsp;↩︎&nbsp;</a>
+  <h1>{{ .Title }}</h1>
+  
+  {{- /* .Content */ -}}
+  <!--
+    Participating Data at BioClub Meeting for Committed Listeners and TAs
+
+    - Download raw Meeting Data from Zoom
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vTfC-5vBbQbiR78fUnoFATntSqItswdPuyYK42JrJN5K3m03lWx34Ctd4Z_L_raGqXT_wMeUcJJ1uQ-/pub?gid=91631279&single=true&output=csv
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vTfC-5vBbQbiR78fUnoFATntSqItswdPuyYK42JrJN5K3m03lWx34Ctd4Z_L_raGqXT_wMeUcJJ1uQ-/pub?gid=0&single=true&output=csv
+    - Check participants name 
+    - Add to table
+    - Mark Homework Presentation
+  -->
+  
+  {{- /* Getting Data from Google Sheet */ -}}
+  
+  {{- $taData := slice -}}
+  {{- $file := "HTGAA 2026 BioClub Participation - TAs.csv" -}}
+  {{- with (.Resources.Get $file) -}}
+    {{- $opts := dict "targetType" "slice" -}}
+    {{- $taData = transform.Unmarshal $opts . -}}
+  {{- end -}}
+  <h3>TAs</h1>
+  {{- with $taData -}}
+    <table class="participation">
+      <thead>
+        <tr>
+        {{- range index . 0 -}}<!-- first line -->
+          {{- if ne . "Link" -}}<!-- no equal to "Link " -->
+          <th>{{ . }}</th>
+          {{- end -}}
+        {{- end }}
+        </tr>
+      </thead>
+      <tbody>
+        {{- range . | after 2 -}}<!-- after line 2 -->
+        <tr>
+          <td>
+            <a href="{{ index . 1 }}">{{ index . 0 }}</a>
+          </td>
+          {{- range . | after 2 }}
+          <td>{{ . }}</td>
+          {{- end }}
+        </tr>
+        {{- end -}}
+      </tbody>
+    </table>
+  {{- end -}}
+{{- end -}}
