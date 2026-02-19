@@ -80,6 +80,30 @@ Will be published after Class #2 (soon).
 
 # BioClub Committed Listeners
 
+## Committed Listener Milestones
+
+### Milestone 1
+
+Congratulations for submitted the HW1 on time, and becoming a Committed Listener. That was Milestone 1.
+
+### Milestone 2
+
+In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following:
+
+- [ ] **Make HW 1-5 until March 10th 2pm ET**. We understand that finishing HW 100% is difficult, but you need to have some content for each week. Having no content (or non-working links) means you did not do the HW.
+- [ ] Attend at least 33% of BioClub Review Meetings. Week 1 will not count, as you were not officially assigned to a node year. We will calculate attendance from Week 2 - Weeke 5.
+- [ ] Share your 3 Project Ideas on the Shared CL Slide Deck - and on your website
+- [ ] Send a message in the [BioClub Category](https://forum.htgaa.org/c/bioclub/19) on the Forum
+- [ ] Send a message in the [BioClub Chat](https://forum.htgaa.org/chat/c/bioclub/16) on the Forum
+
+_No extension will be granted._
+
+If you fail to meet these critera, you will be removed from the BioClub _Committed Listeners_.
+
+Any questions? Ask in the Review Session or on the Forum.
+
+### Current Committed Listeners
+
 |                   |               |                |
 | :---------------- | :------------ | :------------- |
 | [Abrar Hasan](https://pages.htgaa.org/2026a-abrar-hasan)                               | [Gargi Deshmukh ](https://pages.htgaa.org/2026a-gargi-deshmukh)                        | [Rafi Ramadhan Anwar](https://pages.htgaa.org/2026a-rafi-ramadhan-anwar)       |
