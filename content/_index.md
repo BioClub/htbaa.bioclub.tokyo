@@ -88,9 +88,9 @@ Congratulations for submitted the HW1 on time, and becoming a Committed Listener
 
 ### Milestone 2
 
-In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following:
+In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following until March 10th 2pm ET.
 
-- [ ] **Make HW 1-5 until March 10th 2pm ET**. We understand that finishing HW 100% is difficult, but you need to have some content for each week. Having no content (or non-working links) means you did not do the HW.
+- [ ] Make HW 1-5. We understand that finishing HW 100% is difficult, but you need to have some content for each week. Having no content (or non-working links) means you did not do the HW.
 - [ ] Attend at least 33% of BioClub Review Meetings. Week 1 will not count, as you were not officially assigned to a node year. We will calculate attendance from Week 2 - Weeke 5.
 - [ ] Share your 3 Project Ideas on the Shared CL Slide Deck - and on your website
 - [ ] Send a message in the [BioClub Category](https://forum.htgaa.org/c/bioclub/19) on the Forum
