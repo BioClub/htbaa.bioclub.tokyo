@@ -16,7 +16,7 @@ CLs are also required to atttend ***at least 33%*** of all BioClub Node Meetings
 | :--- | :--- |
 | **BioClub Recitation #3 Review** | Thursday, February 19th, 21:00 - 22:00 JST |
 | **BioClub Homework #3 Review** | Monday, February 23rd, 21:00 - 22:00 JST |
-| **Global Class #4**| ~~Tuesday, February 24th, 2-5PM EST~~ |
+| **Global Class #4**| Tuesday, February 24th, 2-5PM EST |
 | **Global Recitation #4** | Wednesday, February 25th, 5-7PM EST |
 
 
