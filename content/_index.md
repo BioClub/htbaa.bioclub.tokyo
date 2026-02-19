@@ -14,10 +14,11 @@ CLs are also required to atttend ***at least 33%*** of all BioClub Node Meetings
 
 |      |      |
 | :--- | :--- |
-| **NO Class this week**| ~~Tuesday, February 17th, 2-5PM EST~~ |
-| **Global Recitation #3** | Wednesday, February 18th, 5-7PM EST |
 | **BioClub Recitation #3 Review** | Thursday, February 19th, 21:00 - 22:00 JST |
 | **BioClub Homework #3 Review** | Monday, February 23rd, 21:00 - 22:00 JST |
+| **Global Class #4**| ~~Tuesday, February 24th, 2-5PM EST~~ |
+| **Global Recitation #4** | Wednesday, February 25th, 5-7PM EST |
+
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 
@@ -43,7 +44,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | :--------- | :------ | :---------- | :------------ | :--------------- |
 | [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/)  | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019) | [📼Recording](https://vimeo.com/1163253601) |
 | [Week 2](https://2026a.htgaa.org/2026a/course-pages/weeks/week-02/)  | [📼Recording⁴](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [📼Recording](https://mit.zoom.us/rec/play/M68Rn1U_zUmBAFHjCY4earkmXaP1TSKRWxg3b4ALSKnGlJMSKSow2FMWF8deT7PvLY01L_Csm5W6bx7I.vbVNRfogAy-PQ6IX) | [📼Recording](https://vimeo.com/1164347975) | [📼Recording](https://vimeo.com/1165354751) |
-| [Week 3](https://2026a.htgaa.org/2026a/course-pages/weeks/week-03/)  | *No Class* |           |           |           |
+| [Week 3](https://2026a.htgaa.org/2026a/course-pages/weeks/week-03/)  | *No Class* | [📼Recording](https://mit.zoom.us/rec/share/a3jueEw2GphFkLZgd-qI8Q702kW4bXMtfueZnW-WKenH2Nr5s_3YqAqCiHQHOoi3._npA5H5sqxfSOVU1) |           |           |
 | [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  |           |           |           |           |
 | [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  |           |           |           |           |
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  |           |           |           |           |
