@@ -1,0 +1,36 @@
+{{ with $file := .Get 0 }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+      <table class="participation">
+        <thead>
+          <tr>
+            {{ range index . 0 }}
+              {{- if ne . "Link" "Activity" "Post" "Message" "FP Slides" "FP Website" "MoU" -}}
+              <th>{{ . }}</th>
+              {{- end -}}
+            {{ end }}
+          </tr>
+        </thead>
+        <tbody>
+          {{ range after 1 . }}
+            <tr>
+              <td>
+                <a href="{{ index . 1 }}">{{ index . 0 }}</a>
+                <a href="{{ index . 2 }}">⤴︎</a>
+              </td>
+              {{- range $i, $e := . | after 11 }}<!-- after column 11 -->
+              
+              <td>
+              {{- if gt $e 0 -}}
+                {{ math.Round $e  }}
+                {{- if eq $i 0 -}}%{{- end -}}
+              {{ end }}
+              </td>
+              {{ end }}
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    {{ end }}
+  {{ end }}
+{{ end }}
