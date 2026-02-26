@@ -113,7 +113,8 @@ Any questions? Ask in the Review Session or on the Forum.
 
 {{< students "HTGAA 2026 BioClub Participation - Committed Listeners.csv" >}}
 
-*Participation at BioClub Sessions is capped at 60min.*
+- *Participation at BioClub Sessions is capped at 60min.*
+- *If you believe there is an error in the recording of your attendance, please let me know.*
 
 <!-- Participations [Statistics](2026/participation) -->
 
