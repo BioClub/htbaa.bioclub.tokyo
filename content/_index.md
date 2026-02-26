@@ -109,7 +109,11 @@ Any questions? Ask in the Review Session or on the Forum.
 
 ### Current Committed Listeners
 
+[CL Final Project Ideas](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_55#slide=id.g3c8d4cf45e8_0_55)
+
 {{< students "HTGAA 2026 BioClub Participation - Committed Listeners.csv" >}}
+
+*Participation at BioClub Sessions is capped at 60min.*
 
 <!-- Participations [Statistics](2026/participation) -->
 
