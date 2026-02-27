@@ -19,10 +19,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Recitation #4 Review** | Thursday, February 26th, 21:00 - 22:00 JST |
 | **BioClub Homework #4 Review** | Monday, March 2nd, 21:00 - 22:00 JST |
 | **Global Class #5**| Tuesday, March 3rd, 2-5PM EST |
 | **Global Recitation #5** | Wednesday, March 4th, 5-7PM EST |
+| **BioClub Class & Recitation #5 Review** | Thursday, March 5th, 21:00 - 22:00 JST |
 
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
@@ -50,7 +50,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 1](https://2026a.htgaa.org/2026a/course-pages/weeks/week-01/)  | [📼Recording](https://mit.zoom.us/rec/share/C43WV58egtd4n05TD_aI1KA7_hspIt1Dlq9UcCEfImSxvhp35FwI-IyIKssNbUef.G9Bl0_zkLJRca4RZ) | [📼Recording](https://mit.zoom.us/rec/share/kgR29Xks7fOXkzhgff6QPXoEGqa1-9jITK6pj44sBwky728XF8revY-lfFPDx69L.5NhD1v4zzQ4HItQi?startTime=1770243177000) | [📼Recording](https://vimeo.com/1162175019) | [📼Recording](https://vimeo.com/1163253601) |
 | [Week 2](https://2026a.htgaa.org/2026a/course-pages/weeks/week-02/)  | [📼Recording⁴](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [📼Recording](https://mit.zoom.us/rec/play/M68Rn1U_zUmBAFHjCY4earkmXaP1TSKRWxg3b4ALSKnGlJMSKSow2FMWF8deT7PvLY01L_Csm5W6bx7I.vbVNRfogAy-PQ6IX) | [📼Recording](https://vimeo.com/1164347975) | [📼Recording](https://vimeo.com/1165354751) |
 | [Week 3](https://2026a.htgaa.org/2026a/course-pages/weeks/week-03/)  | *No Class* | [📼Recording](https://mit.zoom.us/rec/share/a3jueEw2GphFkLZgd-qI8Q702kW4bXMtfueZnW-WKenH2Nr5s_3YqAqCiHQHOoi3._npA5H5sqxfSOVU1) | [📼Recording](https://vimeo.com/1166339465) | [📼Recording](https://vimeo.com/1167355737) |
-| [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  | [📼Recording](https://mit.zoom.us/rec/share/fgI4Auvyh-X2jFLyjRHyjM2pjJh6JDGSOtHmziIeuE9t6tZIBxCzFQDOrECJAWaa.il561gxUL9DK_O2a?startTime=1771965322000) | [📼Recording](https://mit.zoom.us/rec/share/QDU4Od6BIXT5h8g4HzToKiABb1ANrH9zoaVbJkf52P8V3X3lDxInjZ7cLRLrxUQP.9mEOIF-qWfFG5Ni1) |           |           |
+| [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  | [📼Recording](https://mit.zoom.us/rec/share/fgI4Auvyh-X2jFLyjRHyjM2pjJh6JDGSOtHmziIeuE9t6tZIBxCzFQDOrECJAWaa.il561gxUL9DK_O2a?startTime=1771965322000) | [📼Recording](https://mit.zoom.us/rec/share/QDU4Od6BIXT5h8g4HzToKiABb1ANrH9zoaVbJkf52P8V3X3lDxInjZ7cLRLrxUQP.9mEOIF-qWfFG5Ni1) | [📼Recording](https://vimeo.com/1168482715) |           |
 | [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  |            |                 |           |           |
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  |            |                 |           |           |
 | [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  |            |                 |           |           |
@@ -96,8 +96,8 @@ Congratulations for submitted the HW1 on time, and becoming a Committed Listener
 In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following until March 10th 2pm ET.
 
 - [ ] Make HW 1-5. We understand that finishing HW 100% is difficult, but you need to have some content for each week. Having no content (or non-working links) means you did not do the HW.
-- [ ] Attend at least 33% of BioClub Review Meetings. Week 1 will not count, as you were not officially assigned to a node year. We will calculate attendance from Week 2 - Weeke 5.
-- [ ] Share your 3 Project Ideas on the Shared CL Slide Deck - and on your website
+- [ ] Attend at least 33% of BioClub Review Meetings.
+- [ ] Share your 3 Project Ideas on the [Shared CL Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) - and on your website
 - [ ] Send a message in the [BioClub Category](https://forum.htgaa.org/c/bioclub/19) on the Forum
 - [ ] Send a message in the [BioClub Chat](https://forum.htgaa.org/chat/c/bioclub/16) on the Forum
 
@@ -109,7 +109,7 @@ Any questions? Ask in the Review Session or on the Forum.
 
 ### Current Committed Listeners
 
-[CL Final Project Ideas](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_55#slide=id.g3c8d4cf45e8_0_55)
+[CL Final Project Ideas](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70)
 
 {{< students "HTGAA 2026 BioClub Participation - Committed Listeners.csv" >}}
 
