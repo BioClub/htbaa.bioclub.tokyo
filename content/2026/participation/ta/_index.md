@@ -1,7 +1,7 @@
 +++
-layout = 'participation-ta'
 title = 'TA Participation HTGAA 2026'
 draft = false
 +++
 
-# TA Participation Data
+{{< tas "HTGAA 2026 BioClub Participation - TAs.csv" >}}
+

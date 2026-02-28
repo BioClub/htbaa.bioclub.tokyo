@@ -12,7 +12,7 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 - Make HW 1 - 5
 - **3 Final Project Ideas on the [Shared Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) & your Documentation Pages**
 - Make a [post](https://forum.htgaa.org/c/bioclub/19) and send a [chat message](https://forum.htgaa.org/chat/c/bioclub/16) on the Forum
-<!-- - Sign the MoU -->
+- Sign the [Committed Listener MoU](https://pages.htgaa.org/georg-tremmel/mou/cl_bioclub_mou/)
 {{< /callout >}}
 
 # Upcoming 
