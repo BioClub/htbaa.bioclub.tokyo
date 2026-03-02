@@ -54,7 +54,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  |            |                 |           |           |
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  |            |                 |           |           |
 | [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  |            |                 |           |           |
-|  Week 8                                                              | *No Class* | *No Recitation* |           |           |
+|  Week 8                                                              | *No Class* | *No Recitation* | *No Review* | *No Review* |
 | [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) |            |                 |           |           |
 | [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) |            |                 |           |           |
 | [Week 11](https://2026a.htgaa.org/2026a/course-pages/weeks/week-11/) |            |                 |           |           |
