@@ -23,20 +23,13 @@
               {{- $highlight := "" -}}
                 {{- if eq $i 11 -}}
                   {{- $highlight = "bold" -}}
-                  {{- if ge $e 33 -}}
-                    {{- $highlight = "bold light-yellow" -}}
-                  {{- end -}}
+                  {{- if ge $e 33 -}}{{- $highlight = "bold light-yellow" -}}{{- end -}}
                 {{- end -}}
-                {{- if eq $e "TRUE" -}}
-                  {{- $highlight = "light-yellow" -}}
-                {{ end }}
+                {{- if eq $e "TRUE" -}}{{- $highlight = "light-yellow" -}}{{ end }}
               <td class="{{- $highlight -}}">
               {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 11 -}}%{{- end -}}{{- end -}}
               {{- if lt $e 0 -}}<strong><em>{{- math.Abs $e -}}</em></strong>{{- end -}}
-              {{- if eq $e "TRUE" -}}
-              ✔︎
-              {{ end }}
-              
+              {{- if eq $e "TRUE" -}}✔︎{{ end }}
               </td>
               {{ end }}
             </tr>
