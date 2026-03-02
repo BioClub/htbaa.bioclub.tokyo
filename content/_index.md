@@ -9,10 +9,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 **Deadline: March 10th**
 - Watch the Weekly Classes & Recitations  
 - Attend ***at least 33%*** of all BioClub Node Meetings
-- Make HW 1 - 5
-- **3 Final Project Ideas on the [Shared Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) & your Documentation Pages**
-- Make a [post](https://forum.htgaa.org/c/bioclub/19) and send a [chat message](https://forum.htgaa.org/chat/c/bioclub/16) on the Forum
-- Sign the [Committed Listener MoU](https://pages.htgaa.org/georg-tremmel/mou/cl_bioclub_mou/)
+- ~~Make HW 1 - 5~~ Submit the HW3 Robot Form
+- **3 Final Project Ideas** on the [Shared Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) & in your repo
+- Make a [post](https://forum.htgaa.org/c/bioclub/19) *or* send a [chat message](https://forum.htgaa.org/chat/c/bioclub/16) on the Forum
+- Sign the [Committed Listener MoU](https://pages.htgaa.org/georg-tremmel/mou/cl_bioclub_mou/) by committing it to your repo
 {{< /callout >}}
 
 # Upcoming 
@@ -81,7 +81,7 @@ A [Map](2026/map) showing the locations of Applicants & Nodes.
 
 # BioClub Global TAs
 
-Will be published after Class #2 (soon).
+Will be published soon
 
 # BioClub Committed Listeners
 
@@ -114,7 +114,7 @@ Any questions? Ask in the Review Session or on the Forum.
 {{< students "HTGAA 2026 BioClub Participation - Committed Listeners.csv" >}}
 
 - *Participation at BioClub Sessions is capped at 60min.*
-- *If you believe there is an error in the recording of your attendance, please let me know.*
+- *If you believe there is an error in the recording of your attendance, please send me a message on the Forum Chat.*
 
 <!-- Participations [Statistics](2026/participation) -->
 

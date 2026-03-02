@@ -31,10 +31,8 @@
                   {{- $highlight = "light-yellow" -}}
                 {{ end }}
               <td class="{{- $highlight -}}">
-              {{- if gt $e 0 -}}
-                {{ math.Ceil $e  }}
-                {{- if eq $i 11 -}}%{{- end -}}
-              {{ end }}
+              {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 11 -}}%{{- end -}}{{- end -}}
+              {{- if lt $e 0 -}}<strong><em>{{- math.Abs $e -}}</em></strong>{{- end -}}
               {{- if eq $e "TRUE" -}}
               ✔︎
               {{ end }}
