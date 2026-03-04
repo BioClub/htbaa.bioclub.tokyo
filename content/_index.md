@@ -52,8 +52,8 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  | [📼Recording](https://mit.zoom.us/rec/share/fgI4Auvyh-X2jFLyjRHyjM2pjJh6JDGSOtHmziIeuE9t6tZIBxCzFQDOrECJAWaa.il561gxUL9DK_O2a?startTime=1771965322000) | [📼Recording](https://mit.zoom.us/rec/share/QDU4Od6BIXT5h8g4HzToKiABb1ANrH9zoaVbJkf52P8V3X3lDxInjZ7cLRLrxUQP.9mEOIF-qWfFG5Ni1) | [📼Recording](https://vimeo.com/1168482715) | [📼Recording](https://vimeo.com/1169552660) |
 | [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  | [📼Recording](https://vimeo.com/1170101728) |                 |           |           |
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  |            |                 |           |           |
-| [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  |            |                 |           |           |
-|  Week 8                                                              | *No Class* | *No Recitation* | *No Review* | *No Review* |
+| [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  |            |                 |           |  *No Homework Review, March 23rd |
+|  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Class Review, March 26th |       |
 | [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) |            |                 |           |           |
 | [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) |            |                 |           |           |
 | [Week 11](https://2026a.htgaa.org/2026a/course-pages/weeks/week-11/) |            |                 |           |           |
