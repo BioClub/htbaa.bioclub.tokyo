@@ -96,10 +96,9 @@ Congratulations for submitted the HW1 on time, and becoming a Committed Listener
 In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following until March 10th 2pm ET.
 
 - [ ] Make HW 1-5. We understand that finishing HW 100% is difficult, but you need to have some content for each week. Having no content (or non-working links) means you did not do the HW.
-- [ ] Attend at least 33% of BioClub Review Meetings.
+- [ ] ~~Attend at least 33% of BioClub Review Meetings.~~
 - [ ] Share your 3 Project Ideas on the [Shared CL Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) - and on your website
-- [ ] Send a message in the [BioClub Category](https://forum.htgaa.org/c/bioclub/19) on the Forum
-- [ ] Send a message in the [BioClub Chat](https://forum.htgaa.org/chat/c/bioclub/16) on the Forum
+- [ ] Send a message/post on the [HTGAA Forum](https://forum.htgaa.org/)
 
 _No extension will be granted._
 
