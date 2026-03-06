@@ -19,10 +19,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Class & Recitation #5 Review** | Thursday, March 5th, 21:00 - 22:00 JST |
 | **BioClub Homework #5 Review** | Monday, March 9th, 21:00 - 22:00 JST |
 | **Global Class #6**| Tuesday, March 10th, 2-5PM EST |
 | **Global Recitation #6** | Wednesday, March 11th, 5-7PM EST |
+| **BioClub Class & Recitation #6 Review** | Thursday, March 12th, 21:00 - 22:00 JST |
 
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
@@ -51,7 +51,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 2](https://2026a.htgaa.org/2026a/course-pages/weeks/week-02/)  | [📼Recording⁴](https://mit.zoom.us/rec/play/xKIjPzfSJtJuymsKI7cIE80a77YO4SYOAd0Z2uQOYN9zu9A6DgG1cOTtAu1DcBey6Ba9RX3-PtpQ8fbA.NfYtPot9DyZPsufT) | [📼Recording](https://mit.zoom.us/rec/play/M68Rn1U_zUmBAFHjCY4earkmXaP1TSKRWxg3b4ALSKnGlJMSKSow2FMWF8deT7PvLY01L_Csm5W6bx7I.vbVNRfogAy-PQ6IX) | [📼Recording](https://vimeo.com/1164347975) | [📼Recording](https://vimeo.com/1165354751) |
 | [Week 3](https://2026a.htgaa.org/2026a/course-pages/weeks/week-03/)  | *No Class* | [📼Recording](https://mit.zoom.us/rec/share/a3jueEw2GphFkLZgd-qI8Q702kW4bXMtfueZnW-WKenH2Nr5s_3YqAqCiHQHOoi3._npA5H5sqxfSOVU1) | [📼Recording](https://vimeo.com/1166339465) | [📼Recording](https://vimeo.com/1167355737) |
 | [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  | [📼Recording](https://mit.zoom.us/rec/share/fgI4Auvyh-X2jFLyjRHyjM2pjJh6JDGSOtHmziIeuE9t6tZIBxCzFQDOrECJAWaa.il561gxUL9DK_O2a?startTime=1771965322000) | [📼Recording](https://mit.zoom.us/rec/share/QDU4Od6BIXT5h8g4HzToKiABb1ANrH9zoaVbJkf52P8V3X3lDxInjZ7cLRLrxUQP.9mEOIF-qWfFG5Ni1) | [📼Recording](https://vimeo.com/1168482715) | [📼Recording](https://vimeo.com/1169552660) |
-| [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  | [📼Recording A](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772564700000), [B](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772571610000) | [📼Recording](https://mit.zoom.us/rec/share/Fci2emuOIJgw7IoWLSDzxX9UnkE1_1MT3paNJ95dVMH76rvnJA-Nd2mLP0BOeHos.eU4-9um90OtYZEuq) |           |           |
+| [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  | [📼Recording A](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772564700000), [B](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772571610000) | [📼Recording](https://mit.zoom.us/rec/share/Fci2emuOIJgw7IoWLSDzxX9UnkE1_1MT3paNJ95dVMH76rvnJA-Nd2mLP0BOeHos.eU4-9um90OtYZEuq) | [📼Recording](https://vimeo.com/1170670798) |           |
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  |            |                 |           |           |
 | [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  |            |                 |           |  *No Review, March 23rd* |
 |  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Review, March 26th* |       |
@@ -62,26 +62,11 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 13](https://2026a.htgaa.org/2026a/course-pages/weeks/week-13/) |            |                 |           |           |
 | [Week 14](https://2026a.htgaa.org/2026a/course-pages/weeks/week-14/) |            |                 |           |           |
 
-
-
 <small>
 ¹ Global HTGAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…, ⁴ Recording from 2025<br />
 All recordings are Password-protected. Check your email or the <a href="https://forum.htgaa.org">HTGAA Forum</a> for access.
 </small>
 
-# Global Bio Bootcamp
-
-Prior to the start of the HTGAA we will organise a [Bio Bootcamp](2026/bootcamp), to get everyone oriented and up to speed. It is recommened for everyone. [Watch the recording and catch up with the slides](2026/bootcamp).
-
-# Applicant & Node Map
-
-A [Map](2026/map) showing the locations of Applicants & Nodes.
-
-[![2026 Applicant Map](2026/map/map.jpg)](2026/map)
-
-# BioClub Global TAs
-
-Will be published soon
 
 # BioClub Committed Listeners
 
@@ -114,8 +99,29 @@ Any questions? Ask in the Review Session or on the Forum.
 
 - *Participation at BioClub Sessions is capped at 60min.*
 - *If you believe there is an error in the recording of your attendance, please send me a message on the Forum Chat.*
+- *We will check in the follwing order: `Final Project Ideas ➝ HW3 Form ➝ Forum Message`. Only if `Final Project Ideas` exists, we will check `HW3 Form`, only if `HW3 Form` has been submitted, we will check `Forum Message`.
 
 <!-- Participations [Statistics](2026/participation) -->
+
+# BioClub Global TAs
+
+Will be published soon
+
+
+
+
+
+# Global Bio Bootcamp
+
+Prior to the start of the HTGAA we will organise a [Bio Bootcamp](2026/bootcamp), to get everyone oriented and up to speed. It is recommened for everyone. [Watch the recording and catch up with the slides](2026/bootcamp).
+
+
+# Applicant & Node Map
+
+A [Map](2026/map) showing the locations of Applicants & Nodes.
+
+[![2026 Applicant Map](2026/map/map.jpg)](2026/map)
+
 
 # Communications
 

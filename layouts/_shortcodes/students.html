@@ -16,7 +16,11 @@
             <tr>
               <td>
                 <a href="{{ index . 1 }}">{{ index . 0 }}</a>
-                <a href="{{ index . 2 }}">⤴︎</a>
+                <a href="{{ index . 2 }}">¹</a>
+                {{ $s := index . 2 -}}
+                {{- $s = replace $s "https://edit.htgaa.org" "https://forum.htgaa.org/u" -}}
+                {{- $s = replace $s "?tab=activity" "/summary" -}}
+                <a href="{{- $s -}}">²</a>
               </td>
               {{- range $i, $e := . }}
               {{- if eq $i 0 1 2 3 7 8 9   -}}{{- continue -}}{{- end -}}
