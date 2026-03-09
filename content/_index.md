@@ -103,12 +103,23 @@ Any questions? Ask in the Review Session or on the Forum.
 
 <!-- Participations [Statistics](2026/participation) -->
 
-# BioClub Global TAs
+# BioClub Global TAs & Lab Support
 
-Will be published soon
+### BioClub Tokyo
 
+- [Georg Tremmel](https://pages.htgaa.org/georg-tremmel/), BioClub Founder, Node Lead & Global TA
+- Ananda Gabo, BioClub Lab Manager & Global TA
+- Shohei Asami, BioClub Scientific Director
 
+### Global TAs
 
+- [Ada Yazan](https://pages.htgaa.org/ada-yazan/)
+- [Asma Khalil](https://pages.htgaa.org/asma-khalil/)
+- [Data NG](https://pages.htgaa.org/dr-data/)
+- [Md Rasel Uddin](https://pages.htgaa.org/md-rasel-uddin/)
+- *More to come*
+
+*<small>If you are a Global BioClub TA and your name does not appear her, make sure you A.) send a message/post on the forum and B.) commit the TA MoU to your Documentation Pages.</small>*
 
 
 # Global Bio Bootcamp
