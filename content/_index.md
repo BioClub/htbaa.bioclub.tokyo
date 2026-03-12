@@ -5,16 +5,6 @@ draft = false
 
 Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one of the Global Nodes of the growing HTGAA Network. Lectures and Recitations are shared globally from the MIT Course 'How to Grow Almost Anything', each node will organize additional Class & Homework Reviews sessions, as well as hands-on experiments in the lab of the local node.
 
-{{< callout caution "Milestone 2 for Committed Listeners">}}
-**Deadline: March 10th**
-- Watch the Weekly Classes & Recitations  
-- Attend ***at least 33%*** of all BioClub Node Meetings
-- ~~Make HW 1 - 5~~ Submit the HW3 Robot Form
-- **3 Final Project Ideas** on the [Shared Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) & in your repo
-- Make a [post](https://forum.htgaa.org/c/bioclub/19) *or* send a [chat message](https://forum.htgaa.org/chat/c/bioclub/16) on the Forum
-- Sign the [Committed Listener MoU](https://pages.htgaa.org/georg-tremmel/mou/cl_bioclub_mou/) by committing it to your repo
-{{< /callout >}}
-
 # Upcoming 
 
 |      |      |
@@ -78,18 +68,23 @@ Congratulations for submitted the HW1 on time, and becoming a Committed Listener
 
 ### Milestone 2
 
-In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following until March 10th 2pm ET.
+In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following by March 10th 2pm ET.
 
 - [ ] Make HW 1-5. We understand that finishing HW 100% is difficult, but you need to have some content for each week. Having no content (or non-working links) means you did not do the HW.
 - [ ] ~~Attend at least 33% of BioClub Review Meetings.~~
 - [ ] Share your 3 Project Ideas on the [Shared CL Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) - and on your website
 - [ ] Send a message/post on the [HTGAA Forum](https://forum.htgaa.org/)
 
-_No extension will be granted._
+### Milestone 3
 
-If you fail to meet these critera, you will be removed from the BioClub _Committed Listeners_.
+In order to reach Milestone 3 and continue being a Committed Listener at BioClub, you need to do the following by April March 14th 2pm ET.
 
-Any questions? Ask in the Review Session or on the Forum.
+- [ ] Make HW 1-10.
+- [ ] Attend at least 33% of BioClub Review Meetings.
+- [ ] Develop your Final Project and document it on your Pages.
+- [ ] Sign the Student MoU
+
+[Time Sharing](https://calendar.google.com/calendar/u/0?cid=Y19iZjc4MDhjZTE3M2YzZDM4ZjI0NDA5NzFiMTFlNDU5NWM0N2VmZDc1NDRiMTkxZDNiMWIyZGExODI0ZjVjMTBlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ### Current Committed Listeners
 
