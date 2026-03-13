@@ -114,6 +114,7 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 - [Data NG](https://pages.htgaa.org/dr-data/)
 - [Md Rasel Uddin](https://pages.htgaa.org/md-rasel-uddin/)
 - [Robina Khan](https://pages.htgaa.org/robina-khan/)
+- [Yash Sawant](https://pages.htgaa.org/yash-sawant/)
 - *More to come*
 
 *<small>If you are a Global BioClub TA and your name does not appear her, make sure you A.) send a message/post on the forum and B.) commit the TA MoU to your Documentation Pages.</small>*
