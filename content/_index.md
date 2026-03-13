@@ -9,10 +9,12 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Class & Recitation #6 Review** | Thursday, March 12th, 21:00 - 22:00 JST |
 | **BioClub Homework #6 Review** | Monday, March 16th, 21:00 - 22:00 JST |
 | **Global Class #7**| Tuesday, March 17th, 2-5PM EST |
 | **Global Recitation #7** | Wednesday, March 18th, 5-7PM EST |
+| **BioClub Class & Recitation #7 Review** | Thursday, March 19th, 21:00 - 22:00 JST |
+| <div style="background:#eee">*Spring Break*</div> | <div style="background:#eee">&nbsp;</div>|
+| **BioClub Homework #7 Review** | Monday, March 30th, 21:00 - 22:00 JST |
 
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
@@ -42,7 +44,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 3](https://2026a.htgaa.org/2026a/course-pages/weeks/week-03/)  | *No Class* | [📼Recording](https://mit.zoom.us/rec/share/a3jueEw2GphFkLZgd-qI8Q702kW4bXMtfueZnW-WKenH2Nr5s_3YqAqCiHQHOoi3._npA5H5sqxfSOVU1) | [📼Recording](https://vimeo.com/1166339465) | [📼Recording](https://vimeo.com/1167355737) |
 | [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  | [📼Recording](https://mit.zoom.us/rec/share/fgI4Auvyh-X2jFLyjRHyjM2pjJh6JDGSOtHmziIeuE9t6tZIBxCzFQDOrECJAWaa.il561gxUL9DK_O2a?startTime=1771965322000) | [📼Recording](https://mit.zoom.us/rec/share/QDU4Od6BIXT5h8g4HzToKiABb1ANrH9zoaVbJkf52P8V3X3lDxInjZ7cLRLrxUQP.9mEOIF-qWfFG5Ni1) | [📼Recording](https://vimeo.com/1168482715) | [📼Recording](https://vimeo.com/1169552660) |
 | [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  | [📼Recording A](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772564700000), [B](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772571610000) | [📼Recording](https://mit.zoom.us/rec/share/Fci2emuOIJgw7IoWLSDzxX9UnkE1_1MT3paNJ95dVMH76rvnJA-Nd2mLP0BOeHos.eU4-9um90OtYZEuq) | [📼Recording](https://vimeo.com/1170670798) | [📼Recording](https://vimeo.com/1171767105) |
-| [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  | [📼Recording](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://mit.zoom.us/rec/share/ZMajem2Ze5YbFKpxZpstAaZm5JO3FweBdYyztDZwQ-zjKo1Ecw1kWIhdGXOxPFWh.NmOOHxm7maXZlT5n?startTime=1773263184000) |           |           |
+| [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  | [📼Recording](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://mit.zoom.us/rec/share/ZMajem2Ze5YbFKpxZpstAaZm5JO3FweBdYyztDZwQ-zjKo1Ecw1kWIhdGXOxPFWh.NmOOHxm7maXZlT5n?startTime=1773263184000) | [📼Recording](https://vimeo.com/1172923096) |           |
 | [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  |            |                 |           |  *No Review, March 23rd* |
 |  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Review, March 26th* |       |
 | [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) |            |                 |           |           |
@@ -68,23 +70,22 @@ Congratulations for submitted the HW1 on time, and becoming a Committed Listener
 
 ### Milestone 2
 
-In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following by March 10th 2pm ET.
+In order to reach Milestone 2 and continue being a Committed Listener at BioClub, you need to do the following by `March 10th 2pm ET`.
 
-- [ ] Make HW 1-5. We understand that finishing HW 100% is difficult, but you need to have some content for each week. Having no content (or non-working links) means you did not do the HW.
-- [ ] ~~Attend at least 33% of BioClub Review Meetings.~~
-- [ ] Share your 3 Project Ideas on the [Shared CL Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) - and on your website
-- [ ] Send a message/post on the [HTGAA Forum](https://forum.htgaa.org/)
+- [x] Make HW 1-5.
+- [x] ~~Attend at least 33% of BioClub Review Meetings.~~
+- [x] Share your 3 Project Ideas on the [Shared CL Slide Deck](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70) - and on your website
+- [x] Send a message/post on the [HTGAA Forum](https://forum.htgaa.org/)
 
 ### Milestone 3
 
-In order to reach Milestone 3 and continue being a Committed Listener at BioClub, you need to do the following by April March 14th 2pm ET.
+In order to reach Milestone 3 and continue being a Committed Listener at BioClub, you need to do the following by `April March 14th 2pm ET`.
 
-- [ ] Make HW 1-10.
-- [ ] Attend at least 33% of BioClub Review Meetings.
-- [ ] Develop your Final Project and document it on your Pages.
-- [ ] Sign the Student MoU
-
-[Time Sharing](https://calendar.google.com/calendar/u/0?cid=Y19iZjc4MDhjZTE3M2YzZDM4ZjI0NDA5NzFiMTFlNDU5NWM0N2VmZDc1NDRiMTkxZDNiMWIyZGExODI0ZjVjMTBlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- [x] Make HW 1-10.
+- [x] Attend at least 33% of BioClub Review Meetings.
+- [x] Develop your Personal Final Project and document it on your Pages.
+- [x] Develop your Group Final Project and document it on your Pages.
+- [x] Sign the Student MoU
 
 ### Current Committed Listeners
 
