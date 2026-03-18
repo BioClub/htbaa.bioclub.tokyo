@@ -44,7 +44,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 4](https://2026a.htgaa.org/2026a/course-pages/weeks/week-04/)  | [📼Recording](https://mit.zoom.us/rec/share/fgI4Auvyh-X2jFLyjRHyjM2pjJh6JDGSOtHmziIeuE9t6tZIBxCzFQDOrECJAWaa.il561gxUL9DK_O2a?startTime=1771965322000) | [📼Recording](https://mit.zoom.us/rec/share/QDU4Od6BIXT5h8g4HzToKiABb1ANrH9zoaVbJkf52P8V3X3lDxInjZ7cLRLrxUQP.9mEOIF-qWfFG5Ni1) | [📼Recording](https://vimeo.com/1168482715) | [📼Recording](https://vimeo.com/1169552660) |
 | [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  | [📼Recording A](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772564700000), [B](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772571610000) | [📼Recording](https://mit.zoom.us/rec/share/Fci2emuOIJgw7IoWLSDzxX9UnkE1_1MT3paNJ95dVMH76rvnJA-Nd2mLP0BOeHos.eU4-9um90OtYZEuq) | [📼Recording](https://vimeo.com/1170670798) | [📼Recording](https://vimeo.com/1171767105) |
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  | [📼Recording](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://mit.zoom.us/rec/share/ZMajem2Ze5YbFKpxZpstAaZm5JO3FweBdYyztDZwQ-zjKo1Ecw1kWIhdGXOxPFWh.NmOOHxm7maXZlT5n?startTime=1773263184000) | [📼Recording](https://vimeo.com/1172923096) |           |
-| [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  | [📼Recording](https://vimeo.com/1174020272) |                 |           |  *No Review, March 23rd* |
+| [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  | [📼Recording](https://vimeo.com/1174020272) | [📼Recording](https://mit.zoom.us/rec/share/TgPwC5JSZ61YYArobDVZTyTJzhHUjwwHtDhe2fxsOM8cHSC6NhT4moMaElG8qCzb.vMnfoTFrrzdNZc6A?startTime=1773770900000) |           |  *No Review, March 23rd* |
 |  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Review, March 26th* |       |
 | [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) |            |                 |           |           |
 | [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) |            |                 |           |           |
@@ -82,8 +82,8 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 
 - [x] Make HW 1-10.
 - [x] Attend at least 33% of BioClub Review Meetings.
-- [x] Develop your Personal Final Project and document it on your Pages.
-- [x] Develop your Group Final Project and document it on your Pages.
+- [x] Develop your Personal Final Project, document it on your Pages, and share it as a post on the Forum.
+- [x] Develop your Group Final Project and document it on your Pages, and share it as a post on the Forum..
 - [x] Sign the Student MoU
 
 ### Current Committed Listeners
@@ -92,10 +92,14 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 
 {{< students "HTGAA 2026 BioClub Participation - Committed Listeners.csv" >}}
 
-- *Participation at BioClub Sessions is capped at 60min.*
-- *If you believe there is an error in the recording of your attendance, please send me a message on the Forum Chat.*
-- *We will check in the follwing order: `Final Project Ideas ➝ HW3 Form ➝ Forum Message`. Only if `Final Project Ideas` exists, we will check `HW3 Form`, only if `HW3 Form` has been submitted, we will check `Forum Message`.
-
+<small><em>
+<ul>
+<li>This is the definitive list of BioClub CLs. The <a href="https://2026a.htgaa.org/2026a/course-pages/students/">list of CLs on the main HTGAA site</a> will be updated accordingly.</li>
+<li>Participation at BioClub Sessions is capped at 60min.</li>
+<li>If you believe there is an error in the recording of your attendance, please send me a message on the Forum Chat.</li>
+<li>We will check in the follwing order: `Final Project Ideas ➝ HW3 Form ➝ Forum Message`. Only if `Final Project Ideas` exists, we will check `HW3 Form`, only if `HW3 Form` has been submitted, we will check `Forum Message`.</li>
+</ul>
+</em></small>
 <!-- Participations [Statistics](2026/participation) -->
 
 # BioClub Global TAs & Lab Support
@@ -116,7 +120,12 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 - [Yash Sawant](https://pages.htgaa.org/yash-sawant/)
 - *More to come*
 
-*<small>If you are a Global BioClub TA and your name does not appear her, make sure you A.) send a message/post on the forum and B.) commit the TA MoU to your Documentation Pages.</small>*
+<small><em>
+<ul>
+<li>This is the definitive list of BioClub TAs. The <a href="https://2026a.htgaa.org/2026a/course-pages/tas/">list of TAs on the main HTGAA site</a> will be updated accordingly.</li>
+<li>If you are a Global BioClub TA and your name does not appear her, make sure you A.) send a message/post on the forum and B.) commit the TA MoU to your Documentation Pages.</li>
+</ul>
+</em></small>
 
 
 # Global Bio Bootcamp
