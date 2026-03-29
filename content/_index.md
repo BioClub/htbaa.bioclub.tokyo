@@ -77,13 +77,13 @@ In order to reach Milestone 2 and continue being a Committed Listener at BioClub
 
 ### Milestone 3
 
-In order to reach Milestone 3 and continue being a Committed Listener at BioClub, you need to do the following by `April March 14th 2pm ET`.
+In order to reach Milestone 3 and continue being a Committed Listener at BioClub, you need to do the following by `April 14th 2pm ET`.
 
 - [x] Make HW 1-10.
 - [x] Attend at least 33% of BioClub Review Meetings.
 - [x] Develop your Personal Final Project, document it on your Pages, and share it as a post on the Forum.
 - [x] Develop your Group Final Project and document it on your Pages, and share it as a post on the Forum..
-- [x] Sign the Student MoU
+- [x] Sign the Student MoU by committing it to your repo and linking to it.
 
 ### Current Committed Listeners
 
