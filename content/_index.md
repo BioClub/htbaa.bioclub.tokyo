@@ -44,8 +44,8 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 5](https://2026a.htgaa.org/2026a/course-pages/weeks/week-05/)  | [📼Recording A](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772564700000), [B](https://mit.zoom.us/rec/share/yYdFAu2KvSLcvUVXfhBETwUqCkM1MRYr-lNf08eaMJIIajEEV6kgdCY8veS1BAv3.uJkw8zZXWehqNDM3?startTime=1772571610000) | [📼Recording](https://mit.zoom.us/rec/share/Fci2emuOIJgw7IoWLSDzxX9UnkE1_1MT3paNJ95dVMH76rvnJA-Nd2mLP0BOeHos.eU4-9um90OtYZEuq) | [📼Recording](https://vimeo.com/1170670798) | [📼Recording](https://vimeo.com/1171767105) |
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  | [📼Recording](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://mit.zoom.us/rec/share/ZMajem2Ze5YbFKpxZpstAaZm5JO3FweBdYyztDZwQ-zjKo1Ecw1kWIhdGXOxPFWh.NmOOHxm7maXZlT5n?startTime=1773263184000) | [📼Recording](https://vimeo.com/1172923096) | [📼Recording](https://vimeo.com/1174020272) |
 | [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  | [📼Recording](https://mit.zoom.us/rec/share/TgPwC5JSZ61YYArobDVZTyTJzhHUjwwHtDhe2fxsOM8cHSC6NhT4moMaElG8qCzb.vMnfoTFrrzdNZc6A?startTime=1773770900000) | [📼Recording](https://mit.zoom.us/rec/share/k0yY6cSY7roMOa9BZOgqwGdABQaB4w1IcD1NgAG4Xhrh1LvwvM-FVrDJym2g_BFQ.BgLRGrHdNBvBF1Bc) | [📼Recording](https://vimeo.com/1175151412) | *No Review, March 23rd* |
-|  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Review, March 26th* |       |
-| [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) |            |                 |           |           |
+|  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Review, March 26th* | [📼Recording](https://vimeo.com/1178456650) |
+| [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) | [📼Recording](https://mit.zoom.us/rec/share/AfG_4MAsC915PlIM08g38WJTCypYYKs_yWb2tKfvV6AeExn_nKrjlOLgR9RsGdZP.7Meqln3W3I-3IUCl?startTime=1774983909000) |                 |           |           |
 | [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) |            |                 |           |           |
 | [Week 11](https://2026a.htgaa.org/2026a/course-pages/weeks/week-11/) |            |                 |           |           |
 | [Week 12](https://2026a.htgaa.org/2026a/course-pages/weeks/week-12/) |            |                 |           |           |
@@ -81,7 +81,7 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 
 - [x] Make HW 1-10.
 - [x] Attend at least 33% of BioClub Review Meetings.
-- [x] Develop your Personal Final Project, document it on your Pages, and share it as a post on the Forum.
+- [x] Develop your Personal Final Project, submit the [Google Form](https://forms.gle/b45ukkwPKfKPLcSA7), document it on your Pages, and share it as a post on the Forum.
 - [x] Develop your Group Final Project and document it on your Pages, and share it as a post on the Forum..
 - [x] Sign the Student MoU by committing it to your repo and linking to it.
 
