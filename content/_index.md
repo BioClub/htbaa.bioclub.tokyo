@@ -114,6 +114,7 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 - [Ada Yazan](https://pages.htgaa.org/ada-yazan/)
 - [Asma Khalil](https://pages.htgaa.org/asma-khalil/)
 - [Data NG](https://pages.htgaa.org/dr-data/)
+- [Mario Nakahara](https://pages.htgaa.org/mario-nakahara/)
 - [Md Rasel Uddin](https://pages.htgaa.org/md-rasel-uddin/)
 - [Robina Khan](https://pages.htgaa.org/robina-khan/)
 - [Yash Sawant](https://pages.htgaa.org/yash-sawant/)
