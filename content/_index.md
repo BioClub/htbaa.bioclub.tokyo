@@ -9,11 +9,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| <div style="background:#eee">*Spring Break*</div> | <div style="background:#eee">&nbsp;</div>|
-| **BioClub Homework #7 Review** | Monday, March 30th, 21:00 - 22:00 JST |
-| **Global Class #9**| Tuesday, March 31th, 2-5PM EST |
-| **Global Recitation #9** | Wednesday, April 1st, 5-7PM EST |
-| **BioClub Class & Recitation #9 Review** | Thursday, April 2nd, 21:00 - 22:00 JST |
+| **BioClub Homework #9 Review** | Monday, April 6th, 21:00 - 22:00 JST |
+| **Global Class #10**| Tuesday, April 7th, 2-5PM EST |
+| **Global Recitation #10** | Wednesday, April 8st, 5-7PM EST |
+| **BioClub Class & Recitation #10 Review** | Thursday, April 9th, 21:00 - 22:00 JST |
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 
