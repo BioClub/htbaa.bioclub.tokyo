@@ -9,10 +9,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Homework #9 Review** | Monday, April 6th, 21:00 - 22:00 JST |
-| **Global Class #10**| Tuesday, April 7th, 2-5PM EST |
 | **Global Recitation #10** | Wednesday, April 8st, 5-7PM EST |
 | **BioClub Class & Recitation #10 Review** | Thursday, April 9th, 21:00 - 22:00 JST |
+| **BioClub Homework #10 Review** | Monday, April 13th, 21:00 - 22:00 JST |
+| **Global Class #11**| Tuesday, April 14th, 2-5PM EST |
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 
@@ -45,7 +45,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  | [📼Recording](https://mit.zoom.us/rec/share/TgPwC5JSZ61YYArobDVZTyTJzhHUjwwHtDhe2fxsOM8cHSC6NhT4moMaElG8qCzb.vMnfoTFrrzdNZc6A?startTime=1773770900000) | [📼Recording](https://mit.zoom.us/rec/share/k0yY6cSY7roMOa9BZOgqwGdABQaB4w1IcD1NgAG4Xhrh1LvwvM-FVrDJym2g_BFQ.BgLRGrHdNBvBF1Bc) | [📼Recording](https://vimeo.com/1175151412) | *No Review, March 23rd* |
 |  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Review, March 26th* | [📼Recording](https://vimeo.com/1178456650) |
 | [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) | [📼Recording](https://mit.zoom.us/rec/share/AfG_4MAsC915PlIM08g38WJTCypYYKs_yWb2tKfvV6AeExn_nKrjlOLgR9RsGdZP.7Meqln3W3I-3IUCl?startTime=1774983909000) | [📼Recording](https://mit.zoom.us/rec/share/MA1Jkp1cs7hFaVa1CmlDBp8aCQlt7ujAfpWXlqxXuh7XwM1-N82sIR1JhXTVJKR1.3Eh9uJUC-MVnR80m) |           |           |
-| [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) |            |                 |           |           |
+| [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) | [📼Recording](https://mit.zoom.us/rec/share/fj74umn5tGy4ab0-ejiyJir6I5ARlGvAYyW34ZF8grm2vUAGLRPuylzE670m-95M.ZgLYDFhnfvbOS93H?startTime=1775588591000) |                 |           |           |
 | [Week 11](https://2026a.htgaa.org/2026a/course-pages/weeks/week-11/) |            |                 |           |           |
 | [Week 12](https://2026a.htgaa.org/2026a/course-pages/weeks/week-12/) |            |                 |           |           |
 | [Week 13](https://2026a.htgaa.org/2026a/course-pages/weeks/week-13/) |            |                 |           |           |
