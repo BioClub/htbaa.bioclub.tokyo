@@ -82,12 +82,14 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 - [x] Make HW 1-10.
 - [x] Attend at least 33% of BioClub Review Meetings.
 - [x] Develop your Personal Final Project, submit the [Google Form](https://forms.gle/b45ukkwPKfKPLcSA7), document it on your Pages, and share it as a post on the Forum.
-- [x] Develop your Group Final Project and document it on your Pages, and share it as a post on the Forum..
+- [x] Share your Final Project Slide on the [CL Final Project Slide Deck](https://docs.google.com/presentation/d/142YNBXXcDJBfGO_OaF0DpeaF_287YsDeH1-Acp7kUI0/edit?slide=id.g3d24be74798_0_0#slide=id.g3d24be74798_0_0).
+- [x] Develop your Group Final Project and document it on your Pages, and share it as a post on the Forum.
 - [x] Sign the Student MoU by committing it to your repo and linking to it.
 
 ### Current Committed Listeners
 
-[CL Final Project Ideas](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70)
+- [THREE Final Project Ideas](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70)
+- [ONE Final Project Idea](https://docs.google.com/presentation/d/142YNBXXcDJBfGO_OaF0DpeaF_287YsDeH1-Acp7kUI0/edit?slide=id.g3d24be74798_0_0#slide=id.g3d24be74798_0_0)
 
 {{< students "HTGAA 2026 BioClub Participation - Committed Listeners.csv" >}}
 
@@ -96,7 +98,8 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 <li>This is the definitive list of BioClub CLs. The <a href="https://2026a.htgaa.org/2026a/course-pages/students/">list of CLs on the main HTGAA site</a> will be updated accordingly.</li>
 <li>Participation at BioClub Sessions is capped at 60min.</li>
 <li>If you believe there is an error in the recording of your attendance, please send me a message on the Forum Chat.</li>
-<li>We will check in the follwing order: `Final Project Ideas ➝ HW3 Form ➝ Forum Message`. Only if `Final Project Ideas` exists, we will check `HW3 Form`, only if `HW3 Form` has been submitted, we will check `Forum Message`.</li>
+<li>Checklist for Milestone 3: <code>FP.F</code> → Final Project Form, <code>FP.S</code> → Final Project Slide, <code>FP.W</code> → Final Project Website</li>
+<li><code>P</code>→Number of Presentations</li>
 </ul>
 </em></small>
 <!-- Participations [Statistics](2026/participation) -->

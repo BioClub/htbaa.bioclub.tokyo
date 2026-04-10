@@ -5,8 +5,8 @@
         <thead>
           <tr>
             {{ range index . 0 }}
-              {{- if ne . "Link" "Activity" "FP Website" "MoU" -}}
-              <th>{{ . }}</th>
+              {{- if ne . "Link" "Activity" -}}
+              <th>{{ replace . " " "&nbsp;" | safeHTML }}</th>
               {{- end -}}
             {{ end }}
           </tr>
@@ -15,23 +15,22 @@
           {{ range after 1 . }}
             <tr>
               <td>
-                <a href="{{ index . 1 }}">{{ index . 0 }}</a>
-                <a href="{{ index . 2 }}">¹</a>
+                {{- $name := index . 0 -}}
                 {{ $s := index . 2 -}}
                 {{- $s = replace $s "https://edit.htgaa.org" "https://forum.htgaa.org/u" -}}
                 {{- $s = replace $s "?tab=activity" "/summary" -}}
-                <a href="{{- $s -}}">²</a>
+                <a href="{{ index . 1 }}">{{ replace $name " " "&nbsp;" | safeHTML }}</a>&nbsp;<a href="{{ index . 2 }}">¹</a>&nbsp;<a href="{{- $s -}}">²</a>
               </td>
               {{- range $i, $e := . }}
-              {{- if eq $i 0 1 2 3 7 8 9   -}}{{- continue -}}{{- end -}}
+              {{- if eq $i 0 1 2   -}}{{- continue -}}{{- end -}}
               {{- $highlight := "" -}}
-                {{- if eq $i 11 -}}
+                {{- if eq $i 8 -}}
                   {{- $highlight = "bold" -}}
                   {{- if ge $e 33 -}}{{- $highlight = "bold light-yellow" -}}{{- end -}}
                 {{- end -}}
                 {{- if eq $e "TRUE" -}}{{- $highlight = "light-yellow" -}}{{ end }}
               <td class="{{- $highlight -}}">
-              {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 11 -}}%{{- end -}}{{- end -}}
+              {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 8 -}}%{{- end -}}{{- end -}}
               {{- if lt $e 0 -}}<strong><em>{{- math.Abs $e -}}</em></strong>{{- end -}}
               {{- if eq $e "TRUE" -}}✔︎{{ end }}
               </td>
