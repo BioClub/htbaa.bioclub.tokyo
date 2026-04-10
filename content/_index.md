@@ -9,10 +9,10 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Class & Recitation #10 Review** | Thursday, April 9th, 21:00 - 22:00 JST |
 | **BioClub Homework #10 Review** | Monday, April 13th, 21:00 - 22:00 JST |
 | **Global Class #11**| Tuesday, April 14th, 2-5PM EST |
 | **Global Recitation #11** | Wednesday, April 15st, 5-7PM EST |
+| **BioClub Class & Recitation #11 Review** | Thursday, April 16th, 21:00 - 22:00 JST |
 
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
@@ -45,8 +45,8 @@ All the information, including homework assignments, recordsings, and slides wil
 | [Week 6](https://2026a.htgaa.org/2026a/course-pages/weeks/week-06/)  | [📼Recording](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://mit.zoom.us/rec/share/ZMajem2Ze5YbFKpxZpstAaZm5JO3FweBdYyztDZwQ-zjKo1Ecw1kWIhdGXOxPFWh.NmOOHxm7maXZlT5n?startTime=1773263184000) | [📼Recording](https://vimeo.com/1172923096) | [📼Recording](https://vimeo.com/1174020272) |
 | [Week 7](https://2026a.htgaa.org/2026a/course-pages/weeks/week-07/)  | [📼Recording](https://mit.zoom.us/rec/share/TgPwC5JSZ61YYArobDVZTyTJzhHUjwwHtDhe2fxsOM8cHSC6NhT4moMaElG8qCzb.vMnfoTFrrzdNZc6A?startTime=1773770900000) | [📼Recording](https://mit.zoom.us/rec/share/k0yY6cSY7roMOa9BZOgqwGdABQaB4w1IcD1NgAG4Xhrh1LvwvM-FVrDJym2g_BFQ.BgLRGrHdNBvBF1Bc) | [📼Recording](https://vimeo.com/1175151412) | *No Review, March 23rd* |
 |  Week 8                                                              | *No Class, March 24th* | *No Recitation, March 25th* | *No Review, March 26th* | [📼Recording](https://vimeo.com/1178456650) |
-| [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) | [📼Recording](https://mit.zoom.us/rec/share/AfG_4MAsC915PlIM08g38WJTCypYYKs_yWb2tKfvV6AeExn_nKrjlOLgR9RsGdZP.7Meqln3W3I-3IUCl?startTime=1774983909000) | [📼Recording](https://mit.zoom.us/rec/share/MA1Jkp1cs7hFaVa1CmlDBp8aCQlt7ujAfpWXlqxXuh7XwM1-N82sIR1JhXTVJKR1.3Eh9uJUC-MVnR80m) |           |           |
-| [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) | [📼Recording](https://mit.zoom.us/rec/share/fj74umn5tGy4ab0-ejiyJir6I5ARlGvAYyW34ZF8grm2vUAGLRPuylzE670m-95M.ZgLYDFhnfvbOS93H?startTime=1775588591000) | [📼Recording](https://mit.zoom.us/rec/share/tqpEpmQdnqIQ1jgE_tQhx-NvAIP3BZvtnRWNwWJRwdivxAWLGNbobNhHNvvPEE6P.M1qutQ5Hj2lvP6iW) |           |           |
+| [Week 9 ](https://2026a.htgaa.org/2026a/course-pages/weeks/week-09/) | [📼Recording](https://mit.zoom.us/rec/share/AfG_4MAsC915PlIM08g38WJTCypYYKs_yWb2tKfvV6AeExn_nKrjlOLgR9RsGdZP.7Meqln3W3I-3IUCl?startTime=1774983909000) | [📼Recording](https://mit.zoom.us/rec/share/MA1Jkp1cs7hFaVa1CmlDBp8aCQlt7ujAfpWXlqxXuh7XwM1-N82sIR1JhXTVJKR1.3Eh9uJUC-MVnR80m) | [📼Recording](https://vimeo.com/1179572061) | [📼Recording](https://vimeo.com/1180481605) |
+| [Week 10](https://2026a.htgaa.org/2026a/course-pages/weeks/week-10/) | [📼Recording](https://mit.zoom.us/rec/share/fj74umn5tGy4ab0-ejiyJir6I5ARlGvAYyW34ZF8grm2vUAGLRPuylzE670m-95M.ZgLYDFhnfvbOS93H?startTime=1775588591000) | [📼Recording](https://mit.zoom.us/rec/share/tqpEpmQdnqIQ1jgE_tQhx-NvAIP3BZvtnRWNwWJRwdivxAWLGNbobNhHNvvPEE6P.M1qutQ5Hj2lvP6iW) | [📼Recording](https://vimeo.com/1181579709) |           |
 | [Week 11](https://2026a.htgaa.org/2026a/course-pages/weeks/week-11/) |            |                 |           |           |
 | [Week 12](https://2026a.htgaa.org/2026a/course-pages/weeks/week-12/) |            |                 |           |           |
 | [Week 13](https://2026a.htgaa.org/2026a/course-pages/weeks/week-13/) |            |                 |           |           |
