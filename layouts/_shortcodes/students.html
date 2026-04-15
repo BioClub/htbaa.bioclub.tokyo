@@ -24,13 +24,13 @@
               {{- range $i, $e := . }}
               {{- if eq $i 0 1 2   -}}{{- continue -}}{{- end -}}
               {{- $highlight := "" -}}
-                {{- if eq $i 8 -}}
+                {{- if eq $i 9 -}}
                   {{- $highlight = "bold" -}}
                   {{- if ge $e 33 -}}{{- $highlight = "bold light-yellow" -}}{{- end -}}
                 {{- end -}}
                 {{- if eq $e "TRUE" -}}{{- $highlight = "light-yellow" -}}{{ end }}
               <td class="{{- $highlight -}}">
-              {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 8 -}}%{{- end -}}{{- end -}}
+              {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 9 -}}%{{- end -}}{{- end -}}
               {{- if lt $e 0 -}}<strong><em>{{- math.Abs $e -}}</em></strong>{{- end -}}
               {{- if eq $e "TRUE" -}}✔︎{{ end }}
               </td>
