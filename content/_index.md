@@ -86,6 +86,22 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 - [x] Develop your Group Final Project and document it on your Pages, and share it as a post on the Forum.
 - [x] Sign the Student MoU by committing it to your repo and linking to it.
 
+### Milestone 4 - Permitted to do Final Presentation
+
+- [x] Milestones 1 - 3
+- [x] Attend at least 33% of BioClub Review Meetings
+- [x] Share your Final Project Slide on the [CL Final Project Slide Deck](https://docs.google.com/presentation/d/142YNBXXcDJBfGO_OaF0DpeaF_287YsDeH1-Acp7kUI0/edit?slide=id.g3d24be74798_0_0#slide=id.g3d24be74798_0_0).
+- [x] Create a Twist Order for your Final Project and add it to the [Twist (Nodes)](https://docs.google.com/spreadsheets/d/1UsoGDb2TVIM-r8aScY800lMelQP_JPp1pCr5CB4y0zM/edit?gid=882133822#gid=882133822) Document
+- [x] **Deadline: May 13th** (no extension)
+
+### Milestone 5 - Certificate of Completition
+
+- [x] Milestones 1 - 4
+- [x] Complete _all_ HW
+- [x] Complete Personal Final Project & Group Final Projects
+- [x] Documentation checked by TA for completeness
+- [x] **Deadline: TBC** (no extension)
+
 ### Current Committed Listeners
 
 - [THREE Final Project Ideas](https://docs.google.com/presentation/d/1FAFN4YYisOcso3CI5F3W3Z7hj6_n9D1vAhVUywQXKPU/edit?slide=id.g3c8d4cf45e8_0_70#slide=id.g3c8d4cf45e8_0_70)
