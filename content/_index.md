@@ -114,7 +114,7 @@ In order to reach Milestone 3 and continue being a Committed Listener at BioClub
 <li>This is the definitive list of BioClub CLs. The <a href="https://2026a.htgaa.org/2026a/course-pages/students/">list of CLs on the main HTGAA site</a> will be updated accordingly.</li>
 <li>Participation at BioClub Sessions is capped at 60min.</li>
 <li>If you believe there is an error in the recording of your attendance, please send me a message on the Forum Chat.</li>
-<li>Checklist for Milestone 3: <code>FP.F</code> → Final Project Form, <code>FP.S</code> → Final Project Slide, <code>FP.W</code> → Final Project Website, <code>HW</code> → Homework 1-10</li>
+<li>Checklist for Milestone 3: <code>FP.F</code> → Final Project Form, <code>FP.S</code> → Final Project Slides, <code>FP.W</code> → Final Project Website, <code>HW</code> → All Homework</li>
 <li><code>P</code>→Number of Presentations</li>
 </ul>
 </em></small>
