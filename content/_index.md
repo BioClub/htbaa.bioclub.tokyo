@@ -9,10 +9,7 @@ Welcome to the HTGAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 |      |      |
 | :--- | :--- |
-| **BioClub Class & Recitation #14 Review** | Thursday, May 7th, 21:00 - 22:00 JST |
-| **BioClub Homework #14 Review** | Monday, May 11th, 21:00 - 22:00 JST |
-| **Final Presentations**| Wednesday, May 13th, 9AM - 9PM EST |
-
+| **HTGAA 2026 Graduation Ceremony** | Wednesday, June 17th, 18:00 ET |
 
 _Classes & Recitations are held on the HTGAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 
