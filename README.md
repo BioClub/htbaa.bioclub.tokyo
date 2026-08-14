@@ -26,3 +26,7 @@ Content lives in the `content` directory
 Hosting Hugo@Github on a subdomain. Add a [CNAME entry to domain host](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain):
 
 **CNAME htbaa bioclub.github.io**
+
+Check if domain got propagated:
+
+`dig htbaa.bioclub.tokyo +nostats +nocomments +nocmd`
