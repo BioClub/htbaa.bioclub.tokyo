@@ -1,7 +1,7 @@
-baseURL = 'https://htgaa.bioclub.tokyo/'
+baseURL = 'https://htbaa.bioclub.tokyo/'
 languageCode = 'en-us'
-title = 'HTGAA @BioClub Tokyo'
-github = 'https://github.com/owner/repo'
+title = 'HTBAA @BioClub Tokyo'
+github = 'https://github.com/BioClub/htbaa.bioclub.tokyo'
 
 # https://gohugo.io/getting-started/configuration-markup/
 [markup]

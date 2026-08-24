@@ -11,7 +11,7 @@ draft = false
 - BioClub HTBAA Study Meetings (online)
     - **BioClub HTBAA Weekly *Class* Review**
     Every Thursday, 16:00 - 17:00 JST at [BioClub Zoom](https://zoom.bioclub.tokyo). Everyone welcome.
-    - **BioClub HTGAA Weekly *Homework* Review**
+    - **BioClub HTBAA Weekly *Homework* Review**
     Every Thursday, 16:00 - 17:00 JST at [BioClub Zoom](https://zoom.bioclub.tokyo). Everyone welcome.
 - HTBAA Study Meetings (in-person)
     - *TBA (Depending on Student interest)*

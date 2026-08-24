@@ -2,7 +2,7 @@
 
   <div class="">
     {{- range .Ancestors.Reverse }}
-    <a href="{{ .RelPermalink }}">{{ if .IsHome }}{{ "HTGAA@BioClub Tokyo" }}{{ else }}{{ .LinkTitle }}{{ end }}</a> →
+    <a href="{{ .RelPermalink }}">{{ if .IsHome }}{{ "HTBAA@BioClub Tokyo" }}{{ else }}{{ .LinkTitle }}{{ end }}</a> →
     {{- end }}
     <a class="current" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   </div>
