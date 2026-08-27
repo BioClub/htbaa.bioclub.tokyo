@@ -7,8 +7,8 @@ body {
   font-weight: 400;
   font-style: normal;
   background: #3D3F3C; /* #2E302D 3D3F3C , 262825*/
-  background:   linear-gradient(180deg, rgb(46 48 45 / 1), transparent),
-                linear-gradient(58deg, rgb(55 44 32 / 0.5), transparent);
+  background:   linear-gradient(180deg, rgb(23 38 45 / 1), transparent),
+                linear-gradient(58deg, rgb(45 34 22 / 1), transparent);
   
   /*
   background:
