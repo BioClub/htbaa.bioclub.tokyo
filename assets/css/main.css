@@ -7,6 +7,9 @@ body {
   font-weight: 400;
   font-style: normal;
   background: #3D3F3C; /* #2E302D 3D3F3C , 262825*/
+  background:   linear-gradient(180deg, rgb(46 48 45 / 1), transparent),
+                linear-gradient(58deg, rgb(55 44 32 / 0.5), transparent);
+  
   /*
   background:
     linear-gradient(336deg, rgb(46 48 45 / 0.8), transparent 100%),
@@ -115,7 +118,7 @@ small {
   line-height: 1.5em;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-weight: 600;
   color: #0f0;
 }
@@ -131,6 +134,7 @@ h2 {
 h3 {
   font-size: 1.35em;
 }
+
 
 #header {
   font-weight: 700;
