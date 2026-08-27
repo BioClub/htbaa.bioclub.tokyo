@@ -6,7 +6,13 @@ body {
   font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 400;
   font-style: normal;
-  background: #111;
+  background: #3D3F3C; /* #2E302D 3D3F3C , 262825*/
+  /*
+  background:
+    linear-gradient(336deg, rgb(46 48 45 / 0.8), transparent 100%),
+    linear-gradient(0deg, rgb(61 63 60 / 0.5), transparent 100%),
+    linear-gradient(127deg, rgb(38 40 37 / 0.6), transparent 100%);
+  */
   color: #fff;
   margin: 0;
   padding: 0;
@@ -142,7 +148,7 @@ h3 {
 /* Links */
 
 a, a:visited {
-  color: #40f;
+  color: #888;
   background: none;
   text-decoration: underline;
   font-weight: 700;
