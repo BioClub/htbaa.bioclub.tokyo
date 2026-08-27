@@ -9,13 +9,6 @@ body {
   background: #3D3F3C; /* #2E302D 3D3F3C , 262825*/
   background:   linear-gradient(180deg, rgb(23 38 45 / 1), transparent),
                 linear-gradient(58deg, rgb(45 34 22 / 1), transparent);
-  
-  /*
-  background:
-    linear-gradient(336deg, rgb(46 48 45 / 0.8), transparent 100%),
-    linear-gradient(0deg, rgb(61 63 60 / 0.5), transparent 100%),
-    linear-gradient(127deg, rgb(38 40 37 / 0.6), transparent 100%);
-  */
   color: #fff;
   margin: 0;
   padding: 0;
