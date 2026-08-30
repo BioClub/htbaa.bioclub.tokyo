@@ -16,11 +16,17 @@ Welcome to the HTBAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 [HTBAA - How to _Biomanufacture_ Almost Anything](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0) - is a spin-off course from the larger HTGAA - How to _Grow_ Almost Anything. HTBAA is shorter & less demanding, the goal is not to give an introduction to Synthetic Biology, but to focus on _Biomanufacturing_.
 
+
 It's a great place to get started, it's recommended for students who want to take HTGAA later - and for HTGAA graduates who want to continue their journey on becoming a TA.
+
+# HTBAA 2026 Main Website (in progress)
+
+In the meantime, check out David Kong's annoucements on [Instagram](https://www.instagram.com/p/DcjVhNwiN-i/) & [LinkedIn](https://www.instagram.com/p/DcjVhNwiN-i/).
+
 
 # About HTBAA 2026
 
-This is the first version of the course, as the topics are quite avant-garde, please have patience with the organizer and the TA team. We are as excited as you to organize this course - but the experience might not be as polished as other courses. Which also means there is 
+This is the first version of the course, as the topics are quite avant-garde, please have patience with the organizer and the TA team. We are as excited as you to organize this course - but the experience might not be as polished as other courses. Which also means this is a great opportunity for involved and immersed learning. This course is a _cool_ courses (in the sense of Marshal McLuhan's distinction between hot & cool media).
 
 Lectures and Recitations are shared globally from the MIT Course '[How to Biomanufacture Almost Anything](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)', each node will organize additional Class & Homework Reviews session.
 
