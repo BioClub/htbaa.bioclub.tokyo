@@ -66,8 +66,8 @@ Lectures and Recitations are shared globally from the MIT Course '[How to Bioman
 
 ### Global Schedule
 
-- **Class:** Tuesdays 14:30-16:00 ET at MIT Zoom
-- **Recitation:** Thursdays 17:00-18:00 ET at MIT Zoom
+- **Class:** Tuesdays 14:30-16:00 ET at MIT Zoom <span class="highlight">Wednesday 03:30 - 05:00 JST</span>
+- **Recitation:** Thursdays 17:00-18:00 ET at MIT Zoom <span class="highlight">Friday 06:00 - 07:00 JST</span>
 
 ###  BioClub Meeting Schedule
 
