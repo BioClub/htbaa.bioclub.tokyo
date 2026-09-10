@@ -17,7 +17,7 @@ draft = false
 - **Global Lectures**: Tuesdays 14:30 -16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
 - **Global Recitations**: Thursdays 17:00 -18:00 ET (<span class="highlight">Friday 06:00 - 07:00 JST</span>)
 - **BioClub Class Reviews**: <span class="highlight">Friday 15:00 - 16:00 JST</span>
-- **BioClub Homework Reviews**: <span class="highlight">Mondays 15:00 - 16:00 JST</span>
+- **BioClub Homework Reviews**: <span class="highlight">Monday 15:00 - 16:00 JST</span>
 - Lectures and Meetings starts on **September 15th**
 {{< /callout >}}
 
