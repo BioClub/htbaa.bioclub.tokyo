@@ -16,8 +16,8 @@ draft = false
 - [Course Info & Syllabus](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
 - **Global Lectures**: Tuesdays 14:30 -16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
 - **Global Recitations**: Thursdays 17:00 -18:00 ET (<span class="highlight">Friday 06:00 - 07:00 JST</span>)
-- **BioClub Class Reviews**: <span class="highlight">Friday 15:00 - 16:00 JST</span>
-- **BioClub Homework Reviews**: <span class="highlight">Monday 15:00 - 16:00 JST</span>
+- **BioClub Class Reviews**: <span class="highlight">Friday 16:00 - 17:00 JST</span>
+- **BioClub Homework Reviews**: <span class="highlight">Monday 16:00 - 17:00 JST</span>
 - Lectures and Meetings starts on **September 15th**
 {{< /callout >}}
 
@@ -67,7 +67,7 @@ Lectures and Recitations are shared globally from the MIT Course '[How to Bioman
 ### Global Schedule
 
 - **Class:** Tuesdays 14:30-16:00 ET at MIT Zoom
-- **Recitation:** Thursdays 15:00-16:00 ET at MIT Zoom
+- **Recitation:** Thursdays 17:00-18:00 ET at MIT Zoom
 
 ###  BioClub Meeting Schedule
 
@@ -79,7 +79,7 @@ Active participation in the BioClub node meetings is a requirement for staying a
 
 # BioClub TAs
 
-If you are a HTGAA Graduate you should have gotten an invition to join as a TA. 
+If you are a HTGAA Graduate you are welcome to join HTBAA as a TA (Teaching Assistant)
 
 # Frequently Asked Questions
 
