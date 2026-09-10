@@ -3,12 +3,21 @@ title = 'Index'
 draft = false
 +++
 
+<style>
+.highlight {
+  background:#ff0;
+  color:#000;
+}
+</style>
+
 ### General Information & Key Dates
 {{< callout>}}
 - [HTBAA 26 Application Form](https://forms.gle/XqeD8BHSQ1CDbKDW9), Submission Deadline: **September 11th** 2026, 11:59pm PT
 - [Course Info & Syllabus](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
-- **Global Lectures**: Tuesdays 14:30 -16:00 ET, **Global Recitations**: Thursdays 15:00 -16:00 ET
-- BioClub Homework Reviews: Mondays 16:00 - 17:00 JST, BioClub Class Reviews: Thursdays 16:00 - 17:00 JST
+- **Global Lectures**: Tuesdays 14:30 -16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
+- **Global Recitations**: Thursdays 17:00 -18:00 ET (<span class="highlight">Friday 06:00 - 07:00 JST</span>)
+- **BioClub Class Reviews**: <span class="highlight">Friday 15:00 - 16:00 JST</span>
+- **BioClub Homework Reviews**: <span class="highlight">Mondays 15:00 - 16:00 JST</span>
 - Lectures and Meetings starts on **September 15th**
 {{< /callout >}}
 
