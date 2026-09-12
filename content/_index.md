@@ -39,6 +39,17 @@ This is the first version of the course, as the topics are quite avant-garde, pl
 
 Lectures and Recitations are shared globally from the MIT Course '[How to Biomanufacture Almost Anything](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)', each node will organize additional Class & Homework Reviews session.
 
+# Welcome Committed Listeners
+
+How does it work to become a **Committed Listerner**?
+
+1. Apply to the Course
+2. Join the Class 1
+3. Submit the Homework for Class 1 until Sept 22nd.
+4. Join the Node Weekly Meetings
+5. Congratulations, your are a **Committed Listerner**!
+6. Continue to make Homework, and attend Node meetings to stay a CL.
+
 # Course Overview & Syllabus
 
 - Class 1 (Sep 15): Course Overview and Introduction 
