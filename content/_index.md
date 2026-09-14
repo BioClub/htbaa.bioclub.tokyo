@@ -12,7 +12,6 @@ draft = false
 
 ### General Information & Key Dates
 {{< callout>}}
-- [HTBAA 26 Application Form](https://forms.gle/XqeD8BHSQ1CDbKDW9), Submission Deadline: **September 11th** 2026, 11:59pm PT
 - [Course Info & Syllabus](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
 - **Global Lectures**: Tuesdays 14:30 -16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
 - **Global Recitations**: Thursdays 17:00 -18:00 ET (<span class="highlight">Friday 06:00 - 07:00 JST</span>)
@@ -27,6 +26,18 @@ Welcome to the HTBAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 
 It's a great place to get started, it's recommended for students who want to take HTGAA later - and for HTGAA graduates who want to continue their journey on becoming a TA.
+
+# Upcoming 
+
+|      |      |
+| :--- | :--- |
+| **HTBAA 2026 Class 1** | Tuesday, September 15th, 14:30 ET |
+| **HTBAA 2026 Recitation 1** | Thursday, September 17th, 17:00 ET |
+| **BioClub Class Review** | Friday, September 18th, 16:00 JST |
+| **BioClub Homework Review** | Monday, September 21th, 16:00 JST |
+
+ - _Classes & Recitations are held on the HTBAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
+- _Make sure to calculate your timezone correctly._
 
 # HTBAA 2026 Main Website (in progress)
 
@@ -54,16 +65,16 @@ How does it work to become a **Committed Listerner**?
 
 - Class 1 (Sep 15): Course Overview and Introduction 
 - Class 2 (Sep 22): DNA Design & Applications 
-- Class 3 (Sep 29): Cell-Free Systems, Cloud Labs, & Field trip to Ginkgo Bioworks  — Reshma Shetty (Ginkgo Bioworks)
+- Class 3 (Sep 29): Cell-Free Systems, Cloud Labs, & Field trip to Ginkgo Bioworks  — Reshma Shetty ([Ginkgo Bioworks](https://www.ginkgo.bio))
 - Class 4 (Oct 6): LAB #1: Cloud Lab Cell-Free Manufacturing
 - NO CLASS (Oct 13)
-- Class 5 (Oct 20): Digital Microfluidics & Final Project Crit #1  — Michael Chen (Nuclera)
+- Class 5 (Oct 20): Digital Microfluidics & Final Project Crit #1  — Michael Chen ([Nuclera](https://www.nuclera.com))
 - Class 6 (Oct 27): LAB #2: Microfluidic Cell-Free Manufacturing
-- Class 7 (Nov 3): Measurement & Assays  — Waters Corporation 
-- Class 8 (Nov 10): LAB #3: Microbial Manufacturing — (Patrick Boyle (ATCC), Margaret Saha (William & Mary))
+- Class 7 (Nov 3): Measurement & Assays  — [Waters Corporation](https://www.waters.com)
+- Class 8 (Nov 10): LAB #3: Microbial Manufacturing — (Patrick Boyle ([ATCC](https://www.atcc.org)), Margaret Saha (William & Mary))
 - Class 9 (Nov 17): Genetic Circuit Design & Assembly (Ron Weiss, MIT) 
 - Class 10 (Nov 24): LAB #4: Mammalian Cell Manufacturing
-- Class 11 (Dec 1): Non-Model Organisms (Henry Lee, Cultivarium)
+- Class 11 (Dec 1): Non-Model Organisms (Henry Lee, [Cultivarium](https://www.cultivarium.org))
 - Class 12 (Dec 8): Final Project presentations
 
 
@@ -90,7 +101,7 @@ Active participation in the BioClub node meetings is a requirement for staying a
 
 # BioClub TAs
 
-If you are a HTGAA Graduate you are welcome to join HTBAA as a TA (Teaching Assistant)
+If you are a HTGAA Graduate you are welcome to join HTBAA as a TA (Teaching Assistant). Please join the lectures, the BioClub review session - and also prepare by doing the Weekly Homework.
 
 # Frequently Asked Questions
 
