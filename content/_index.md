@@ -11,6 +11,7 @@ draft = false
 </style>
 
 ### General Information & Key Dates
+
 {{< callout>}}
 - [Course Info & Syllabus](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
 - **Global Lectures**: Tuesdays 14:30 - 16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
@@ -27,6 +28,7 @@ Welcome to the HTBAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one
 
 It's a great place to get started, it's recommended for students who want to take HTGAA later - and for HTGAA graduates who want to continue their journey on becoming a TA.
 
+
 # Upcoming 
 
 |      |      |
@@ -39,9 +41,10 @@ It's a great place to get started, it's recommended for students who want to tak
  - _Classes & Recitations are held on the HTBAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 - _Make sure to calculate your timezone correctly._
 
-# HTBAA 2026 Main Website (in progress)
 
-In the meantime, check out David Kong's annoucements on [Instagram](https://www.instagram.com/p/DcjVhNwiN-i/) & [LinkedIn](https://www.instagram.com/p/DcjVhNwiN-i/).
+# HTBAA 2026 Syllabus, Homework Information
+
+[HTBAA 2026 Syllabus & Info](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
 
 
 # About HTBAA 2026
@@ -49,6 +52,7 @@ In the meantime, check out David Kong's annoucements on [Instagram](https://www.
 This is the first version of the course, as the topics are quite avant-garde, please have patience with the organizer and the TA team. We are as excited as you to organize this course - but the experience might not be as polished as other courses. Which also means this is a great opportunity for involved and immersed learning. This course is a _cool_ courses (in the sense of Marshal McLuhan's distinction between hot & cool media).
 
 Lectures and Recitations are shared globally from the MIT Course '[How to Biomanufacture Almost Anything](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)', each node will organize additional Class & Homework Reviews session.
+
 
 # Welcome Committed Listeners
 
@@ -60,6 +64,7 @@ How does it work to become a **Committed Listerner**?
 4. Join the Node Weekly Meetings
 5. Congratulations, your are a **Committed Listerner**!
 6. Continue to make Homework, and attend Node meetings to stay a CL.
+
 
 # Course Overview & Syllabus
 
@@ -84,12 +89,14 @@ How does it work to become a **Committed Listerner**?
 
 - Being a *Committed Listener* is hard. It will take time watch the lectures & recitations, to join the meetings and do the homework. You can also fall back to be a _Global Listener_ if the workload will be too much.
 
+
 # Meeting Times
 
 ### Global Schedule
 
 - **Class:** Tuesdays 14:30-16:00 ET at MIT Zoom <span class="highlight">Wednesday 03:30 - 05:00 JST</span>
 - **Recitation:** Thursdays 17:00-18:00 ET at MIT Zoom <span class="highlight">Friday 06:00 - 07:00 JST</span>
+
 
 ###  BioClub Meeting Schedule
 
@@ -103,9 +110,11 @@ Active participation in the BioClub node meetings is a requirement for staying a
 
 If you are a HTGAA Graduate you are welcome to join HTBAA as a TA (Teaching Assistant). Please join the lectures, the BioClub review session - and also prepare by doing the Weekly Homework.
 
+
 # Communications
 
 Committed Listeners will be invited to the new & shiny [HTGAA/HTBAA Forum](https://forum.htgaa.org). Please note, that you can only get access _after_ you have been confirmed as a CL. If you have any questions in the meantime, ask them in Zoom chat in the classes/recitations - or get [in touch with the node](https://discord.bioclub.tokyo) you are planning to attend.
+
 
 # Frequently Asked Questions
 
