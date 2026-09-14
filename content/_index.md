@@ -13,7 +13,7 @@ draft = false
 ### General Information & Key Dates
 {{< callout>}}
 - [Course Info & Syllabus](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
-- **Global Lectures**: Tuesdays 14:30 -16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
+- **Global Lectures**: Tuesdays 14:30 - 16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
 - **Global Recitations**: Thursdays 17:00 -18:00 ET (<span class="highlight">Friday 06:00 - 07:00 JST</span>)
 - **BioClub Class Reviews**: <span class="highlight">Friday 16:00 - 17:00 JST</span>
 - **BioClub Homework Reviews**: <span class="highlight">Monday 16:00 - 17:00 JST</span>
@@ -102,6 +102,10 @@ Active participation in the BioClub node meetings is a requirement for staying a
 # BioClub TAs
 
 If you are a HTGAA Graduate you are welcome to join HTBAA as a TA (Teaching Assistant). Please join the lectures, the BioClub review session - and also prepare by doing the Weekly Homework.
+
+# Communications
+
+Committed Listeners will be invited to the new & shiny [HTGAA/HTBAA Forum](https://forum.htgaa.org). Please note, that you can only get access _after_ you have been confirmed as a CL. If you have any questions in the meantime, ask them in Zoom chat in the classes/recitations - or get [in touch with the node](https://discord.bioclub.tokyo) you are planning to attend.
 
 # Frequently Asked Questions
 
