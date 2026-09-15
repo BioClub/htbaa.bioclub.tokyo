@@ -52,7 +52,7 @@ All the information, including homework assignments, recordsings, and slides wil
 
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| Week 1     | [📼Recording](https://vimeo.com/1227146791) |         |               |                  |
+| Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) |         |               |                  |
 
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…<br />
