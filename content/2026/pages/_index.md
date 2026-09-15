@@ -1,13 +1,13 @@
 +++
-title = 'Pages & Documentation at HTGAA 2026'
+title = 'Pages & Documentation at HTBAA 2026'
 draft = false
 +++
 
-For 2026 HTGAA _Committed Listeners_ are required to submit their homework and documentation with and through the git-based [HTGAA 2026 Documentation Server](https://edit.htgaa.org). Each students will get their own git repository, from which your personal student website will be automatically build.
+For 2026 HTBAA _Committed Listeners_ are required to submit their homework and documentation with and through the git-based [HTBAA 2026 Documentation Server](https://edit.htgaa.org). Each students will get their own git repository, from which your personal student website will be automatically build.
 
 # Access
 
-Registered participants of HTGAA 2026 will be given access to the [HTGAA Documentation Server](https://edit.htgaa.org) after Class #1 on Feburary 3rd.
+Registered participants of HTBAA 2026 will be given access to the [HTBAA Documentation Server](https://edit.htgaa.org) after Class #1 on September 15th.
 
 _Example Repository:_  
 https://edit.htgaa.org/georg-tremmel/webpages
@@ -30,7 +30,7 @@ Your content will be written in Markdown, a simple syntax to add formatting to p
 
 ### Editing Files with the Online Editor (easy)
 
-The HTGAA Repositories have a web-based editor:
+The HTBAA Repositories have a web-based editor:
 
 1. Log into your account
 2. Navigate to the file you want to edit
@@ -65,7 +65,7 @@ Files can now be edited on your computer. To _push_ the changes to the server an
 | :--------- | :--- |
 | 1. `git add *` | [Add](https://git-scm.com/docs/git-add) all new and changed files |
 | 2. `git commit` | Locally [commit](https://git-scm.com/docs/git-commit) your changed. You will be asked to provide add a short message. Can also be concatenated into `git commit -m 'my message`` |
-| 3. `git push` | Uploads and [pushes](https://git-scm.com/docs/git-push) the changes onto the HTGAA Server, the website is rebuilt after a few seconds |
+| 3. `git push` | Uploads and [pushes](https://git-scm.com/docs/git-push) the changes onto the HTBAA Server, the website is rebuilt after a few seconds |
 
 Git is much more powerful - and complex - but these 3 commands will be used most often.
 

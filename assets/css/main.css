@@ -174,7 +174,8 @@ small, #sidebar ul ul li, #sidebar ul ol li, .nocomments, .postmetadata, blockqu
 
 code {
   font: 0.9em 'Menlo', 'Courier New', Courier, Fixed;
-  background: #f2efec;
+  background: #f0f;
+  color: #fff;
 }
 
 acronym, abbr, span.caps {

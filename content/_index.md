@@ -46,6 +46,18 @@ It's a great place to get started, it's recommended for students who want to tak
 
 [HTBAA 2026 Syllabus & Info](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
 
+# Recordings
+
+All the information, including homework assignments, recordsings, and slides will be shared on the [HTBAA Pages](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0). The table below also includes recordings of the BioClub Node Reviews.
+
+|    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
+| :--------- | :------ | :---------- | :------------ | :--------------- |
+| Week 1     | 📼Recording³ |         |               |                  |
+
+<small>
+¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…<br />
+All recordings are Password-protected. Check your email or the <a href="https://forum.htgaa.org">Forum</a> for access.
+</small>
 
 # About HTBAA 2026
 
@@ -131,7 +143,7 @@ Committed Listerners need to join Lecture 1, Recitation 1 and do the Homework of
 HTBAA does not issue certificates at this point. Your documentation pages and the listing of your name & documentation on the node and global HTBAA sites will be proof for your participation & completion.
 
 #### Can I be a Committed Listener and NOT join Node Meetings?
-No. Attendance at Node Meetings and active participation is a requirement for Committed Listeners.
+No. Attendance at Node Meetings and active participation is a requirement for Committed Listeners. You can miss the occianial meeting, but if you do not particpate in the node meetings, your status as Committed Listerner will be revoked.
 
 #### Do Global Listener need to attend Node Meetings?
 No. Global Listener are not attached to any node, they will not have space on the HTBAA webserver to publish and document their homework. It is however encouraged to document and publish your homework on your own web space - if you decidede to take the course as a CL, it will become much easier the second time around.
@@ -141,3 +153,7 @@ You absolutely need to join the first weeks Lecture and Recitation - if you want
 
 #### How can I reach BioClub Tokyo if I have any questions?
 Please join our [BioClub Discord](https://discord.bioclub.tokyo), and post any question you might have in the #htgaa Project Channel.
+
+#### I don't know how to use Markdown and the edit.htgaa.org platform to upload my homework? Can anyone anyone help me?
+In the Week 1 recitation you will be given an introduction on how to use edit.htgaa.org and upload your homework. Please note that your homework can *only* be uploaded using this platform. Please don't sent us link to other webpages. You should ask for help on the Forum or your Node meeting.
+Here is also a short intro to get you started: https://htbaa.bioclub.org/2026/pages 
