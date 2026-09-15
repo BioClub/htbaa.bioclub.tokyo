@@ -72,14 +72,14 @@ How does it work to become a **Committed Listerner**?
 
 1. ~~Apply to the Course~~
 2. ~~Join the Class #1~~
-3. Submit the Homework for Week #1 until Sept 22nd 14:30 ET via the Google Form you will get after Class #1
+3. Submit the [Homework for Week #1](https://docs.google.com/document/d/1nyBlO8p2RdKzkRjvxl4TJHcNH1BU0AuH52AQ0RMcU8o/edit?tab=t.0) until Sept 22nd 14:30 ET via the Google Form you will get after Class #1
 4. Indicate your desired node, check the Node Meetings Times before, for BioClub they are Mondays and Fridays from 16:00 - 17:00 JST.
 5. Continue to making your Weekly Homework, and attend Node meetings to keep your CL Status.
 
 
 # Course Overview & Syllabus
 
-- Class 1 (Sep 15): Course Overview and Introduction 
+- Class 1 (Sep 15): Course Overview and Introduction, [Homework 1](https://docs.google.com/document/d/1nyBlO8p2RdKzkRjvxl4TJHcNH1BU0AuH52AQ0RMcU8o/edit?tab=t.0)
 - Class 2 (Sep 22): DNA Design & Applications 
 - Class 3 (Sep 29): Cell-Free Systems, Cloud Labs, & Field trip to Ginkgo Bioworks  — Reshma Shetty ([Ginkgo Bioworks](https://www.ginkgo.bio))
 - Class 4 (Oct 6): LAB #1: Cloud Lab Cell-Free Manufacturing
