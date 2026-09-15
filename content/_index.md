@@ -52,11 +52,11 @@ All the information, including homework assignments, recordsings, and slides wil
 
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| Week 1     | 📼Recording³ |         |               |                  |
+| Week 1     | [📼Recording](https://vimeo.com/1227146791) |         |               |                  |
 
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…<br />
-All recordings are Password-protected. Check your email or the <a href="https://forum.htgaa.org">Forum</a> for access.
+All recordings are Password-protected. Check your node for access.
 </small>
 
 # About HTBAA 2026
