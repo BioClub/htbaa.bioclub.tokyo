@@ -70,12 +70,11 @@ Lectures and Recitations are shared globally from the MIT Course '[How to Bioman
 
 How does it work to become a **Committed Listerner**?
 
-1. Apply to the Course
-2. Join the Class 1
-3. Submit the Homework for Class 1 until Sept 22nd.
-4. Join the Node Weekly Meetings
-5. Congratulations, your are a **Committed Listerner**!
-6. Continue to make Homework, and attend Node meetings to stay a CL.
+1. ~~Apply to the Course~~
+2. Join the Class #1
+3. Submit the Homework for Week #1 until Sept 22nd 14:30 ET via the Google Form you will get after Class #1
+4. Indicate your desired node, check the Node Meetings Times before, for BioClub they are Mondays and Fridays from 16:00 - 17:00 JST.
+5. Continue to making your Weekly Homework, and attend Node meetings to keep your CL Status.
 
 
 # Course Overview & Syllabus
