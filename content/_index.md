@@ -71,7 +71,7 @@ Lectures and Recitations are shared globally from the MIT Course '[How to Bioman
 How does it work to become a **Committed Listerner**?
 
 1. ~~Apply to the Course~~
-2. Join the Class #1
+2. ~~Join the Class #1~~
 3. Submit the Homework for Week #1 until Sept 22nd 14:30 ET via the Google Form you will get after Class #1
 4. Indicate your desired node, check the Node Meetings Times before, for BioClub they are Mondays and Fridays from 16:00 - 17:00 JST.
 5. Continue to making your Weekly Homework, and attend Node meetings to keep your CL Status.
@@ -119,7 +119,8 @@ Active participation in the BioClub node meetings is a requirement for staying a
 
 # BioClub TAs
 
-If you are a HTGAA Graduate you are welcome to join HTBAA as a TA (Teaching Assistant). Please join the lectures, the BioClub review session - and also prepare by doing the Weekly Homework.
+If you are a HTGAA Graduate you are welcome to join HTBAA as a *Committed TA* (Teaching Assistant). Please join the lectures, the BioClub review session - and also prepare by doing the Weekly Homework.
+If you can not commit doing the homework, you can always join as a Guest Ta
 
 
 # Communications
