@@ -13,6 +13,7 @@ draft = false
 ### General Information & Key Dates
 
 {{< callout>}}
+- [HTBAA 2026 Main Site](https://2026b.htgaa.org/2026b/course-pages/)
 - [Course Info & Syllabus](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0)
 - **Global Lectures**: Tuesdays 14:30 - 16:00 ET (<span class="highlight">Wednesday 03:30 - 05:00 JST</span>)
 - **Global Recitations**: Thursdays 17:00 -18:00 ET (<span class="highlight">Friday 06:00 - 07:00 JST</span>)
@@ -23,7 +24,7 @@ draft = false
 
 Welcome to the HTBAA@BioClub Site! [BioClub Tokyo](https://bioclub.tokyo) is one of the Global Nodes of the growing HTGAA/HTBAA Network.
 
-[HTBAA - How to _Biomanufacture_ Almost Anything](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0) - is a spin-off course from the larger HTGAA - How to _Grow_ Almost Anything. HTBAA is shorter & less demanding, the goal is not to give an introduction to Synthetic Biology, but to focus on _Biomanufacturing_.
+[HTBAA - How to _Biomanufacture_ Almost Anything](https://2026b.htgaa.org/2026b/course-pages/) - is a spin-off course from the larger HTGAA - How to _Grow_ Almost Anything. HTBAA is shorter & less demanding, the goal is not to give an introduction to Synthetic Biology, but to focus on _Biomanufacturing_.
 
 
 It's a great place to get started, it's recommended for students who want to take HTGAA later - and for HTGAA graduates who want to continue their journey on becoming a TA.
@@ -52,7 +53,7 @@ All the information, including homework assignments, recordsings, and slides wil
 
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) |         |               |                  |
+| Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) | [📼Recording](https://mit.zoom.us/rec/share/aS6AUdAKr7v1UtS5kx3jEMSOvH9kiFH9oP8MpUpTvrwq6f5flmueb75NvznNPw1j.JFCGEq562w4QfO_2) | No Recording |                  |
 
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…<br />
