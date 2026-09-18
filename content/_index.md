@@ -57,7 +57,7 @@ All the information, including homework assignments, recordsings, and slides wil
 
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…<br />
-All recordings are Password-protected. Check your node for access.
+All recordings are Password-protected. Check your node or the forum for access.
 </small>
 
 # About HTBAA 2026
