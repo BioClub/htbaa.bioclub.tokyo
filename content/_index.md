@@ -112,7 +112,7 @@ How does it work to become a **Committed Listerner**?
 
 ### Global Calendart
 
-A [Global Goolge Calendar](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the meeting times for all the nodes. Even if you are not a CL at BioClub Tokyo, you are always welcome to drop by to any review meeting.
+A [Global Goolge Calendar](https://calendar.google.com/calendar/u/0?cid=MThiZWVjNDg4ZTBmYTU1Njg3MmJjZGI1NjVjZTYwYTAxMWMxNTdlMjM0Y2FlZjkxZjc3ZDY1ZTA0YjQyMjEzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with all the meeting times for [all the HTBAA 2026 nodes](https://2026b.htgaa.org/2026b/course-pages/nodes/). Even if you are not a CL at BioClub Tokyo, you are always welcome to drop by to any review meeting.
 
 ### BioClub Meeting Schedule
 
