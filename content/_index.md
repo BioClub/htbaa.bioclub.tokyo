@@ -161,7 +161,7 @@ Please join our [BioClub Discord](https://discord.bioclub.tokyo), and post any q
 
 #### I don't know how to use Markdown and the edit.htgaa.org platform to upload my homework? Can anyone anyone help me?
 In the Week 1 recitation you will be given an introduction on how to use edit.htgaa.org and upload your homework. Please note that your homework can *only* be uploaded using this platform. Please don't sent us link to other webpages. You should ask for help on the Forum or your Node meeting.
-Here is also a short intro to get you started: https://htbaa.bioclub.org/2026/pages 
+Here is also a short intro to get you started: https://htbaa.bioclub.tokyo/2026/pages 
 
 #### What is the 'MIT 5' or 'MIT time'?
 *MIT time* means that all lectures and meetings start 5 minutes **after** the announcet time, so if a lecture is announced at 14:30, it will start at 14:35. Comparable to the 'academic quarter'("Akademische Vierterstunde") in many european universities, where everything starts 15 minutes after the announced time.
