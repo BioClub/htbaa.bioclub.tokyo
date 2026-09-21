@@ -34,10 +34,10 @@ It's a great place to get started, it's recommended for students who want to tak
 
 |      |      |
 | :--- | :--- |
-| **BioClub Homework Review** | Monday, September 21th, 16:00 JST |
 | **HTBAA 2026 Class 2** | Tuesday, September 22nd 14:30 ET |
 | **HTBAA 2026 Recitation 2** | Thursday, September 24th, 17:00 ET |
-| **BioClub Class Review** | Friday, September 25th, 16:00 JST |
+| **BioClub Class 2 Review** | Friday, September 25th, 16:00 JST |
+| **BioClub Homework 2 Review** | Monday, September 28th, 16:00 JST |
 
  - _Classes & Recitations are held on the HTBAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 - _Make sure to calculate your timezone correctly._
@@ -53,7 +53,8 @@ All the information, including homework assignments, recordsings, and slides wil
 
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
-| Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) | [📼Recording](https://mit.zoom.us/rec/share/aS6AUdAKr7v1UtS5kx3jEMSOvH9kiFH9oP8MpUpTvrwq6f5flmueb75NvznNPw1j.JFCGEq562w4QfO_2) | No Recording |                  |
+| Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) | [📼Recording](https://mit.zoom.us/rec/share/aS6AUdAKr7v1UtS5kx3jEMSOvH9kiFH9oP8MpUpTvrwq6f5flmueb75NvznNPw1j.JFCGEq562w4QfO_2) | No Recording | [📼Recording](https://dieangewandte-at.zoom.us/rec/share/LUNEPK_8fNZwrvpW0KqSF0-5jTGBfOtIEYeCIoLrhVB2Giqll5TVNYQMQS0jCwtv.FgxWUkTsvB2HkiGO) |
+
 
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress…<br />
