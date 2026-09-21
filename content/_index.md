@@ -126,12 +126,20 @@ Active participation in the BioClub node meetings is a requirement for staying a
 # BioClub TAs
 
 If you are a HTGAA Graduate you are welcome to join HTBAA as a *Committed TA* (Teaching Assistant). Please join the lectures, the BioClub review session - and also prepare by doing the Weekly Homework.
-If you can not commit doing the homework, you can always join as a Guest Ta
+If you can not commit doing the homework, you can always join whenever you can as a Guest TA.
+
+**List of Committed TAs will be published after before Class 3.**
 
 
 # Communications
 
+## Forum
+
 Committed Listeners will be invited to the new & shiny [HTGAA/HTBAA Forum](https://forum.htgaa.org). Please note, that you can only get access _after_ you have been confirmed as a CL. If you have any questions in the meantime, ask them in Zoom chat in the classes/recitations - or get [in touch with the node](https://discord.bioclub.tokyo) you are planning to attend.
+
+## Hall
+
+Another shiny, new and experimental thing for 2026 is the [HTBAA Hall](https://hall.htgaa.org). After logging in with your credentianl you can experience a [Virtual Office/World](https://workadventu.re), where all the HTBAA/HTGAA content is available to explore, including a socratic tutor called '[Rosalind](https://en.wikipedia.org/wiki/Rosalind_Franklin)'.
 
 
 # Frequently Asked Questions
