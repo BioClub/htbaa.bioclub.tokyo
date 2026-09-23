@@ -86,7 +86,7 @@ How does it work to become a **Committed Listerner**?
 # Course Overview & Syllabus
 
 - Class 1 (Sep 15): Course Overview and Introduction, [Homework 1](https://docs.google.com/document/d/1nyBlO8p2RdKzkRjvxl4TJHcNH1BU0AuH52AQ0RMcU8o/edit?tab=t.0)
-- Class 2 (Sep 22): DNA Design & Applications: Joe Jacobson (MIT CBA), Traci Haddock (Asomiv)
+- Class 2 (Sep 22): DNA Design & Applications: Joe Jacobson (MIT CBA) [Slides](https://docs.google.com/presentation/d/1osVC5jXZdFraE9XlkTu04ZJqTlsrqytC/edit?usp=sharing&ouid=113950796617109721925&rtpof=true&sd=true), Traci Haddock (Asomiv)
 - Class 3 (Sep 29): Cell-Free Systems, Cloud Labs, & Field trip to Ginkgo Bioworks  — Reshma Shetty ([Ginkgo Bioworks](https://www.ginkgo.bio))
 - Class 4 (Oct 6): LAB #1: Cloud Lab Cell-Free Manufacturing
 - NO CLASS (Oct 13)
