@@ -34,10 +34,10 @@ It's a great place to get started, it's recommended for students who want to tak
 
 |      |      |
 | :--- | :--- |
-| **HTBAA 2026 Recitation 2** | Thursday, September 24th, 17:00 ET |
-| **BioClub Class 2 Review** | Friday, September 25th, 16:00 JST |
-| **BioClub Homework 2 Review** | Monday, September 28th, 16:00 JST |
 | **HTBAA 2026 Class 3** | Tuesday, September 29nd 14:30 ET |
+| **HTBAA 2026 Recitation 3** | Thursday, October 1st, 17:00 ET |
+| **BioClub Class 3 Review** | Friday, October 2nd, 16:00 JST |
+| **BioClub Homework 3 Review** | Monday, October 5th, 16:00 JST |
 
  - _Classes & Recitations are held on the HTBAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 - _Make sure to calculate your timezone correctly._
@@ -54,7 +54,7 @@ All the information, including homework assignments, recordsings, and slides wil
 |    Week    |  Class¹ | Recitation¹ | Class Review² | Homework Review² |
 | :--------- | :------ | :---------- | :------------ | :--------------- |
 | Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) | [📼Recording](https://mit.zoom.us/rec/share/aS6AUdAKr7v1UtS5kx3jEMSOvH9kiFH9oP8MpUpTvrwq6f5flmueb75NvznNPw1j.JFCGEq562w4QfO_2) | No Recording | [📼Recording](https://dieangewandte-at.zoom.us/rec/share/LUNEPK_8fNZwrvpW0KqSF0-5jTGBfOtIEYeCIoLrhVB2Giqll5TVNYQMQS0jCwtv.FgxWUkTsvB2HkiGO) |
-| Week 2     | [📼Recording](https://mit.zoom.us/rec/share/_YOuPjxV6_QjvOZbsh2DC0F9ijab17eVkqCi-3HvI62qP8WoBfw_OTpGVn8I5jbJ.SVAulPlfAJzwz3Tn) | [📼Recording⁴](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://vimeo.com/1230160811) |         |
+| Week 2     | [📼Recording](https://mit.zoom.us/rec/share/_YOuPjxV6_QjvOZbsh2DC0F9ijab17eVkqCi-3HvI62qP8WoBfw_OTpGVn8I5jbJ.SVAulPlfAJzwz3Tn) | [📼Recording⁴](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://vimeo.com/1230160811) | [📼Recording](https://vimeo.com/1230856180) |
 
 
  
