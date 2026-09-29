@@ -59,11 +59,6 @@ All the information, including homework assignments, recordsings, and slides wil
 
 
 
-
-Passcode: htbaa2026!
- 
-
-
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress, ⁴ Lecture from HTGAA<br />
 All recordings are Password-protected. Check your node or the forum for access.
