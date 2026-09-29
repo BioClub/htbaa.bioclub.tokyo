@@ -34,10 +34,10 @@ It's a great place to get started, it's recommended for students who want to tak
 
 |      |      |
 | :--- | :--- |
-| **HTBAA 2026 Class 3** | Tuesday, September 29nd 14:30 ET |
 | **HTBAA 2026 Recitation 3** | Thursday, October 1st, 17:00 ET |
 | **BioClub Class 3 Review** | Friday, October 2nd, 16:00 JST |
 | **BioClub Homework 3 Review** | Monday, October 5th, 16:00 JST |
+| **HTBAA 2026 Class 4** | Tuesday, October 6th 14:30 ET |
 
  - _Classes & Recitations are held on the HTBAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 - _Make sure to calculate your timezone correctly._
