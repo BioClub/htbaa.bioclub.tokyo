@@ -55,8 +55,12 @@ All the information, including homework assignments, recordsings, and slides wil
 | :--------- | :------ | :---------- | :------------ | :--------------- |
 | Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) | [📼Recording](https://mit.zoom.us/rec/share/aS6AUdAKr7v1UtS5kx3jEMSOvH9kiFH9oP8MpUpTvrwq6f5flmueb75NvznNPw1j.JFCGEq562w4QfO_2) | No Recording | [📼Recording](https://dieangewandte-at.zoom.us/rec/share/LUNEPK_8fNZwrvpW0KqSF0-5jTGBfOtIEYeCIoLrhVB2Giqll5TVNYQMQS0jCwtv.FgxWUkTsvB2HkiGO) |
 | Week 2     | [📼Recording](https://mit.zoom.us/rec/share/_YOuPjxV6_QjvOZbsh2DC0F9ijab17eVkqCi-3HvI62qP8WoBfw_OTpGVn8I5jbJ.SVAulPlfAJzwz3Tn) | [📼Recording⁴](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://vimeo.com/1230160811) | [📼Recording](https://vimeo.com/1230856180) |
+| Week 3     | [📼Recording](https://mit.zoom.us/rec/share/PSCofQ0029m0w-SY7aKcNgxml6D4aJjaeisKKt2bt_LtipW7WkqW6DCDJwsk_KtJ.vnLdD1HaY9SGtFds) |   |   |  |
 
 
+
+
+Passcode: htbaa2026!
  
 
 
