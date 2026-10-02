@@ -55,7 +55,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | :--------- | :------ | :---------- | :------------ | :--------------- |
 | Week 1     | [📼Recording](https://mit.zoom.us/rec/share/MH1bgK5HWb2JfxVgu9OKQppa2SFh0R1byLzm3XpqlCG8U_iH8PGlCXGTFxlGRBe2.iY7mjw6h6XACY74y) | [📼Recording](https://mit.zoom.us/rec/share/aS6AUdAKr7v1UtS5kx3jEMSOvH9kiFH9oP8MpUpTvrwq6f5flmueb75NvznNPw1j.JFCGEq562w4QfO_2) | No Recording | [📼Recording](https://dieangewandte-at.zoom.us/rec/share/LUNEPK_8fNZwrvpW0KqSF0-5jTGBfOtIEYeCIoLrhVB2Giqll5TVNYQMQS0jCwtv.FgxWUkTsvB2HkiGO) |
 | Week 2     | [📼Recording](https://mit.zoom.us/rec/share/_YOuPjxV6_QjvOZbsh2DC0F9ijab17eVkqCi-3HvI62qP8WoBfw_OTpGVn8I5jbJ.SVAulPlfAJzwz3Tn) | [📼Recording⁴](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [📼Recording](https://vimeo.com/1230160811) | [📼Recording](https://vimeo.com/1230856180) |
-| Week 3     | [📼Recording](https://mit.zoom.us/rec/share/PSCofQ0029m0w-SY7aKcNgxml6D4aJjaeisKKt2bt_LtipW7WkqW6DCDJwsk_KtJ.vnLdD1HaY9SGtFds) |   |   |  |
+| Week 3     | [📼Recording](https://mit.zoom.us/rec/share/PSCofQ0029m0w-SY7aKcNgxml6D4aJjaeisKKt2bt_LtipW7WkqW6DCDJwsk_KtJ.vnLdD1HaY9SGtFds) | [📼Recording](https://mit.zoom.us/rec/share/nAjSmFsv9piFVdV13V9y1SDBrjk3rSLgHYz2dt_zTj4978w2duHhoL2n6TjIuSE9.-S4nOgd3FRfjDYfF) |   |  |
 
 
 
@@ -83,6 +83,10 @@ How does it work to become a **Committed Listerner**?
 
 
 # Course Overview & Syllabus
+
+{{< callout>}}
+Homework details are also linked in the [HTBAA Syllabus](https://docs.google.com/document/d/1phDlPaq11ueEq8faMIr0md0OpnFaHdtoWryhW4zfNUw/edit?tab=t.0).
+{{< /callout >}}
 
 - Class 1 (Sep 15): Course Overview and Introduction, [Homework 1](https://docs.google.com/document/d/1nyBlO8p2RdKzkRjvxl4TJHcNH1BU0AuH52AQ0RMcU8o/edit?tab=t.0)
 - Class 2 (Sep 22): DNA Design & Applications: Joe Jacobson (MIT CBA) [Slides](https://docs.google.com/presentation/d/1osVC5jXZdFraE9XlkTu04ZJqTlsrqytC/edit?usp=sharing&ouid=113950796617109721925&rtpof=true&sd=true), Traci Haddock (Asomiv), [Homework 2](https://docs.google.com/document/d/1JsCTJzfIB34_c0wr2nv3ihLLHQSpJ-8HqGhUys1Lzbg/edit?tab=t.0)
