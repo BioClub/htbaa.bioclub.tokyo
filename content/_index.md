@@ -34,10 +34,11 @@ It's a great place to get started, it's recommended for students who want to tak
 
 |      |      |
 | :--- | :--- |
-| **BioClub Homework 4.1 Review**   | Monday, October 19th, 16:00 JST  |
-| **HTBAA 2026 Class 5 **       | Tuesday, October 20th 14:30 ET   |
-| **HTBAA 2026 Recitation 5**   | Thursday, October 22th, 17:00 ET |
-| **BioClub Class 5 Review**            | Friday, October 16th, 16:00 JST  |
+| **HTBAA 2026 Recitation 5**   | Thursday, October 22nd, 17:00 ET |
+| **BioClub Class 5 Review**    | Friday, October 23rd, 16:00 JST  |
+| **BioClub Homework 5 Review** | Monday, October 26th, 16:00 JST  |
+| **HTBAA 2026 Class 6 **       | Tuesday, October 27th 14:30 ET   |
+
 
  - _Classes & Recitations are held on the HTBAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
 - _Make sure to calculate your timezone correctly._
@@ -57,10 +58,10 @@ All the information, including homework assignments, recordsings, and slides wil
 | Week 2     | [Class 2](https://mit.zoom.us/rec/share/_YOuPjxV6_QjvOZbsh2DC0F9ijab17eVkqCi-3HvI62qP8WoBfw_OTpGVn8I5jbJ.SVAulPlfAJzwz3Tn) | [Recitation 2⁴](https://mit.zoom.us/rec/share/H6N0zS_zEn9CssD_hrY4J7AypLzJwTaxvTOKtcI5aIEp3oV__gDm5cHZkEbhFKX7.5e-1JHAmgGqGa6dz?startTime=1773169220000) | [Class Review 2](https://vimeo.com/1230160811)   | [Homework Review 2](https://vimeo.com/1230856180) |
 | Week 3     | [Class 3](https://mit.zoom.us/rec/share/PSCofQ0029m0w-SY7aKcNgxml6D4aJjaeisKKt2bt_LtipW7WkqW6DCDJwsk_KtJ.vnLdD1HaY9SGtFds) | [Recitation 3](https://mit.zoom.us/rec/share/nAjSmFsv9piFVdV13V9y1SDBrjk3rSLgHYz2dt_zTj4978w2duHhoL2n6TjIuSE9.-S4nOgd3FRfjDYfF)                          | [Class Review 3](https://vimeo.com/1232287611)   | [Homework Review 3](https://vimeo.com/1232942911) |
 | Week 4     | [Class 4](https://mit.zoom.us/rec/share/OhdKRZU0OAE_gik9VH0BGXz_x3_FtelPGr1eLiBioyDsgmhlJ19uZYYdecSeh9eK.ZKyvhc9PGUUKRuFO) | [Recitation 4](https://mit.zoom.us/rec/share/OCz6QpLZ2YOc6NN9hsuy-oVuTndDEBrsA3tWPUK91BHZGjIqQLzexDF8r8FLiL7X.FXqujc5oKoMgdwp3)                          | [Class Review 4](https://vimeo.com/1234321371)   | [Homework Review 4](https://vimeo.com/1234984892) |
-| Week 5     | *No Class*                                                                                                                 | [Recitation 4.1](https://mit.zoom.us/rec/share/WAXVXwUZacgsHB3NbbdajJqx0z1izurznSqI9Xqgnaoz3XJgnA16M2iB5X9VlPp_.9_TOAJsLk40GQBJF)                        | [Class Review 4.1](https://vimeo.com/1236479251) | Homework Review 4.1 |
+| Week 4.1   | *No Class*                                                                                                                 | [Recitation 4.1](https://mit.zoom.us/rec/share/WAXVXwUZacgsHB3NbbdajJqx0z1izurznSqI9Xqgnaoz3XJgnA16M2iB5X9VlPp_.9_TOAJsLk40GQBJF)                        | [Class Review 4.1](https://vimeo.com/1236479251) | [Homework Review 4.1](https://vimeo.com/1237198929) |
+| Week 5     | [Class 5](https://mit.zoom.us/rec/share/bz_Q8wpRzXkQYdI_86ltABw4VR4ta0i9frM_o02lXzr1tFTxIXhvccVAwVGNjE0A.v5WMOE03qjN9sUmX) | Recitation 5 | Class Review 5 | Homework Review 5 |
 | Week 6     |    |    |    |    |
 | Week 7     |    |    |    |    |
-| Week 8     |    |    |    |    |
 
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress, ⁴ Lecture from HTGAA<br />
