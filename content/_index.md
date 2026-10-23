@@ -36,7 +36,7 @@ It's a great place to get started, it's recommended for students who want to tak
 | :--- | :--- | :--- |
 | **BioClub Class 5 Review**    | Friday, October 23rd, 16:00 JST  |         |
 | **BioClub Homework 5 Review** | Monday, October 26th, 16:00 JST  | *Final Projects* |
-| **HTBAA 2026 Class 6 **       | Tuesday, October 27th 14:30 ET   |         |
+| **HTBAA 2026 Class 6**        | Tuesday, October 27th 14:30 ET   |         |
 | **HTBAA 2026 Recitation 6**   | Thursday, October 29nd, 17:00 ET | *Homework 5 Due Date* |
 
 
