@@ -61,7 +61,7 @@ All the information, including homework assignments, recordsings, and slides wil
 | Week 4.1   | *No Class*                                                                                                                 | [Recitation 4.1](https://mit.zoom.us/rec/share/WAXVXwUZacgsHB3NbbdajJqx0z1izurznSqI9Xqgnaoz3XJgnA16M2iB5X9VlPp_.9_TOAJsLk40GQBJF)                        | [Class Review 4.1](https://vimeo.com/1236479251) | [Homework Review 4.1](https://vimeo.com/1237198929) |
 | Week 5     | [Class 5](https://mit.zoom.us/rec/share/bz_Q8wpRzXkQYdI_86ltABw4VR4ta0i9frM_o02lXzr1tFTxIXhvccVAwVGNjE0A.v5WMOE03qjN9sUmX) | [Recitation 5](https://mit.zoom.us/rec/share/asimMvE2xYVO5pBOic52d5st3XQDS7oHlwgFxyublTNjxlyQddGNzku5ymy6vUoX.GudX3qLJqcD8SI2g)                          | [Class Review 5](https://vimeo.com/1238704547)   | [Homework Review 5](https://vimeo.com/1239410325) |
 | Week 6     | [Class 6](https://mit.zoom.us/rec/share/UqAQKbTBKynJe7BjkRDGjKyEOHwjxBpgCmF3E5jfFHcb5YYVFM3Gz7PrVJnykvSz.bqgCPNYa3XsRrpAj) | [Recitation 6](https://mit.zoom.us/rec/share/-cRctT4S_UbDLPpQlx-fmPG3pCFxpBfW0_7ZqOofqq1X6u8boK8ZooiXlMUxJ8Nf.zJ5f7Oeio7c6O9ut)                          | [Class Review 6](https://vimeo.com/1241207879)   | [Homework Review 6](https://vimeo.com/1242282753) |
-| Week 7     |    |    |    |    |
+| Week 7     | Class 7 | Recitation 7 | Class Review 7 | Homework Review 7 |
 
 <small>
 ¹ Global HTBAA Course, ² BioClub Tokyo-organised Reviews, ³ In Progress, ⁴ Lecture from HTGAA<br />
