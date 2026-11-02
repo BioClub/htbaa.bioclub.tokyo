@@ -478,16 +478,19 @@ code .number {
 
 /* participation */
 
+.participation .red {
+  background-color: #f00;
+  color: #fff;
+}
+
 .participation .green {
   background-color: #0f0;
   color: #000;
-  border-bottom: 3px solid red;
 }
 
 .participation .yellow {
   background-color: #ff0;
   color: #000;
-
 }
 
 .participation .light-yellow {

@@ -1,6 +1,6 @@
 +++
-title = 'Committed Listener Participations'
+title = 'Committed Listener Participation'
 draft = false
 +++
 
-{{< students "HTGAA 2026 BioClub Participation - At Milestone 2.csv" >}}
+{{< students "HTBAA 2026 BioClub Participation - Committed Listeners.csv" >}}

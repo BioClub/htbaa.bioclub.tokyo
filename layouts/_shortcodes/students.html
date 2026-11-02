@@ -5,7 +5,7 @@
         <thead>
           <tr>
             {{ range index . 0 }}
-              {{- if ne . "Link" "Activity" -}}
+              {{- if ne . "Username" "Website" "Activity" "Presentations" -}}
               <th>{{ replace . " " "&nbsp;" | safeHTML }}</th>
               {{- end -}}
             {{ end }}
@@ -17,20 +17,21 @@
               <td>
                 {{- $name := index . 0 -}}
                 {{ $s := index . 2 -}}
-                {{- $s = replace $s "https://edit.htgaa.org" "https://forum.htgaa.org/u" -}}
-                {{- $s = replace $s "?tab=activity" "/summary" -}}
-                <a href="{{ index . 1 }}">{{ replace $name " " "&nbsp;" | safeHTML }}</a>&nbsp;<a href="{{ index . 2 }}">¹</a>&nbsp;<a href="{{- $s -}}">²</a>
+                <a href="{{ index . 2 }}">{{ replace $name " " "&nbsp;" | safeHTML }}</a>&nbsp;<a href="{{ index . 3 }}">¹</a>
               </td>
               {{- range $i, $e := . }}
-              {{- if eq $i 0 1 2   -}}{{- continue -}}{{- end -}}
+              {{- if eq $i 0 1 2 3 4 -}}{{- continue -}}{{- end -}}
               {{- $highlight := "" -}}
-                {{- if eq $i 9 -}}
+                {{- if eq $i 20 -}}
                   {{- $highlight = "bold" -}}
-                  {{- if ge $e 33 -}}{{- $highlight = "bold light-yellow" -}}{{- end -}}
+                  {{- if ge $e 33 -}}{{- $highlight = "bold yellow" -}}{{- end -}}
+                  {{- if ge $e 50 -}}{{- $highlight = "bold green" -}}{{- end -}}
+                  {{- if lt $e 33 -}}{{- $highlight = "bold red" -}}{{- end -}}
+                  
                 {{- end -}}
-                {{- if eq $e "TRUE" -}}{{- $highlight = "light-yellow" -}}{{ end }}
+                {{- if eq $e "TRUE" -}}{{- $highlight = "green" -}}{{ end }}
               <td class="{{- $highlight -}}">
-              {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 9 -}}%{{- end -}}{{- end -}}
+              {{- if gt $e 0 -}}{{ math.Ceil $e }}{{- if eq $i 20 -}}%{{- end -}}{{- end -}}
               {{- if lt $e 0 -}}<strong><em>{{- math.Abs $e -}}</em></strong>{{- end -}}
               {{- if eq $e "TRUE" -}}✔︎{{ end }}
               </td>

@@ -18,7 +18,7 @@
   {{- /* Getting Data from Google Sheet */ -}}
   
   {{- $studentData := slice -}}
-  {{- $file := "HTGAA 2026 BioClub Participation - Committed Listeners.csv" -}}
+  {{- $file := "HTBAA 2026 BioClub Participation - Committed Listeners.csv" -}}
   {{- with (.Resources.Get $file) -}}
     {{- $opts := dict "targetType" "slice" -}}
     {{- $studentData = transform.Unmarshal $opts . -}}
@@ -28,7 +28,7 @@
       <thead>
         <tr>
         {{- range index . 0 -}}<!-- first line -->
-          {{- if ne . "Link" "Activity" "Total" -}}
+          {{- if ne . "Username" "Website" "Activity" "Total" -}}
           <th>{{ . }}</th>
           {{- end -}}
         {{- end }}
@@ -38,7 +38,7 @@
         {{- range . | after 1 -}}<!-- after row 1 -->
         <tr>
           <td>
-            <a href="{{ index . 1 }}">{{ index . 0 }}</a>
+            ccc<a href="{{ index . 1 }}">{{ index . 0 }}</a>
             <a href="{{ index . 2 }}">⤴︎</a>
           </td>
           {{- range . | after 4 }}<!-- after column 4 -->
