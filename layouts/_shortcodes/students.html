@@ -20,7 +20,7 @@
                 <a href="{{ index . 2 }}">{{ replace $name " " "&nbsp;" | safeHTML }}</a>&nbsp;<a href="{{ index . 3 }}">¹</a>
               </td>
               {{- range $i, $e := . }}
-              {{- if eq $i 0 1 2 3 4 -}}{{- continue -}}{{- end -}}
+              {{- if eq $i 0 1 2 3 18 -}}{{- continue -}}{{- end -}}
               {{- $highlight := "" -}}
                 {{- if eq $i 20 -}}
                   {{- $highlight = "bold" -}}
