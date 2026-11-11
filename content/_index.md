@@ -34,10 +34,10 @@ It's a great place to get started, it's recommended for students who want to tak
 
 |                             |                                   |
 | :-------------------------- | :-------------------------------- |
-| **BioClub Homework Review** | Monday, November 9th, 16:00 JST   |
-| **HTBAA 2026 Class 8**      | Tuesday, November 10th 14:30 ET   |
 | **HTBAA 2026 Recitation 8** | Thursday, November 12th, 17:00 ET |
 | **BioClub Class 8 Review**  | Friday, November 13th, 16:00 JST  |
+| **BioClub Homework Review** | Monday, November 16th, 16:00 JST  |
+| **HTBAA 2026 Class 9**      | Tuesday, November 17th 14:30 ET   |
 
 
  - _Classes & Recitations are held on the HTBAA 26 Zoom, BioClub Reviews on the [BioClub Zoom](https://zoom.bioclub.tokyo)_.
@@ -61,8 +61,8 @@ All the information, including homework assignments, recordsings, and slides wil
 | Week 4.1   | *No Class*                                                                                                                 | [Recitation 4.1](https://mit.zoom.us/rec/share/WAXVXwUZacgsHB3NbbdajJqx0z1izurznSqI9Xqgnaoz3XJgnA16M2iB5X9VlPp_.9_TOAJsLk40GQBJF)                        | [Class Review 4.1](https://vimeo.com/1236479251) | [Homework Review 4.1](https://vimeo.com/1237198929) |
 | Week 5     | [Class 5](https://mit.zoom.us/rec/share/bz_Q8wpRzXkQYdI_86ltABw4VR4ta0i9frM_o02lXzr1tFTxIXhvccVAwVGNjE0A.v5WMOE03qjN9sUmX) | [Recitation 5](https://mit.zoom.us/rec/share/asimMvE2xYVO5pBOic52d5st3XQDS7oHlwgFxyublTNjxlyQddGNzku5ymy6vUoX.GudX3qLJqcD8SI2g)                          | [Class Review 5](https://vimeo.com/1238704547)   | [Homework Review 5](https://vimeo.com/1239410325) |
 | Week 6     | [Class 6](https://mit.zoom.us/rec/share/UqAQKbTBKynJe7BjkRDGjKyEOHwjxBpgCmF3E5jfFHcb5YYVFM3Gz7PrVJnykvSz.bqgCPNYa3XsRrpAj) | [Recitation 6](https://mit.zoom.us/rec/share/-cRctT4S_UbDLPpQlx-fmPG3pCFxpBfW0_7ZqOofqq1X6u8boK8ZooiXlMUxJ8Nf.zJ5f7Oeio7c6O9ut)                          | [Class Review 6](https://vimeo.com/1241207879)   | [Homework Review 6](https://vimeo.com/1242282753) |
-| Week 7     | [Class 7](https://mit.zoom.us/rec/share/q7tDfr7OgLbEgU60RbpC3actexwmJbCyZWXnnVPYK_ZGKog12HfckuK-WDlOk2Vy.Z2cVJZnLg4vlVFUU) | [Recitation 7](https://mit.zoom.us/rec/share/39uU2S3H8T3zxZarcvLjdhNC4m6oKXp-EsBPt9siix70MODwNjuomvCnkTAtqVae.bJutMp1DMX-sLURi)                          | [Class Review 7](https://vimeo.com/1244127587)   | Homework Review 7 |
-| Week 8     | Class 8 | Recitation 8 | Class Review 8 | Homework Review 8 |
+| Week 7     | [Class 7](https://mit.zoom.us/rec/share/q7tDfr7OgLbEgU60RbpC3actexwmJbCyZWXnnVPYK_ZGKog12HfckuK-WDlOk2Vy.Z2cVJZnLg4vlVFUU) | [Recitation 7](https://mit.zoom.us/rec/share/39uU2S3H8T3zxZarcvLjdhNC4m6oKXp-EsBPt9siix70MODwNjuomvCnkTAtqVae.bJutMp1DMX-sLURi)                          | [Class Review 7](https://vimeo.com/1244127587)   | [Homework Review 7](https://vimeo.com/1245030181) |
+| Week 8     | [Class 8](https://mit.zoom.us/rec/share/ktOu9KKL4Nz6qhlfn3JHkhIpkUXyF8uMvNE_UCD-1wiofDcBrWpstOQSi-6KwVgR.S_CdWOhmxxqD4Tz2) | Recitation 8 | Class Review 8 | Homework Review 8 |
 | Week 9     | Class 9 | Recitation 9 | Class Review 9 | Homework Review 9 |
 | Week 10    | Class 10 | Recitation 10 | Class Review 10 | Homework Review 10 |
 | Week 11    | Class 11 | Recitation 11 | Class Review 11 | Homework Review 11 |
