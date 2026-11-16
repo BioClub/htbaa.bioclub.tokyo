@@ -106,7 +106,7 @@ Homework details are also linked in the [HTBAA Syllabus](https://docs.google.com
 - Class 5 (Oct 20): Digital Microfluidics & Final Project Crit #1  — Michael Chen ([Nuclera](https://www.nuclera.com))
 - Class 6 (Oct 27): LAB #2: Microfluidic Cell-Free Manufacturing
 - Class 7 (Nov 3): Measurement & Assays  — [Waters Corporation](https://www.waters.com)
-- Class 8 (Nov 10): LAB #3: Microbial Manufacturing — (Patrick Boyle ([ATCC](https://www.atcc.org)), Margaret Saha (William & Mary))
+- Class 8 (Nov 10): LAB #3: Microbial Manufacturing — Margaret Saha (William & Mary), [Homework #8](https://docs.google.com/document/d/1hAtbY4-XF9_eLhN8CuuTpbEgQIH0Jk2q6OWPx4VOAbw/edit?usp=sharing), [Slides](https://docs.google.com/presentation/d/1x_xktaqhJQFQYJirnxtEE_L8X8-F6OBy/edit?usp=sharing&ouid=115803961710596994561&rtpof=true&sd=true)
 - Class 9 (Nov 17): Genetic Circuit Design & Assembly (Ron Weiss, MIT) 
 - Class 10 (Nov 24): LAB #4: Mammalian Cell Manufacturing
 - Class 11 (Dec 1): Non-Model Organisms (Henry Lee, [Cultivarium](https://www.cultivarium.org))
